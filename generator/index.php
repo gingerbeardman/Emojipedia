@@ -69,7 +69,7 @@ $out[] = '  <d:index d:value="version" d:title="version"/>';
 $out[] = '  <h1>Version 2016-07-17</h1>';
 $out[] = '  <h2></h2>';
 $out[] = '  <p>';
-$out[] = '    <a href="https://github.com/gingerbeardman/Emojipedia%20Dictionary/">Download latest version of this dictionary</a>';
+$out[] = '    <a href="https://github.com/gingerbeardman/Emojipedia/">Download latest version of this dictionary</a>';
 $out[] = '  </p>';
 $out[] = '</d:entry>';
 $out[] = '</d:dictionary>';
