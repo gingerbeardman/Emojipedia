@@ -9,7 +9,7 @@ Mac OS X Dictionary containing Emoji and their meanings
 (5. Optional: drag the *Emojipedia* dictionary to a place of your choice in the list of dictionaries
 
 ### Status
-Number of Emoji: 1791
+Number of Emoji included: 1791
 
 Features: 
 * Emoji display
