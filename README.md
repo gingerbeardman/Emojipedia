@@ -2,33 +2,40 @@
 Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
-1. Download [the latest version of Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip)
-2. Copy `Emoji.dictionary` to `~/Library/Dictionaries` (or `/Library/Dictionaries` to install it for all Users)
+1. [Download Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip)
+2. Copy `Emoji.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
 4. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary)
 (5. Optional: drag the *Emojipedia* dictionary to a place of your choice in the list of dictionaries
 
 ### Status
-Number of Emoji: 1791  
-Features: descriptive name, hyperlinked keywords, link to read more at [Emojipedia](http://emojipedia.org)
+Number of Emoji: 1791
+
+Features: 
+* Emoji display
+* Descriptive name
+* Hyperlinked keywords
+* Link to read more at [Emojipedia](http://emojipedia.org)
 
 ---
 
 ## Screenshots
 
+Dicationary Lookup (press Cmd+Ctrl+D whilst pointing the mouse cursor at the emoji/word you want to lookup)  
+![Dictionary lookup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_lookup.png)
+
 Dictionary.app  
 ![Dictionary.app](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_app.png)
 
-Dicationary Lookup (Cmd+Ctrl+D)  
-![Dictionary lookup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_lookup.png)
-
 ### Todo
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
-* Add international versions with dictionary language toggle
+* Add international versions with language toggle
 
 ---
 
 ## Editing the dictionary
+
+The following steps are only required if you wish to modify the dictonary. Feel free to send Pull Requests for items on the todo list!
 
 ### Requirements
 
@@ -45,4 +52,5 @@ Dicationary Lookup (Cmd+Ctrl+D)
 #### References
 1. [Dictionary Services Programming Guide](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006152-CH1-SW1), Apple
 2. [Create Custom Dictionaries For Mac OSX](http://blog.nagpals.com/mac-dictionaries/), Indiver Nagpal
-3. [Emojipedia](http://emojipedia.org)
+3. [Emoji Data](http://unicode.org/emoji/charts/emoji-list.html), Unicode, Inc.
+4. [Emojipedia](http://emojipedia.org)
