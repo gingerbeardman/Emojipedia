@@ -2,7 +2,7 @@
 Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
-1. [Download Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip)
+1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emoji.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
 4. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary)
