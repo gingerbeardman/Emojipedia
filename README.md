@@ -29,13 +29,16 @@ Dictionary.app
 
 ### Todo
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
-* Add international versions with language toggle
+* Add translations
+* Add language toggle
 
 ---
 
 ## Editing the dictionary
 
-The following steps are only required if you wish to modify the dictonary. Feel free to send Pull Requests for items on the todo list!
+The following steps are only required if you wish to modify the dictonary. 
+
+Feel free to send Pull Requests for items on the todo list!
 
 ### Requirements
 
@@ -53,4 +56,4 @@ The following steps are only required if you wish to modify the dictonary. Feel 
 1. [Dictionary Services Programming Guide](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006152-CH1-SW1), Apple
 2. [Create Custom Dictionaries For Mac OSX](http://blog.nagpals.com/mac-dictionaries/), Indiver Nagpal
 3. [Emoji Data](http://unicode.org/emoji/charts/emoji-list.html), Unicode, Inc.
-4. [Emojipedia](http://emojipedia.org)
+4. [Emojipedia](http://emojipedia.org), Emojipedia Pty Ltd
