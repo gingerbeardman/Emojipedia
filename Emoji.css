@@ -1,0 +1,95 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+body {
+  font-family: -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-size: 62.5%;
+  font-size: 0.9em;
+}
+
+d|entry {
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #2971A7;
+/*  font-weight: bold;*/
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p, li {
+  line-height: 1.4rem;
+}
+
+ul {
+/*  padding: 1rem;*/
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+ul.unicode::before { 
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  font-weight: 600;
+  content: "Unicode";
+}
+
+ul.unicode {
+  display: block;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  margin-top: 2rem;
+}
+
+ul.unicode li:first-child {
+  border-top: 1px solid #ddd;
+  margin-top: 0.2rem;
+  padding-top: 1rem;
+}
+
+ul.tags::before { 
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  font-weight: 600;
+  content: "Keywords: ";
+}
+
+ul.tags {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  margin-top: 1rem;
+}
+
+ul.tags li {
+  display: inline;
+}
+
+ul.tags li:after {
+  content: ", ";
+}
+
+ul.tags li:last-child:after {
+  content: ".";
+}

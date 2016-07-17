@@ -1,0 +1,1791 @@
+1	U+1F600	😀	😀	GRINNING FACE	face, grin
+2	U+1F601	😁	😁	GRINNING FACE WITH SMILING EYES	eye, face, grin, smile
+3	U+1F602	😂	😂	FACE WITH TEARS OF JOY	face, joy, laugh, tear
+4	U+1F923	🤣	🤣	ROLLING ON THE FLOOR LAUGHING	face, floor, laugh, lol, rofl, rolling
+5	U+1F603	😃	😃	SMILING FACE WITH OPEN MOUTH	face, mouth, open, smile
+6	U+1F604	😄	😄	SMILING FACE WITH OPEN MOUTH AND SMILING EYES	eye, face, mouth, open, smile
+7	U+1F605	😅	😅	SMILING FACE WITH OPEN MOUTH AND COLD SWEAT	cold, face, open, smile, sweat
+8	U+1F606	😆	😆	SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES	face, laugh, mouth, open, satisfied, smile
+9	U+1F609	😉	😉	WINKING FACE	face, wink
+10	U+1F60A	😊	😊	SMILING FACE WITH SMILING EYES	blush, eye, face, smile
+11	U+1F60B	😋	😋	FACE SAVOURING DELICIOUS FOOD	delicious, face, savouring, smile, um, yum
+12	U+1F60E	😎	😎	SMILING FACE WITH SUNGLASSES	bright, cool, eye, eyewear, face, glasses, smile, sun, sunglasses, weather
+13	U+1F60D	😍	😍	SMILING FACE WITH HEART-SHAPED EYES	eye, face, heart, love, smile
+14	U+1F618	😘	😘	FACE THROWING A KISS	face, heart, kiss
+15	U+1F617	😗	😗	KISSING FACE	face, kiss
+16	U+1F619	😙	😙	KISSING FACE WITH SMILING EYES	eye, face, kiss, smile
+17	U+1F61A	😚	😚	KISSING FACE WITH CLOSED EYES	closed, eye, face, kiss
+18	U+263A	☺	☺	WHITE SMILING FACE ≊ smiling face	face, outlined, relaxed, smile
+19	U+1F642	🙂	🙂	SLIGHTLY SMILING FACE	face, smile
+20	U+1F917	🤗	🤗	HUGGING FACE	face, hug, hugging
+21	U+1F914	🤔	🤔	THINKING FACE	face, thinking
+22	U+1F610	😐	😐	NEUTRAL FACE	deadpan, face, neutral
+23	U+1F611	😑	😑	EXPRESSIONLESS FACE	expressionless, face, inexpressive, unexpressive
+24	U+1F636	😶	😶	FACE WITHOUT MOUTH	face, mouth, quiet, silent
+25	U+1F644	🙄	🙄	FACE WITH ROLLING EYES	eyes, face, rolling
+26	U+1F60F	😏	😏	SMIRKING FACE	face, smirk
+27	U+1F623	😣	😣	PERSEVERING FACE	face, persevere
+28	U+1F625	😥	😥	DISAPPOINTED BUT RELIEVED FACE	disappointed, face, relieved, whew
+29	U+1F62E	😮	😮	FACE WITH OPEN MOUTH	face, mouth, open, sympathy
+30	U+1F910	🤐	🤐	ZIPPER-MOUTH FACE	face, mouth, zipper
+31	U+1F62F	😯	😯	HUSHED FACE	face, hushed, stunned, surprised
+32	U+1F62A	😪	😪	SLEEPY FACE	face, sleep
+33	U+1F62B	😫	😫	TIRED FACE	face, tired
+34	U+1F634	😴	😴	SLEEPING FACE	face, sleep, zzz
+35	U+1F60C	😌	😌	RELIEVED FACE	face, relieved
+36	U+1F913	🤓	🤓	NERD FACE	face, geek, nerd
+37	U+1F61B	😛	😛	FACE WITH STUCK-OUT TONGUE	face, tongue
+38	U+1F61C	😜	😜	FACE WITH STUCK-OUT TONGUE AND WINKING EYE	eye, face, joke, tongue, wink
+39	U+1F61D	😝	😝	FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES	eye, face, horrible, taste, tongue
+40	U+1F924	🤤	🤤	DROOLING FACE	drooling, face
+41	U+1F612	😒	😒	UNAMUSED FACE	face, unamused, unhappy
+42	U+1F613	😓	😓	FACE WITH COLD SWEAT	cold, face, sweat
+43	U+1F614	😔	😔	PENSIVE FACE	dejected, face, pensive
+44	U+1F615	😕	😕	CONFUSED FACE	confused, face
+45	U+1F643	🙃	🙃	UPSIDE-DOWN FACE	face, upside-down
+46	U+1F911	🤑	🤑	MONEY-MOUTH FACE	face, money, mouth
+47	U+1F632	😲	😲	ASTONISHED FACE	astonished, face, shocked, totally
+48	U+2639	☹	☹	WHITE FROWNING FACE ≊ frowning face	face, frown
+49	U+1F641	🙁	🙁	SLIGHTLY FROWNING FACE	face, frown
+50	U+1F616	😖	😖	CONFOUNDED FACE	confounded, face
+51	U+1F61E	😞	😞	DISAPPOINTED FACE	disappointed, face
+52	U+1F61F	😟	😟	WORRIED FACE	face, worried
+53	U+1F624	😤	😤	FACE WITH LOOK OF TRIUMPH ≊ face with steam from nose	face, triumph, won
+54	U+1F622	😢	😢	CRYING FACE	cry, face, sad, tear
+55	U+1F62D	😭	😭	LOUDLY CRYING FACE	cry, face, sad, sob, tear
+56	U+1F626	😦	😦	FROWNING FACE WITH OPEN MOUTH	face, frown, mouth, open
+57	U+1F627	😧	😧	ANGUISHED FACE	anguished, face
+58	U+1F628	😨	😨	FEARFUL FACE	face, fear, fearful, scared
+59	U+1F629	😩	😩	WEARY FACE	face, tired, weary
+60	U+1F62C	😬	😬	GRIMACING FACE	face, grimace
+61	U+1F630	😰	😰	FACE WITH OPEN MOUTH AND COLD SWEAT	blue, cold, face, mouth, open, rushed, sweat
+62	U+1F631	😱	😱	FACE SCREAMING IN FEAR	face, fear, fearful, munch, scared, scream
+63	U+1F633	😳	😳	FLUSHED FACE	dazed, face, flushed
+64	U+1F635	😵	😵	DIZZY FACE	dizzy, face
+65	U+1F621	😡	😡	POUTING FACE	angry, face, mad, pouting, rage, red
+66	U+1F620	😠	😠	ANGRY FACE	angry, face, mad
+67	U+1F607	😇	😇	SMILING FACE WITH HALO	angel, face, fairy tale, fantasy, halo, innocent, smile
+68	U+1F920	🤠	🤠	FACE WITH COWBOY HAT	cowboy, cowgirl, face, hat
+69	U+1F921	🤡	🤡	CLOWN FACE	clown, face
+70	U+1F925	🤥	🤥	LYING FACE	face, lie, pinocchio
+71	U+1F637	😷	😷	FACE WITH MEDICAL MASK	cold, doctor, face, mask, medicine, sick
+72	U+1F912	🤒	🤒	FACE WITH THERMOMETER	face, ill, sick, thermometer
+73	U+1F915	🤕	🤕	FACE WITH HEAD-BANDAGE	bandage, face, hurt, injury
+74	U+1F922	🤢	🤢	NAUSEATED FACE	face, nauseated, vomit
+75	U+1F927	🤧	🤧	SNEEZING FACE	face, gesundheit, sneeze
+76	U+1F608	😈	😈	SMILING FACE WITH HORNS	face, fairy tale, fantasy, horns, smile
+77	U+1F47F	👿	👿	IMP	demon, devil, face, fairy tale, fantasy, imp
+78	U+1F479	👹	👹	JAPANESE OGRE ≊ ogre	creature, face, fairy tale, fantasy, japanese, monster, ogre
+79	U+1F47A	👺	👺	JAPANESE GOBLIN ≊ goblin	creature, face, fairy tale, fantasy, goblin, japanese, monster
+80	U+1F480	💀	💀	SKULL	body, death, face, fairy tale, monster, skull
+81	U+2620	☠	☠	SKULL AND CROSSBONES	body, crossbones, death, face, monster, skull
+82	U+1F47B	👻	👻	GHOST	creature, face, fairy tale, fantasy, ghost, monster
+83	U+1F47D	👽	👽	EXTRATERRESTRIAL ALIEN ≊ alien	alien, creature, extraterrestrial, face, fairy tale, fantasy, monster, space, ufo
+84	U+1F47E	👾	👾	ALIEN MONSTER	alien, creature, extraterrestrial, face, fairy tale, fantasy, monster, space, ufo
+85	U+1F916	🤖	🤖	ROBOT FACE	face, monster, robot
+86	U+1F4A9	💩	💩	PILE OF POO	comic, dung, face, monster, poo, poop
+87	U+1F63A	😺	😺	SMILING CAT FACE WITH OPEN MOUTH	cat, face, mouth, open, smile
+88	U+1F638	😸	😸	GRINNING CAT FACE WITH SMILING EYES	cat, eye, face, grin, smile
+89	U+1F639	😹	😹	CAT FACE WITH TEARS OF JOY	cat, face, joy, tear
+90	U+1F63B	😻	😻	SMILING CAT FACE WITH HEART-SHAPED EYES	cat, eye, face, heart, love, smile
+91	U+1F63C	😼	😼	CAT FACE WITH WRY SMILE	cat, face, ironic, smile, wry
+92	U+1F63D	😽	😽	KISSING CAT FACE WITH CLOSED EYES	cat, eye, face, kiss
+93	U+1F640	🙀	🙀	WEARY CAT FACE	cat, face, oh, surprised, weary
+94	U+1F63F	😿	😿	CRYING CAT FACE	cat, cry, face, sad, tear
+95	U+1F63E	😾	😾	POUTING CAT FACE	cat, face, pouting
+96	U+1F648	🙈	🙈	SEE-NO-EVIL MONKEY ≊ see-no-evil	evil, face, forbidden, gesture, monkey, no, not, prohibited, see
+97	U+1F649	🙉	🙉	HEAR-NO-EVIL MONKEY ≊ hear-no-evil	evil, face, forbidden, gesture, hear, monkey, no, not, prohibited
+98	U+1F64A	🙊	🙊	SPEAK-NO-EVIL MONKEY ≊ speak-no-evil	evil, face, forbidden, gesture, monkey, no, not, prohibited, speak
+99	U+1F466	👦	👦	BOY	boy
+100	U+1F466 U+1F3FB	👦🏻	👦🏻	Boy, type-1-2	
+101	U+1F466 U+1F3FC	👦🏼	👦🏼	Boy, type-3	
+102	U+1F466 U+1F3FD	👦🏽	👦🏽	Boy, type-4	
+103	U+1F466 U+1F3FE	👦🏾	👦🏾	Boy, type-5	
+104	U+1F466 U+1F3FF	👦🏿	👦🏿	Boy, type-6	
+105	U+1F467	👧	👧	GIRL	girl, maiden, virgin, virgo, zodiac
+106	U+1F467 U+1F3FB	👧🏻	👧🏻	Girl, type-1-2	
+107	U+1F467 U+1F3FC	👧🏼	👧🏼	Girl, type-3	
+108	U+1F467 U+1F3FD	👧🏽	👧🏽	Girl, type-4	
+109	U+1F467 U+1F3FE	👧🏾	👧🏾	Girl, type-5	
+110	U+1F467 U+1F3FF	👧🏿	👧🏿	Girl, type-6	
+111	U+1F468	👨	👨	MAN	man
+112	U+1F468 U+1F3FB	👨🏻	👨🏻	Man, type-1-2	
+113	U+1F468 U+1F3FC	👨🏼	👨🏼	Man, type-3	
+114	U+1F468 U+1F3FD	👨🏽	👨🏽	Man, type-4	
+115	U+1F468 U+1F3FE	👨🏾	👨🏾	Man, type-5	
+116	U+1F468 U+1F3FF	👨🏿	👨🏿	Man, type-6	
+117	U+1F469	👩	👩	WOMAN	woman
+118	U+1F469 U+1F3FB	👩🏻	👩🏻	Woman, type-1-2	
+119	U+1F469 U+1F3FC	👩🏼	👩🏼	Woman, type-3	
+120	U+1F469 U+1F3FD	👩🏽	👩🏽	Woman, type-4	
+121	U+1F469 U+1F3FE	👩🏾	👩🏾	Woman, type-5	
+122	U+1F469 U+1F3FF	👩🏿	👩🏿	Woman, type-6	
+123	U+1F474	👴	👴	OLDER MAN ≊ old man	man, old
+124	U+1F474 U+1F3FB	👴🏻	👴🏻	Older man, type-1-2	
+125	U+1F474 U+1F3FC	👴🏼	👴🏼	Older man, type-3	
+126	U+1F474 U+1F3FD	👴🏽	👴🏽	Older man, type-4	
+127	U+1F474 U+1F3FE	👴🏾	👴🏾	Older man, type-5	
+128	U+1F474 U+1F3FF	👴🏿	👴🏿	Older man, type-6	
+129	U+1F475	👵	👵	OLDER WOMAN ≊ old woman	old, woman
+130	U+1F475 U+1F3FB	👵🏻	👵🏻	Older woman, type-1-2	
+131	U+1F475 U+1F3FC	👵🏼	👵🏼	Older woman, type-3	
+132	U+1F475 U+1F3FD	👵🏽	👵🏽	Older woman, type-4	
+133	U+1F475 U+1F3FE	👵🏾	👵🏾	Older woman, type-5	
+134	U+1F475 U+1F3FF	👵🏿	👵🏿	Older woman, type-6	
+135	U+1F476	👶	👶	BABY	baby
+136	U+1F476 U+1F3FB	👶🏻	👶🏻	Baby, type-1-2	
+137	U+1F476 U+1F3FC	👶🏼	👶🏼	Baby, type-3	
+138	U+1F476 U+1F3FD	👶🏽	👶🏽	Baby, type-4	
+139	U+1F476 U+1F3FE	👶🏾	👶🏾	Baby, type-5	
+140	U+1F476 U+1F3FF	👶🏿	👶🏿	Baby, type-6	
+141	U+1F47C	👼	👼	BABY ANGEL	angel, baby, face, fairy tale, fantasy
+142	U+1F47C U+1F3FB	👼🏻	👼🏻	Baby angel, type-1-2	
+143	U+1F47C U+1F3FC	👼🏼	👼🏼	Baby angel, type-3	
+144	U+1F47C U+1F3FD	👼🏽	👼🏽	Baby angel, type-4	
+145	U+1F47C U+1F3FE	👼🏾	👼🏾	Baby angel, type-5	
+146	U+1F47C U+1F3FF	👼🏿	👼🏿	Baby angel, type-6	
+147	U+1F471	👱	👱	PERSON WITH BLOND HAIR	blond
+148	U+1F471 U+1F3FB	👱🏻	👱🏻	Person with blond hair, type-1-2	
+149	U+1F471 U+1F3FC	👱🏼	👱🏼	Person with blond hair, type-3	
+150	U+1F471 U+1F3FD	👱🏽	👱🏽	Person with blond hair, type-4	
+151	U+1F471 U+1F3FE	👱🏾	👱🏾	Person with blond hair, type-5	
+152	U+1F471 U+1F3FF	👱🏿	👱🏿	Person with blond hair, type-6	
+153	U+1F46E	👮	👮	POLICE OFFICER	cop, officer, police
+154	U+1F46E U+1F3FB	👮🏻	👮🏻	Police officer, type-1-2	
+155	U+1F46E U+1F3FC	👮🏼	👮🏼	Police officer, type-3	
+156	U+1F46E U+1F3FD	👮🏽	👮🏽	Police officer, type-4	
+157	U+1F46E U+1F3FE	👮🏾	👮🏾	Police officer, type-5	
+158	U+1F46E U+1F3FF	👮🏿	👮🏿	Police officer, type-6	
+159	U+1F472	👲	👲	MAN WITH GUA PI MAO ≊ man with chinese cap	gua pi mao, hat, man
+160	U+1F472 U+1F3FB	👲🏻	👲🏻	Man with gua pi mao, type-1-2	
+161	U+1F472 U+1F3FC	👲🏼	👲🏼	Man with gua pi mao, type-3	
+162	U+1F472 U+1F3FD	👲🏽	👲🏽	Man with gua pi mao, type-4	
+163	U+1F472 U+1F3FE	👲🏾	👲🏾	Man with gua pi mao, type-5	
+164	U+1F472 U+1F3FF	👲🏿	👲🏿	Man with gua pi mao, type-6	
+165	U+1F473	👳	👳	MAN WITH TURBAN	man, turban
+166	U+1F473 U+1F3FB	👳🏻	👳🏻	Man with turban, type-1-2	
+167	U+1F473 U+1F3FC	👳🏼	👳🏼	Man with turban, type-3	
+168	U+1F473 U+1F3FD	👳🏽	👳🏽	Man with turban, type-4	
+169	U+1F473 U+1F3FE	👳🏾	👳🏾	Man with turban, type-5	
+170	U+1F473 U+1F3FF	👳🏿	👳🏿	Man with turban, type-6	
+171	U+1F477	👷	👷	CONSTRUCTION WORKER	construction, hat, worker
+172	U+1F477 U+1F3FB	👷🏻	👷🏻	Construction worker, type-1-2	
+173	U+1F477 U+1F3FC	👷🏼	👷🏼	Construction worker, type-3	
+174	U+1F477 U+1F3FD	👷🏽	👷🏽	Construction worker, type-4	
+175	U+1F477 U+1F3FE	👷🏾	👷🏾	Construction worker, type-5	
+176	U+1F477 U+1F3FF	👷🏿	👷🏿	Construction worker, type-6	
+177	U+1F478	👸	👸	PRINCESS	fairy tale, fantasy, princess
+178	U+1F478 U+1F3FB	👸🏻	👸🏻	Princess, type-1-2	
+179	U+1F478 U+1F3FC	👸🏼	👸🏼	Princess, type-3	
+180	U+1F478 U+1F3FD	👸🏽	👸🏽	Princess, type-4	
+181	U+1F478 U+1F3FE	👸🏾	👸🏾	Princess, type-5	
+182	U+1F478 U+1F3FF	👸🏿	👸🏿	Princess, type-6	
+183	U+1F934	🤴	🤴	PRINCE	prince
+184	U+1F934 U+1F3FB	🤴🏻	🤴🏻	Prince, type-1-2	
+185	U+1F934 U+1F3FC	🤴🏼	🤴🏼	Prince, type-3	
+186	U+1F934 U+1F3FD	🤴🏽	🤴🏽	Prince, type-4	
+187	U+1F934 U+1F3FE	🤴🏾	🤴🏾	Prince, type-5	
+188	U+1F934 U+1F3FF	🤴🏿	🤴🏿	Prince, type-6	
+189	U+1F482	💂	💂	GUARDSMAN	guard, guardsman
+190	U+1F482 U+1F3FB	💂🏻	💂🏻	Guardsman, type-1-2	
+191	U+1F482 U+1F3FC	💂🏼	💂🏼	Guardsman, type-3	
+192	U+1F482 U+1F3FD	💂🏽	💂🏽	Guardsman, type-4	
+193	U+1F482 U+1F3FE	💂🏾	💂🏾	Guardsman, type-5	
+194	U+1F482 U+1F3FF	💂🏿	💂🏿	Guardsman, type-6	
+195	U+1F575	🕵	🕵	SLEUTH OR SPY ≊ detective	detective, sleuth, spy
+196	U+1F575 U+1F3FB	🕵🏻	🕵🏻	Sleuth or spy, type-1-2	
+197	U+1F575 U+1F3FC	🕵🏼	🕵🏼	Sleuth or spy, type-3	
+198	U+1F575 U+1F3FD	🕵🏽	🕵🏽	Sleuth or spy, type-4	
+199	U+1F575 U+1F3FE	🕵🏾	🕵🏾	Sleuth or spy, type-5	
+200	U+1F575 U+1F3FF	🕵🏿	🕵🏿	Sleuth or spy, type-6	
+201	U+1F385	🎅	🎅	FATHER CHRISTMAS ≊ santa claus	activity, celebration, christmas, fairy tale, fantasy, father, santa
+202	U+1F385 U+1F3FB	🎅🏻	🎅🏻	Father christmas, type-1-2	
+203	U+1F385 U+1F3FC	🎅🏼	🎅🏼	Father christmas, type-3	
+204	U+1F385 U+1F3FD	🎅🏽	🎅🏽	Father christmas, type-4	
+205	U+1F385 U+1F3FE	🎅🏾	🎅🏾	Father christmas, type-5	
+206	U+1F385 U+1F3FF	🎅🏿	🎅🏿	Father christmas, type-6	
+207	U+1F936	🤶	🤶	MOTHER CHRISTMAS	christmas, mother, mrs. claus
+208	U+1F936 U+1F3FB	🤶🏻	🤶🏻	Mother christmas, type-1-2	
+209	U+1F936 U+1F3FC	🤶🏼	🤶🏼	Mother christmas, type-3	
+210	U+1F936 U+1F3FD	🤶🏽	🤶🏽	Mother christmas, type-4	
+211	U+1F936 U+1F3FE	🤶🏾	🤶🏾	Mother christmas, type-5	
+212	U+1F936 U+1F3FF	🤶🏿	🤶🏿	Mother christmas, type-6	
+213	U+1F470	👰	👰	BRIDE WITH VEIL	bride, veil, wedding
+214	U+1F470 U+1F3FB	👰🏻	👰🏻	Bride with veil, type-1-2	
+215	U+1F470 U+1F3FC	👰🏼	👰🏼	Bride with veil, type-3	
+216	U+1F470 U+1F3FD	👰🏽	👰🏽	Bride with veil, type-4	
+217	U+1F470 U+1F3FE	👰🏾	👰🏾	Bride with veil, type-5	
+218	U+1F470 U+1F3FF	👰🏿	👰🏿	Bride with veil, type-6	
+219	U+1F935	🤵	🤵	MAN IN TUXEDO	groom, man, tuxedo
+220	U+1F935 U+1F3FB	🤵🏻	🤵🏻	Man in tuxedo, type-1-2	
+221	U+1F935 U+1F3FC	🤵🏼	🤵🏼	Man in tuxedo, type-3	
+222	U+1F935 U+1F3FD	🤵🏽	🤵🏽	Man in tuxedo, type-4	
+223	U+1F935 U+1F3FE	🤵🏾	🤵🏾	Man in tuxedo, type-5	
+224	U+1F935 U+1F3FF	🤵🏿	🤵🏿	Man in tuxedo, type-6	
+225	U+1F486	💆	💆	FACE MASSAGE	massage, salon
+226	U+1F486 U+1F3FB	💆🏻	💆🏻	Face massage, type-1-2	
+227	U+1F486 U+1F3FC	💆🏼	💆🏼	Face massage, type-3	
+228	U+1F486 U+1F3FD	💆🏽	💆🏽	Face massage, type-4	
+229	U+1F486 U+1F3FE	💆🏾	💆🏾	Face massage, type-5	
+230	U+1F486 U+1F3FF	💆🏿	💆🏿	Face massage, type-6	
+231	U+1F487	💇	💇	HAIRCUT	barber, beauty, haircut, parlor
+232	U+1F487 U+1F3FB	💇🏻	💇🏻	Haircut, type-1-2	
+233	U+1F487 U+1F3FC	💇🏼	💇🏼	Haircut, type-3	
+234	U+1F487 U+1F3FD	💇🏽	💇🏽	Haircut, type-4	
+235	U+1F487 U+1F3FE	💇🏾	💇🏾	Haircut, type-5	
+236	U+1F487 U+1F3FF	💇🏿	💇🏿	Haircut, type-6	
+237	U+1F64D	🙍	🙍	PERSON FROWNING	frown, gesture
+238	U+1F64D U+1F3FB	🙍🏻	🙍🏻	Person frowning, type-1-2	
+239	U+1F64D U+1F3FC	🙍🏼	🙍🏼	Person frowning, type-3	
+240	U+1F64D U+1F3FD	🙍🏽	🙍🏽	Person frowning, type-4	
+241	U+1F64D U+1F3FE	🙍🏾	🙍🏾	Person frowning, type-5	
+242	U+1F64D U+1F3FF	🙍🏿	🙍🏿	Person frowning, type-6	
+243	U+1F64E	🙎	🙎	PERSON WITH POUTING FACE ≊ person pouting	gesture, pouting
+244	U+1F64E U+1F3FB	🙎🏻	🙎🏻	Person with pouting face, type-1-2	
+245	U+1F64E U+1F3FC	🙎🏼	🙎🏼	Person with pouting face, type-3	
+246	U+1F64E U+1F3FD	🙎🏽	🙎🏽	Person with pouting face, type-4	
+247	U+1F64E U+1F3FE	🙎🏾	🙎🏾	Person with pouting face, type-5	
+248	U+1F64E U+1F3FF	🙎🏿	🙎🏿	Person with pouting face, type-6	
+249	U+1F645	🙅	🙅	FACE WITH NO GOOD GESTURE ≊ gesturing no	forbidden, gesture, hand, no, not, prohibited
+250	U+1F645 U+1F3FB	🙅🏻	🙅🏻	Face with no good gesture, type-1-2	
+251	U+1F645 U+1F3FC	🙅🏼	🙅🏼	Face with no good gesture, type-3	
+252	U+1F645 U+1F3FD	🙅🏽	🙅🏽	Face with no good gesture, type-4	
+253	U+1F645 U+1F3FE	🙅🏾	🙅🏾	Face with no good gesture, type-5	
+254	U+1F645 U+1F3FF	🙅🏿	🙅🏿	Face with no good gesture, type-6	
+255	U+1F646	🙆	🙆	FACE WITH OK GESTURE ≊ gesturing ok	gesture, hand, ok
+256	U+1F646 U+1F3FB	🙆🏻	🙆🏻	Face with ok gesture, type-1-2	
+257	U+1F646 U+1F3FC	🙆🏼	🙆🏼	Face with ok gesture, type-3	
+258	U+1F646 U+1F3FD	🙆🏽	🙆🏽	Face with ok gesture, type-4	
+259	U+1F646 U+1F3FE	🙆🏾	🙆🏾	Face with ok gesture, type-5	
+260	U+1F646 U+1F3FF	🙆🏿	🙆🏿	Face with ok gesture, type-6	
+261	U+1F481	💁	💁	INFORMATION DESK PERSON	hand, help, information, sassy
+262	U+1F481 U+1F3FB	💁🏻	💁🏻	Information desk person, type-1-2	
+263	U+1F481 U+1F3FC	💁🏼	💁🏼	Information desk person, type-3	
+264	U+1F481 U+1F3FD	💁🏽	💁🏽	Information desk person, type-4	
+265	U+1F481 U+1F3FE	💁🏾	💁🏾	Information desk person, type-5	
+266	U+1F481 U+1F3FF	💁🏿	💁🏿	Information desk person, type-6	
+267	U+1F937	🤷	🤷	SHRUG	doubt, ignorance, indifference, shrug
+268	U+1F937 U+1F3FB	🤷🏻	🤷🏻	Shrug, type-1-2	
+269	U+1F937 U+1F3FC	🤷🏼	🤷🏼	Shrug, type-3	
+270	U+1F937 U+1F3FD	🤷🏽	🤷🏽	Shrug, type-4	
+271	U+1F937 U+1F3FE	🤷🏾	🤷🏾	Shrug, type-5	
+272	U+1F937 U+1F3FF	🤷🏿	🤷🏿	Shrug, type-6	
+273	U+1F64B	🙋	🙋	HAPPY PERSON RAISING ONE HAND ≊ happy person raising hand	gesture, hand, happy, raised
+274	U+1F64B U+1F3FB	🙋🏻	🙋🏻	Happy person raising one hand, type-1-2	
+275	U+1F64B U+1F3FC	🙋🏼	🙋🏼	Happy person raising one hand, type-3	
+276	U+1F64B U+1F3FD	🙋🏽	🙋🏽	Happy person raising one hand, type-4	
+277	U+1F64B U+1F3FE	🙋🏾	🙋🏾	Happy person raising one hand, type-5	
+278	U+1F64B U+1F3FF	🙋🏿	🙋🏿	Happy person raising one hand, type-6	
+279	U+1F926	🤦	🤦	FACE PALM	disbelief, exasperation, face, palm
+280	U+1F926 U+1F3FB	🤦🏻	🤦🏻	Face palm, type-1-2	
+281	U+1F926 U+1F3FC	🤦🏼	🤦🏼	Face palm, type-3	
+282	U+1F926 U+1F3FD	🤦🏽	🤦🏽	Face palm, type-4	
+283	U+1F926 U+1F3FE	🤦🏾	🤦🏾	Face palm, type-5	
+284	U+1F926 U+1F3FF	🤦🏿	🤦🏿	Face palm, type-6	
+285	U+1F647	🙇	🙇	PERSON BOWING DEEPLY ≊ person bowing	apology, bow, gesture, sorry
+286	U+1F647 U+1F3FB	🙇🏻	🙇🏻	Person bowing deeply, type-1-2	
+287	U+1F647 U+1F3FC	🙇🏼	🙇🏼	Person bowing deeply, type-3	
+288	U+1F647 U+1F3FD	🙇🏽	🙇🏽	Person bowing deeply, type-4	
+289	U+1F647 U+1F3FE	🙇🏾	🙇🏾	Person bowing deeply, type-5	
+290	U+1F647 U+1F3FF	🙇🏿	🙇🏿	Person bowing deeply, type-6	
+291	U+1F6B6	🚶	🚶	PEDESTRIAN	hike, pedestrian, walk, walking
+292	U+1F6B6 U+1F3FB	🚶🏻	🚶🏻	Pedestrian, type-1-2	
+293	U+1F6B6 U+1F3FC	🚶🏼	🚶🏼	Pedestrian, type-3	
+294	U+1F6B6 U+1F3FD	🚶🏽	🚶🏽	Pedestrian, type-4	
+295	U+1F6B6 U+1F3FE	🚶🏾	🚶🏾	Pedestrian, type-5	
+296	U+1F6B6 U+1F3FF	🚶🏿	🚶🏿	Pedestrian, type-6	
+297	U+1F3C3	🏃	🏃	RUNNER	marathon, runner, running
+298	U+1F3C3 U+1F3FB	🏃🏻	🏃🏻	Runner, type-1-2	
+299	U+1F3C3 U+1F3FC	🏃🏼	🏃🏼	Runner, type-3	
+300	U+1F3C3 U+1F3FD	🏃🏽	🏃🏽	Runner, type-4	
+301	U+1F3C3 U+1F3FE	🏃🏾	🏃🏾	Runner, type-5	
+302	U+1F3C3 U+1F3FF	🏃🏿	🏃🏿	Runner, type-6	
+303	U+1F483	💃	💃	DANCER	dancer
+304	U+1F483 U+1F3FB	💃🏻	💃🏻	Dancer, type-1-2	
+305	U+1F483 U+1F3FC	💃🏼	💃🏼	Dancer, type-3	
+306	U+1F483 U+1F3FD	💃🏽	💃🏽	Dancer, type-4	
+307	U+1F483 U+1F3FE	💃🏾	💃🏾	Dancer, type-5	
+308	U+1F483 U+1F3FF	💃🏿	💃🏿	Dancer, type-6	
+309	U+1F57A	🕺	🕺	MAN DANCING	dance, man
+310	U+1F57A U+1F3FB	🕺🏻	🕺🏻	Man dancing, type-1-2	
+311	U+1F57A U+1F3FC	🕺🏼	🕺🏼	Man dancing, type-3	
+312	U+1F57A U+1F3FD	🕺🏽	🕺🏽	Man dancing, type-4	
+313	U+1F57A U+1F3FE	🕺🏾	🕺🏾	Man dancing, type-5	
+314	U+1F57A U+1F3FF	🕺🏿	🕺🏿	Man dancing, type-6	
+315	U+1F930	🤰	🤰	PREGNANT WOMAN	pregnant, woman
+316	U+1F930 U+1F3FB	🤰🏻	🤰🏻	Pregnant woman, type-1-2	
+317	U+1F930 U+1F3FC	🤰🏼	🤰🏼	Pregnant woman, type-3	
+318	U+1F930 U+1F3FD	🤰🏽	🤰🏽	Pregnant woman, type-4	
+319	U+1F930 U+1F3FE	🤰🏾	🤰🏾	Pregnant woman, type-5	
+320	U+1F930 U+1F3FF	🤰🏿	🤰🏿	Pregnant woman, type-6	
+321	U+1F46F	👯	👯	WOMAN WITH BUNNY EARS ≊ women partying	bunny, dancer, ear, girl, woman
+322	U+1F574	🕴	🕴	MAN IN BUSINESS SUIT LEVITATING	business, man, suit
+323	U+1F5E3	🗣	🗣	SPEAKING HEAD IN SILHOUETTE ≊ speaking head	face, head, silhouette, speak, speaking
+324	U+1F464	👤	👤	BUST IN SILHOUETTE	bust, silhouette
+325	U+1F465	👥	👥	BUSTS IN SILHOUETTE	bust, silhouette
+326	U+1F46B	👫	👫	MAN AND WOMAN HOLDING HANDS	couple, hand, hold, man, woman
+327	U+1F46C	👬	👬	TWO MEN HOLDING HANDS	couple, gemini, hand, hold, man, twins, zodiac
+328	U+1F46D	👭	👭	TWO WOMEN HOLDING HANDS	couple, hand, hold, woman
+329	U+1F48F	💏	💏	KISS	couple, kiss, romance
+330	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👩‍❤️‍💋‍👨	👩‍❤️‍💋‍👨	Kiss: WOMAN, MAN	kiss, man, woman
+331	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468	👨‍❤️‍💋‍👨	👨‍❤️‍💋‍👨	Kiss: MAN, MAN	kiss, man
+332	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469	👩‍❤️‍💋‍👩	👩‍❤️‍💋‍👩	Kiss: WOMAN, WOMAN	kiss, woman
+333	U+1F491	💑	💑	COUPLE WITH HEART	couple, heart, love, romance
+334	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468	👩‍❤️‍👨	👩‍❤️‍👨	Couple with heart: WOMAN, MAN	couple, man, woman
+335	U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468	👨‍❤️‍👨	👨‍❤️‍👨	Couple with heart: MAN, MAN	couple, man
+336	U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469	👩‍❤️‍👩	👩‍❤️‍👩	Couple with heart: WOMAN, WOMAN	couple, woman
+337	U+1F46A	👪	👪	FAMILY	child, family, father, mother
+338	U+1F468 U+200D U+1F469 U+200D U+1F466	👨‍👩‍👦	👨‍👩‍👦	Family: MAN, WOMAN, BOY	boy, family, man, woman
+339	U+1F468 U+200D U+1F469 U+200D U+1F467	👨‍👩‍👧	👨‍👩‍👧	Family: MAN, WOMAN, GIRL	family, girl, man, woman
+340	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👨‍👩‍👧‍👦	👨‍👩‍👧‍👦	Family: MAN, WOMAN, GIRL, BOY	boy, family, girl, man, woman
+341	U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👨‍👩‍👦‍👦	👨‍👩‍👦‍👦	Family: MAN, WOMAN, BOY, BOY	boy, family, man, woman
+342	U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👨‍👩‍👧‍👧	👨‍👩‍👧‍👧	Family: MAN, WOMAN, GIRL, GIRL	family, girl, man, woman
+343	U+1F468 U+200D U+1F468 U+200D U+1F466	👨‍👨‍👦	👨‍👨‍👦	Family: MAN, MAN, BOY	boy, family, man
+344	U+1F468 U+200D U+1F468 U+200D U+1F467	👨‍👨‍👧	👨‍👨‍👧	Family: MAN, MAN, GIRL	family, girl, man
+345	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466	👨‍👨‍👧‍👦	👨‍👨‍👧‍👦	Family: MAN, MAN, GIRL, BOY	boy, family, girl, man
+346	U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466	👨‍👨‍👦‍👦	👨‍👨‍👦‍👦	Family: MAN, MAN, BOY, BOY	boy, family, man
+347	U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467	👨‍👨‍👧‍👧	👨‍👨‍👧‍👧	Family: MAN, MAN, GIRL, GIRL	family, girl, man
+348	U+1F469 U+200D U+1F469 U+200D U+1F466	👩‍👩‍👦	👩‍👩‍👦	Family: WOMAN, WOMAN, BOY	boy, family, woman
+349	U+1F469 U+200D U+1F469 U+200D U+1F467	👩‍👩‍👧	👩‍👩‍👧	Family: WOMAN, WOMAN, GIRL	family, girl, woman
+350	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466	👩‍👩‍👧‍👦	👩‍👩‍👧‍👦	Family: WOMAN, WOMAN, GIRL, BOY	boy, family, girl, woman
+351	U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466	👩‍👩‍👦‍👦	👩‍👩‍👦‍👦	Family: WOMAN, WOMAN, BOY, BOY	boy, family, woman
+352	U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467	👩‍👩‍👧‍👧	👩‍👩‍👧‍👧	Family: WOMAN, WOMAN, GIRL, GIRL	family, girl, woman
+353	U+1F3FB	🏻	🏻	EMOJI MODIFIER FITZPATRICK TYPE-1-2 ≊ skin type-1-2	emoji modifier, fitzpatrick, skin, tone
+354	U+1F3FC	🏼	🏼	EMOJI MODIFIER FITZPATRICK TYPE-3 ≊ skin type-3	emoji modifier, fitzpatrick, skin, tone
+355	U+1F3FD	🏽	🏽	EMOJI MODIFIER FITZPATRICK TYPE-4 ≊ skin type-4	emoji modifier, fitzpatrick, skin, tone
+356	U+1F3FE	🏾	🏾	EMOJI MODIFIER FITZPATRICK TYPE-5 ≊ skin type-5	emoji modifier, fitzpatrick, skin, tone
+357	U+1F3FF	🏿	🏿	EMOJI MODIFIER FITZPATRICK TYPE-6 ≊ skin type-6	emoji modifier, fitzpatrick, skin, tone
+358	U+1F4AA	💪	💪	FLEXED BICEPS	biceps, body, comic, flex, muscle
+359	U+1F4AA U+1F3FB	💪🏻	💪🏻	Flexed biceps, type-1-2	
+360	U+1F4AA U+1F3FC	💪🏼	💪🏼	Flexed biceps, type-3	
+361	U+1F4AA U+1F3FD	💪🏽	💪🏽	Flexed biceps, type-4	
+362	U+1F4AA U+1F3FE	💪🏾	💪🏾	Flexed biceps, type-5	
+363	U+1F4AA U+1F3FF	💪🏿	💪🏿	Flexed biceps, type-6	
+364	U+1F933	🤳	🤳	SELFIE	camera, phone, selfie
+365	U+1F933 U+1F3FB	🤳🏻	🤳🏻	Selfie, type-1-2	
+366	U+1F933 U+1F3FC	🤳🏼	🤳🏼	Selfie, type-3	
+367	U+1F933 U+1F3FD	🤳🏽	🤳🏽	Selfie, type-4	
+368	U+1F933 U+1F3FE	🤳🏾	🤳🏾	Selfie, type-5	
+369	U+1F933 U+1F3FF	🤳🏿	🤳🏿	Selfie, type-6	
+370	U+1F448	👈	👈	WHITE LEFT POINTING BACKHAND INDEX ≊ backhand index pointing left	backhand, body, finger, hand, index, left, point
+371	U+1F448 U+1F3FB	👈🏻	👈🏻	White left pointing backhand index, type-1-2	
+372	U+1F448 U+1F3FC	👈🏼	👈🏼	White left pointing backhand index, type-3	
+373	U+1F448 U+1F3FD	👈🏽	👈🏽	White left pointing backhand index, type-4	
+374	U+1F448 U+1F3FE	👈🏾	👈🏾	White left pointing backhand index, type-5	
+375	U+1F448 U+1F3FF	👈🏿	👈🏿	White left pointing backhand index, type-6	
+376	U+1F449	👉	👉	WHITE RIGHT POINTING BACKHAND INDEX ≊ backhand index pointing right	backhand, body, finger, hand, index, point, right
+377	U+1F449 U+1F3FB	👉🏻	👉🏻	White right pointing backhand index, type-1-2	
+378	U+1F449 U+1F3FC	👉🏼	👉🏼	White right pointing backhand index, type-3	
+379	U+1F449 U+1F3FD	👉🏽	👉🏽	White right pointing backhand index, type-4	
+380	U+1F449 U+1F3FE	👉🏾	👉🏾	White right pointing backhand index, type-5	
+381	U+1F449 U+1F3FF	👉🏿	👉🏿	White right pointing backhand index, type-6	
+382	U+261D	☝	☝	WHITE UP POINTING INDEX ≊ index pointing up	body, finger, hand, index, point, up
+383	U+261D U+1F3FB	☝🏻	☝🏻	White up pointing index, type-1-2	
+384	U+261D U+1F3FC	☝🏼	☝🏼	White up pointing index, type-3	
+385	U+261D U+1F3FD	☝🏽	☝🏽	White up pointing index, type-4	
+386	U+261D U+1F3FE	☝🏾	☝🏾	White up pointing index, type-5	
+387	U+261D U+1F3FF	☝🏿	☝🏿	White up pointing index, type-6	
+388	U+1F446	👆	👆	WHITE UP POINTING BACKHAND INDEX ≊ backhand index pointing up	backhand, body, finger, hand, index, point, up
+389	U+1F446 U+1F3FB	👆🏻	👆🏻	White up pointing backhand index, type-1-2	
+390	U+1F446 U+1F3FC	👆🏼	👆🏼	White up pointing backhand index, type-3	
+391	U+1F446 U+1F3FD	👆🏽	👆🏽	White up pointing backhand index, type-4	
+392	U+1F446 U+1F3FE	👆🏾	👆🏾	White up pointing backhand index, type-5	
+393	U+1F446 U+1F3FF	👆🏿	👆🏿	White up pointing backhand index, type-6	
+394	U+1F595	🖕	🖕	REVERSED HAND WITH MIDDLE FINGER EXTENDED ≊ middle finger	body, finger, hand, middle finger
+395	U+1F595 U+1F3FB	🖕🏻	🖕🏻	Reversed hand with middle finger extended, type-1-2	
+396	U+1F595 U+1F3FC	🖕🏼	🖕🏼	Reversed hand with middle finger extended, type-3	
+397	U+1F595 U+1F3FD	🖕🏽	🖕🏽	Reversed hand with middle finger extended, type-4	
+398	U+1F595 U+1F3FE	🖕🏾	🖕🏾	Reversed hand with middle finger extended, type-5	
+399	U+1F595 U+1F3FF	🖕🏿	🖕🏿	Reversed hand with middle finger extended, type-6	
+400	U+1F447	👇	👇	WHITE DOWN POINTING BACKHAND INDEX ≊ backhand index pointing down	backhand, body, down, finger, hand, index, point
+401	U+1F447 U+1F3FB	👇🏻	👇🏻	White down pointing backhand index, type-1-2	
+402	U+1F447 U+1F3FC	👇🏼	👇🏼	White down pointing backhand index, type-3	
+403	U+1F447 U+1F3FD	👇🏽	👇🏽	White down pointing backhand index, type-4	
+404	U+1F447 U+1F3FE	👇🏾	👇🏾	White down pointing backhand index, type-5	
+405	U+1F447 U+1F3FF	👇🏿	👇🏿	White down pointing backhand index, type-6	
+406	U+270C	✌	✌	VICTORY HAND	body, hand, v, victory
+407	U+270C U+1F3FB	✌🏻	✌🏻	Victory hand, type-1-2	
+408	U+270C U+1F3FC	✌🏼	✌🏼	Victory hand, type-3	
+409	U+270C U+1F3FD	✌🏽	✌🏽	Victory hand, type-4	
+410	U+270C U+1F3FE	✌🏾	✌🏾	Victory hand, type-5	
+411	U+270C U+1F3FF	✌🏿	✌🏿	Victory hand, type-6	
+412	U+1F91E	🤞	🤞	HAND WITH INDEX AND MIDDLE FINGERS CROSSED	cross, finger, hand, luck
+413	U+1F91E U+1F3FB	🤞🏻	🤞🏻	Hand with index and middle fingers crossed, type-1-2	
+414	U+1F91E U+1F3FC	🤞🏼	🤞🏼	Hand with index and middle fingers crossed, type-3	
+415	U+1F91E U+1F3FD	🤞🏽	🤞🏽	Hand with index and middle fingers crossed, type-4	
+416	U+1F91E U+1F3FE	🤞🏾	🤞🏾	Hand with index and middle fingers crossed, type-5	
+417	U+1F91E U+1F3FF	🤞🏿	🤞🏿	Hand with index and middle fingers crossed, type-6	
+418	U+1F596	🖖	🖖	RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS ≊ vulcan salute	body, finger, hand, spock, vulcan
+419	U+1F596 U+1F3FB	🖖🏻	🖖🏻	Raised hand with part between middle and ring fingers, type-1-2	
+420	U+1F596 U+1F3FC	🖖🏼	🖖🏼	Raised hand with part between middle and ring fingers, type-3	
+421	U+1F596 U+1F3FD	🖖🏽	🖖🏽	Raised hand with part between middle and ring fingers, type-4	
+422	U+1F596 U+1F3FE	🖖🏾	🖖🏾	Raised hand with part between middle and ring fingers, type-5	
+423	U+1F596 U+1F3FF	🖖🏿	🖖🏿	Raised hand with part between middle and ring fingers, type-6	
+424	U+1F918	🤘	🤘	SIGN OF THE HORNS	body, finger, hand, horns, rock-on
+425	U+1F918 U+1F3FB	🤘🏻	🤘🏻	Sign of the horns, type-1-2	
+426	U+1F918 U+1F3FC	🤘🏼	🤘🏼	Sign of the horns, type-3	
+427	U+1F918 U+1F3FD	🤘🏽	🤘🏽	Sign of the horns, type-4	
+428	U+1F918 U+1F3FE	🤘🏾	🤘🏾	Sign of the horns, type-5	
+429	U+1F918 U+1F3FF	🤘🏿	🤘🏿	Sign of the horns, type-6	
+430	U+1F919	🤙	🤙	CALL ME HAND	call, hand
+431	U+1F919 U+1F3FB	🤙🏻	🤙🏻	Call me hand, type-1-2	
+432	U+1F919 U+1F3FC	🤙🏼	🤙🏼	Call me hand, type-3	
+433	U+1F919 U+1F3FD	🤙🏽	🤙🏽	Call me hand, type-4	
+434	U+1F919 U+1F3FE	🤙🏾	🤙🏾	Call me hand, type-5	
+435	U+1F919 U+1F3FF	🤙🏿	🤙🏿	Call me hand, type-6	
+436	U+1F590	🖐	🖐	RAISED HAND WITH FINGERS SPLAYED	body, finger, hand, splayed
+437	U+1F590 U+1F3FB	🖐🏻	🖐🏻	Raised hand with fingers splayed, type-1-2	
+438	U+1F590 U+1F3FC	🖐🏼	🖐🏼	Raised hand with fingers splayed, type-3	
+439	U+1F590 U+1F3FD	🖐🏽	🖐🏽	Raised hand with fingers splayed, type-4	
+440	U+1F590 U+1F3FE	🖐🏾	🖐🏾	Raised hand with fingers splayed, type-5	
+441	U+1F590 U+1F3FF	🖐🏿	🖐🏿	Raised hand with fingers splayed, type-6	
+442	U+270B	✋	✋	RAISED HAND	body, hand
+443	U+270B U+1F3FB	✋🏻	✋🏻	Raised hand, type-1-2	
+444	U+270B U+1F3FC	✋🏼	✋🏼	Raised hand, type-3	
+445	U+270B U+1F3FD	✋🏽	✋🏽	Raised hand, type-4	
+446	U+270B U+1F3FE	✋🏾	✋🏾	Raised hand, type-5	
+447	U+270B U+1F3FF	✋🏿	✋🏿	Raised hand, type-6	
+448	U+1F44C	👌	👌	OK HAND SIGN ≊ ok hand	body, hand, ok
+449	U+1F44C U+1F3FB	👌🏻	👌🏻	Ok hand sign, type-1-2	
+450	U+1F44C U+1F3FC	👌🏼	👌🏼	Ok hand sign, type-3	
+451	U+1F44C U+1F3FD	👌🏽	👌🏽	Ok hand sign, type-4	
+452	U+1F44C U+1F3FE	👌🏾	👌🏾	Ok hand sign, type-5	
+453	U+1F44C U+1F3FF	👌🏿	👌🏿	Ok hand sign, type-6	
+454	U+1F44D	👍	👍	THUMBS UP SIGN ≊ thumbs up	+1, body, hand, thumb, thumbs up, up
+455	U+1F44D U+1F3FB	👍🏻	👍🏻	Thumbs up sign, type-1-2	
+456	U+1F44D U+1F3FC	👍🏼	👍🏼	Thumbs up sign, type-3	
+457	U+1F44D U+1F3FD	👍🏽	👍🏽	Thumbs up sign, type-4	
+458	U+1F44D U+1F3FE	👍🏾	👍🏾	Thumbs up sign, type-5	
+459	U+1F44D U+1F3FF	👍🏿	👍🏿	Thumbs up sign, type-6	
+460	U+1F44E	👎	👎	THUMBS DOWN SIGN ≊ thumbs down	-1, body, down, hand, thumb, thumbs down
+461	U+1F44E U+1F3FB	👎🏻	👎🏻	Thumbs down sign, type-1-2	
+462	U+1F44E U+1F3FC	👎🏼	👎🏼	Thumbs down sign, type-3	
+463	U+1F44E U+1F3FD	👎🏽	👎🏽	Thumbs down sign, type-4	
+464	U+1F44E U+1F3FE	👎🏾	👎🏾	Thumbs down sign, type-5	
+465	U+1F44E U+1F3FF	👎🏿	👎🏿	Thumbs down sign, type-6	
+466	U+270A	✊	✊	RAISED FIST	body, clenched, fist, hand, punch
+467	U+270A U+1F3FB	✊🏻	✊🏻	Raised fist, type-1-2	
+468	U+270A U+1F3FC	✊🏼	✊🏼	Raised fist, type-3	
+469	U+270A U+1F3FD	✊🏽	✊🏽	Raised fist, type-4	
+470	U+270A U+1F3FE	✊🏾	✊🏾	Raised fist, type-5	
+471	U+270A U+1F3FF	✊🏿	✊🏿	Raised fist, type-6	
+472	U+1F44A	👊	👊	FISTED HAND SIGN ≊ oncoming fist	body, clenched, fist, hand, punch
+473	U+1F44A U+1F3FB	👊🏻	👊🏻	Fisted hand sign, type-1-2	
+474	U+1F44A U+1F3FC	👊🏼	👊🏼	Fisted hand sign, type-3	
+475	U+1F44A U+1F3FD	👊🏽	👊🏽	Fisted hand sign, type-4	
+476	U+1F44A U+1F3FE	👊🏾	👊🏾	Fisted hand sign, type-5	
+477	U+1F44A U+1F3FF	👊🏿	👊🏿	Fisted hand sign, type-6	
+478	U+1F91B	🤛	🤛	LEFT-FACING FIST	fist, leftwards
+479	U+1F91B U+1F3FB	🤛🏻	🤛🏻	Left-facing fist, type-1-2	
+480	U+1F91B U+1F3FC	🤛🏼	🤛🏼	Left-facing fist, type-3	
+481	U+1F91B U+1F3FD	🤛🏽	🤛🏽	Left-facing fist, type-4	
+482	U+1F91B U+1F3FE	🤛🏾	🤛🏾	Left-facing fist, type-5	
+483	U+1F91B U+1F3FF	🤛🏿	🤛🏿	Left-facing fist, type-6	
+484	U+1F91C	🤜	🤜	RIGHT-FACING FIST	fist, rightwards
+485	U+1F91C U+1F3FB	🤜🏻	🤜🏻	Right-facing fist, type-1-2	
+486	U+1F91C U+1F3FC	🤜🏼	🤜🏼	Right-facing fist, type-3	
+487	U+1F91C U+1F3FD	🤜🏽	🤜🏽	Right-facing fist, type-4	
+488	U+1F91C U+1F3FE	🤜🏾	🤜🏾	Right-facing fist, type-5	
+489	U+1F91C U+1F3FF	🤜🏿	🤜🏿	Right-facing fist, type-6	
+490	U+1F91A	🤚	🤚	RAISED BACK OF HAND	backhand, raised
+491	U+1F91A U+1F3FB	🤚🏻	🤚🏻	Raised back of hand, type-1-2	
+492	U+1F91A U+1F3FC	🤚🏼	🤚🏼	Raised back of hand, type-3	
+493	U+1F91A U+1F3FD	🤚🏽	🤚🏽	Raised back of hand, type-4	
+494	U+1F91A U+1F3FE	🤚🏾	🤚🏾	Raised back of hand, type-5	
+495	U+1F91A U+1F3FF	🤚🏿	🤚🏿	Raised back of hand, type-6	
+496	U+1F44B	👋	👋	WAVING HAND SIGN ≊ waving hand	body, hand, wave, waving
+497	U+1F44B U+1F3FB	👋🏻	👋🏻	Waving hand sign, type-1-2	
+498	U+1F44B U+1F3FC	👋🏼	👋🏼	Waving hand sign, type-3	
+499	U+1F44B U+1F3FD	👋🏽	👋🏽	Waving hand sign, type-4	
+500	U+1F44B U+1F3FE	👋🏾	👋🏾	Waving hand sign, type-5	
+501	U+1F44B U+1F3FF	👋🏿	👋🏿	Waving hand sign, type-6	
+502	U+1F44F	👏	👏	CLAPPING HANDS SIGN ≊ clapping hands	body, clap, hand
+503	U+1F44F U+1F3FB	👏🏻	👏🏻	Clapping hands sign, type-1-2	
+504	U+1F44F U+1F3FC	👏🏼	👏🏼	Clapping hands sign, type-3	
+505	U+1F44F U+1F3FD	👏🏽	👏🏽	Clapping hands sign, type-4	
+506	U+1F44F U+1F3FE	👏🏾	👏🏾	Clapping hands sign, type-5	
+507	U+1F44F U+1F3FF	👏🏿	👏🏿	Clapping hands sign, type-6	
+508	U+270D	✍	✍	WRITING HAND	body, hand, write
+509	U+270D U+1F3FB	✍🏻	✍🏻	Writing hand, type-1-2	
+510	U+270D U+1F3FC	✍🏼	✍🏼	Writing hand, type-3	
+511	U+270D U+1F3FD	✍🏽	✍🏽	Writing hand, type-4	
+512	U+270D U+1F3FE	✍🏾	✍🏾	Writing hand, type-5	
+513	U+270D U+1F3FF	✍🏿	✍🏿	Writing hand, type-6	
+514	U+1F450	👐	👐	OPEN HANDS SIGN ≊ open hands	body, hand, open
+515	U+1F450 U+1F3FB	👐🏻	👐🏻	Open hands sign, type-1-2	
+516	U+1F450 U+1F3FC	👐🏼	👐🏼	Open hands sign, type-3	
+517	U+1F450 U+1F3FD	👐🏽	👐🏽	Open hands sign, type-4	
+518	U+1F450 U+1F3FE	👐🏾	👐🏾	Open hands sign, type-5	
+519	U+1F450 U+1F3FF	👐🏿	👐🏿	Open hands sign, type-6	
+520	U+1F64C	🙌	🙌	PERSON RAISING BOTH HANDS IN CELEBRATION ≊ person raising hands	body, celebration, gesture, hand, hooray, raised
+521	U+1F64C U+1F3FB	🙌🏻	🙌🏻	Person raising both hands in celebration, type-1-2	
+522	U+1F64C U+1F3FC	🙌🏼	🙌🏼	Person raising both hands in celebration, type-3	
+523	U+1F64C U+1F3FD	🙌🏽	🙌🏽	Person raising both hands in celebration, type-4	
+524	U+1F64C U+1F3FE	🙌🏾	🙌🏾	Person raising both hands in celebration, type-5	
+525	U+1F64C U+1F3FF	🙌🏿	🙌🏿	Person raising both hands in celebration, type-6	
+526	U+1F64F	🙏	🙏	PERSON WITH FOLDED HANDS ≊ folded hands	ask, body, bow, folded, gesture, hand, please, pray, thanks
+527	U+1F64F U+1F3FB	🙏🏻	🙏🏻	Person with folded hands, type-1-2	
+528	U+1F64F U+1F3FC	🙏🏼	🙏🏼	Person with folded hands, type-3	
+529	U+1F64F U+1F3FD	🙏🏽	🙏🏽	Person with folded hands, type-4	
+530	U+1F64F U+1F3FE	🙏🏾	🙏🏾	Person with folded hands, type-5	
+531	U+1F64F U+1F3FF	🙏🏿	🙏🏿	Person with folded hands, type-6	
+532	U+1F91D	🤝	🤝	HANDSHAKE	agreement, hand, handshake, meeting, shake
+533	U+1F91D U+1F3FB	🤝🏻	🤝🏻	Handshake, type-1-2	
+534	U+1F91D U+1F3FC	🤝🏼	🤝🏼	Handshake, type-3	
+535	U+1F91D U+1F3FD	🤝🏽	🤝🏽	Handshake, type-4	
+536	U+1F91D U+1F3FE	🤝🏾	🤝🏾	Handshake, type-5	
+537	U+1F91D U+1F3FF	🤝🏿	🤝🏿	Handshake, type-6	
+538	U+1F485	💅	💅	NAIL POLISH	body, care, cosmetics, manicure, nail, polish
+539	U+1F485 U+1F3FB	💅🏻	💅🏻	Nail polish, type-1-2	
+540	U+1F485 U+1F3FC	💅🏼	💅🏼	Nail polish, type-3	
+541	U+1F485 U+1F3FD	💅🏽	💅🏽	Nail polish, type-4	
+542	U+1F485 U+1F3FE	💅🏾	💅🏾	Nail polish, type-5	
+543	U+1F485 U+1F3FF	💅🏿	💅🏿	Nail polish, type-6	
+544	U+1F442	👂	👂	EAR	body, ear
+545	U+1F442 U+1F3FB	👂🏻	👂🏻	Ear, type-1-2	
+546	U+1F442 U+1F3FC	👂🏼	👂🏼	Ear, type-3	
+547	U+1F442 U+1F3FD	👂🏽	👂🏽	Ear, type-4	
+548	U+1F442 U+1F3FE	👂🏾	👂🏾	Ear, type-5	
+549	U+1F442 U+1F3FF	👂🏿	👂🏿	Ear, type-6	
+550	U+1F443	👃	👃	NOSE	body, nose
+551	U+1F443 U+1F3FB	👃🏻	👃🏻	Nose, type-1-2	
+552	U+1F443 U+1F3FC	👃🏼	👃🏼	Nose, type-3	
+553	U+1F443 U+1F3FD	👃🏽	👃🏽	Nose, type-4	
+554	U+1F443 U+1F3FE	👃🏾	👃🏾	Nose, type-5	
+555	U+1F443 U+1F3FF	👃🏿	👃🏿	Nose, type-6	
+556	U+1F463	👣	👣	FOOTPRINTS	body, clothing, footprint, print
+557	U+1F440	👀	👀	EYES	body, eye, face
+558	U+1F441	👁	👁	EYE	body, eye
+559	U+1F441 U+200D U+1F5E8	👁‍🗨	👁‍🗨	EYE, LEFT SPEECH BUBBLE ≊ eye in speech bubble	bubble, eye, speech, witness
+560	U+1F445	👅	👅	TONGUE	body, tongue
+561	U+1F444	👄	👄	MOUTH	body, lips, mouth
+562	U+1F48B	💋	💋	KISS MARK	heart, kiss, lips, mark, romance
+563	U+1F498	💘	💘	HEART WITH ARROW	arrow, cupid, heart, romance
+564	U+2764	❤	❤	HEAVY BLACK HEART ≊ red heart	heart
+565	U+1F493	💓	💓	BEATING HEART	beating, heart, heartbeat, pulsating
+566	U+1F494	💔	💔	BROKEN HEART	break, broken, heart
+567	U+1F495	💕	💕	TWO HEARTS	heart, love
+568	U+1F496	💖	💖	SPARKLING HEART	excited, heart, sparkle
+569	U+1F497	💗	💗	GROWING HEART	excited, growing, heart, heartpulse, nervous
+570	U+1F499	💙	💙	BLUE HEART	blue, heart
+571	U+1F49A	💚	💚	GREEN HEART	green, heart
+572	U+1F49B	💛	💛	YELLOW HEART	heart, yellow
+573	U+1F49C	💜	💜	PURPLE HEART	heart, purple
+574	U+1F5A4	🖤	🖤	BLACK HEART	black, evil, heart, wicked
+575	U+1F49D	💝	💝	HEART WITH RIBBON	heart, ribbon, valentine
+576	U+1F49E	💞	💞	REVOLVING HEARTS	heart, revolving
+577	U+1F49F	💟	💟	HEART DECORATION	heart
+578	U+2763	❣	❣	HEAVY HEART EXCLAMATION MARK ORNAMENT	exclamation, heart, mark, punctuation
+579	U+1F48C	💌	💌	LOVE LETTER	heart, letter, love, mail, romance
+580	U+1F4A4	💤	💤	SLEEPING SYMBOL ≊ zzz	comic, sleep, zzz
+581	U+1F4A2	💢	💢	ANGER SYMBOL	angry, comic, mad
+582	U+1F4A3	💣	💣	BOMB	bomb, comic
+583	U+1F4A5	💥	💥	COLLISION SYMBOL ≊ collision	boom, collision, comic
+584	U+1F4A6	💦	💦	SPLASHING SWEAT SYMBOL ≊ sweat droplets	comic, splashing, sweat
+585	U+1F4A8	💨	💨	DASH SYMBOL ≊ dashing	comic, dash, running
+586	U+1F4AB	💫	💫	DIZZY SYMBOL ≊ dizzy	comic, dizzy, star
+587	U+1F4AC	💬	💬	SPEECH BALLOON	balloon, bubble, comic, dialog, speech
+588	U+1F5E8	🗨	🗨	LEFT SPEECH BUBBLE	dialog, speech
+589	U+1F5EF	🗯	🗯	RIGHT ANGER BUBBLE	angry, balloon, bubble, mad
+590	U+1F4AD	💭	💭	THOUGHT BALLOON	balloon, bubble, comic, thought
+591	U+1F573	🕳	🕳	HOLE	hole
+592	U+1F453	👓	👓	EYEGLASSES ≊ glasses	clothing, eye, eyeglasses, eyewear, glasses
+593	U+1F576	🕶	🕶	DARK SUNGLASSES ≊ sunglasses	dark, eye, eyewear, glasses, sunglasses
+594	U+1F454	👔	👔	NECKTIE	clothing, necktie
+595	U+1F455	👕	👕	T-SHIRT	clothing, shirt, tshirt
+596	U+1F456	👖	👖	JEANS	clothing, jeans, pants, trousers
+597	U+1F457	👗	👗	DRESS	clothing, dress
+598	U+1F458	👘	👘	KIMONO	clothing, kimono
+599	U+1F459	👙	👙	BIKINI	bikini, clothing, swim
+600	U+1F45A	👚	👚	WOMANS CLOTHES ≊ woman’s clothes	clothing, woman
+601	U+1F45B	👛	👛	PURSE	clothing, coin, purse
+602	U+1F45C	👜	👜	HANDBAG	bag, clothing, handbag
+603	U+1F45D	👝	👝	POUCH	bag, clothing, pouch
+604	U+1F6CD	🛍	🛍	SHOPPING BAGS	bag, hotel, shopping
+605	U+1F392	🎒	🎒	SCHOOL SATCHEL ≊ school backpack	activity, bag, satchel, school
+606	U+1F45E	👞	👞	MANS SHOE ≊ man’s shoe	clothing, man, shoe
+607	U+1F45F	👟	👟	ATHLETIC SHOE ≊ running shoe	athletic, clothing, shoe, sneaker
+608	U+1F460	👠	👠	HIGH-HEELED SHOE	clothing, heel, shoe, woman
+609	U+1F461	👡	👡	WOMANS SANDAL ≊ woman’s sandal	clothing, sandal, shoe, woman
+610	U+1F462	👢	👢	WOMANS BOOTS ≊ woman’s boot	boot, clothing, shoe, woman
+611	U+1F451	👑	👑	CROWN	clothing, crown, king, queen
+612	U+1F452	👒	👒	WOMANS HAT ≊ woman’s hat	clothing, hat, woman
+613	U+1F3A9	🎩	🎩	TOP HAT	activity, clothing, entertainment, hat, top, tophat
+614	U+1F393	🎓	🎓	GRADUATION CAP	activity, cap, celebration, clothing, graduation, hat
+615	U+26D1	⛑	⛑	HELMET WITH WHITE CROSS	aid, cross, face, hat, helmet
+616	U+1F4FF	📿	📿	PRAYER BEADS	beads, clothing, necklace, prayer, religion
+617	U+1F484	💄	💄	LIPSTICK	cosmetics, lipstick, makeup
+618	U+1F48D	💍	💍	RING	diamond, ring, romance
+619	U+1F48E	💎	💎	GEM STONE	diamond, gem, jewel, romance
+620	U+1F435	🐵	🐵	MONKEY FACE	face, monkey
+621	U+1F412	🐒	🐒	MONKEY	monkey
+622	U+1F98D	🦍	🦍	GORILLA	gorilla
+623	U+1F436	🐶	🐶	DOG FACE	dog, face, pet
+624	U+1F415	🐕	🐕	DOG	dog, pet
+625	U+1F429	🐩	🐩	POODLE	dog, poodle
+626	U+1F43A	🐺	🐺	WOLF FACE	face, wolf
+627	U+1F98A	🦊	🦊	FOX FACE	face, fox
+628	U+1F431	🐱	🐱	CAT FACE	cat, face, pet
+629	U+1F408	🐈	🐈	CAT	cat, pet
+630	U+1F981	🦁	🦁	LION FACE	face, leo, lion, zodiac
+631	U+1F42F	🐯	🐯	TIGER FACE	face, tiger
+632	U+1F405	🐅	🐅	TIGER	tiger
+633	U+1F406	🐆	🐆	LEOPARD	leopard
+634	U+1F434	🐴	🐴	HORSE FACE	face, horse
+635	U+1F40E	🐎	🐎	HORSE	horse, racehorse, racing
+636	U+1F98C	🦌	🦌	DEER	deer
+637	U+1F984	🦄	🦄	UNICORN FACE	face, unicorn
+638	U+1F42E	🐮	🐮	COW FACE	cow, face
+639	U+1F402	🐂	🐂	OX	bull, ox, taurus, zodiac
+640	U+1F403	🐃	🐃	WATER BUFFALO	buffalo, water
+641	U+1F404	🐄	🐄	COW	cow
+642	U+1F437	🐷	🐷	PIG FACE	face, pig
+643	U+1F416	🐖	🐖	PIG	pig, sow
+644	U+1F417	🐗	🐗	BOAR	boar, pig
+645	U+1F43D	🐽	🐽	PIG NOSE	face, nose, pig
+646	U+1F40F	🐏	🐏	RAM	aries, ram, sheep, zodiac
+647	U+1F411	🐑	🐑	SHEEP	ewe, sheep
+648	U+1F410	🐐	🐐	GOAT	capricorn, goat, zodiac
+649	U+1F42A	🐪	🐪	DROMEDARY CAMEL ≊ camel	camel, dromedary, hump
+650	U+1F42B	🐫	🐫	BACTRIAN CAMEL ≊ two-hump camel	bactrian, camel, hump
+651	U+1F418	🐘	🐘	ELEPHANT	elephant
+652	U+1F98F	🦏	🦏	RHINOCEROS	rhinoceros
+653	U+1F42D	🐭	🐭	MOUSE FACE	face, mouse
+654	U+1F401	🐁	🐁	MOUSE	mouse
+655	U+1F400	🐀	🐀	RAT	rat
+656	U+1F439	🐹	🐹	HAMSTER FACE	face, hamster, pet
+657	U+1F430	🐰	🐰	RABBIT FACE	bunny, face, pet, rabbit
+658	U+1F407	🐇	🐇	RABBIT	bunny, pet, rabbit
+659	U+1F43F	🐿	🐿	CHIPMUNK	chipmunk
+660	U+1F987	🦇	🦇	BAT	bat, vampire
+661	U+1F43B	🐻	🐻	BEAR FACE	bear, face
+662	U+1F428	🐨	🐨	KOALA	bear, koala
+663	U+1F43C	🐼	🐼	PANDA FACE	face, panda
+664	U+1F43E	🐾	🐾	PAW PRINTS	feet, paw, print
+665	U+1F983	🦃	🦃	TURKEY	turkey
+666	U+1F414	🐔	🐔	CHICKEN	chicken
+667	U+1F413	🐓	🐓	ROOSTER	rooster
+668	U+1F423	🐣	🐣	HATCHING CHICK	baby, chick, hatching
+669	U+1F424	🐤	🐤	BABY CHICK	baby, chick
+670	U+1F425	🐥	🐥	FRONT-FACING BABY CHICK	baby, chick
+671	U+1F426	🐦	🐦	BIRD	bird
+672	U+1F427	🐧	🐧	PENGUIN	penguin
+673	U+1F54A	🕊	🕊	DOVE OF PEACE ≊ dove	bird, dove, fly, peace
+674	U+1F985	🦅	🦅	EAGLE	bird, eagle
+675	U+1F986	🦆	🦆	DUCK	bird, duck
+676	U+1F989	🦉	🦉	OWL	bird, owl, wise
+677	U+1F438	🐸	🐸	FROG FACE	face, frog
+678	U+1F40A	🐊	🐊	CROCODILE	crocodile
+679	U+1F422	🐢	🐢	TURTLE	turtle
+680	U+1F98E	🦎	🦎	LIZARD	lizard, reptile
+681	U+1F40D	🐍	🐍	SNAKE	bearer, ophiuchus, serpent, snake, zodiac
+682	U+1F432	🐲	🐲	DRAGON FACE	dragon, face, fairy tale
+683	U+1F409	🐉	🐉	DRAGON	dragon, fairy tale
+684	U+1F433	🐳	🐳	SPOUTING WHALE	face, spouting, whale
+685	U+1F40B	🐋	🐋	WHALE	whale
+686	U+1F42C	🐬	🐬	DOLPHIN	dolphin, flipper
+687	U+1F41F	🐟	🐟	FISH	fish, pisces, zodiac
+688	U+1F420	🐠	🐠	TROPICAL FISH	fish, tropical
+689	U+1F421	🐡	🐡	BLOWFISH	blowfish, fish
+690	U+1F988	🦈	🦈	SHARK	fish, shark
+691	U+1F419	🐙	🐙	OCTOPUS	octopus
+692	U+1F41A	🐚	🐚	SPIRAL SHELL	shell, spiral
+693	U+1F980	🦀	🦀	CRAB	cancer, crab, zodiac
+694	U+1F990	🦐	🦐	SHRIMP	shellfish, shrimp, small
+695	U+1F991	🦑	🦑	SQUID	molusc, squid
+696	U+1F98B	🦋	🦋	BUTTERFLY	butterfly, insect, pretty
+697	U+1F40C	🐌	🐌	SNAIL	snail
+698	U+1F41B	🐛	🐛	BUG	bug, insect
+699	U+1F41C	🐜	🐜	ANT	ant, insect
+700	U+1F41D	🐝	🐝	HONEYBEE	bee, honeybee, insect
+701	U+1F41E	🐞	🐞	LADY BEETLE	beetle, insect, lady beetle, ladybird, ladybug
+702	U+1F577	🕷	🕷	SPIDER	insect, spider
+703	U+1F578	🕸	🕸	SPIDER WEB	spider, web
+704	U+1F982	🦂	🦂	SCORPION	scorpio, scorpion, scorpius, zodiac
+705	U+1F490	💐	💐	BOUQUET	bouquet, flower, plant, romance
+706	U+1F338	🌸	🌸	CHERRY BLOSSOM	blossom, cherry, flower, plant
+707	U+1F4AE	💮	💮	WHITE FLOWER	flower
+708	U+1F3F5	🏵	🏵	ROSETTE	plant, rosette
+709	U+1F339	🌹	🌹	ROSE	flower, plant, rose
+710	U+1F940	🥀	🥀	WILTED FLOWER	flower, wilted
+711	U+1F33A	🌺	🌺	HIBISCUS	flower, hibiscus, plant
+712	U+1F33B	🌻	🌻	SUNFLOWER	flower, plant, sun, sunflower
+713	U+1F33C	🌼	🌼	BLOSSOM	blossom, flower, plant
+714	U+1F337	🌷	🌷	TULIP	flower, plant, tulip
+715	U+1F331	🌱	🌱	SEEDLING	plant, seedling, young
+716	U+1F332	🌲	🌲	EVERGREEN TREE ≊ evergreen	evergreen, plant, tree
+717	U+1F333	🌳	🌳	DECIDUOUS TREE	deciduous, plant, shedding, tree
+718	U+1F334	🌴	🌴	PALM TREE	palm, plant, tree
+719	U+1F335	🌵	🌵	CACTUS	cactus, plant
+720	U+1F33E	🌾	🌾	EAR OF RICE ≊ sheaf of rice	ear, plant, rice
+721	U+1F33F	🌿	🌿	HERB	herb, leaf, plant
+722	U+2618	☘	☘	SHAMROCK	plant, shamrock
+723	U+1F340	🍀	🍀	FOUR LEAF CLOVER	4, clover, four, leaf, plant
+724	U+1F341	🍁	🍁	MAPLE LEAF	falling, leaf, maple, plant
+725	U+1F342	🍂	🍂	FALLEN LEAF	falling, leaf, plant
+726	U+1F343	🍃	🍃	LEAF FLUTTERING IN WIND	blow, flutter, leaf, plant, wind
+727	U+1F347	🍇	🍇	GRAPES	fruit, grape, plant
+728	U+1F348	🍈	🍈	MELON	fruit, melon, plant
+729	U+1F349	🍉	🍉	WATERMELON	fruit, plant, watermelon
+730	U+1F34A	🍊	🍊	TANGERINE	fruit, orange, plant, tangerine
+731	U+1F34B	🍋	🍋	LEMON	citrus, fruit, lemon, plant
+732	U+1F34C	🍌	🍌	BANANA	banana, fruit, plant
+733	U+1F34D	🍍	🍍	PINEAPPLE	fruit, pineapple, plant
+734	U+1F34E	🍎	🍎	RED APPLE	apple, fruit, plant, red
+735	U+1F34F	🍏	🍏	GREEN APPLE	apple, fruit, green, plant
+736	U+1F350	🍐	🍐	PEAR	fruit, pear, plant
+737	U+1F351	🍑	🍑	PEACH	fruit, peach, plant
+738	U+1F352	🍒	🍒	CHERRIES	cherry, fruit, plant
+739	U+1F353	🍓	🍓	STRAWBERRY	berry, fruit, plant, strawberry
+740	U+1F345	🍅	🍅	TOMATO	plant, tomato, vegetable
+741	U+1F95D	🥝	🥝	KIWIFRUIT	fruit, kiwi
+742	U+1F951	🥑	🥑	AVOCADO	avocado, fruit
+743	U+1F346	🍆	🍆	AUBERGINE ≊ eggplant	aubergine, eggplant, plant, vegetable
+744	U+1F954	🥔	🥔	POTATO	potato, vegetable
+745	U+1F955	🥕	🥕	CARROT	carrot, vegetable
+746	U+1F33D	🌽	🌽	EAR OF MAIZE ≊ ear of corn	corn, ear, maize, maze, plant
+747	U+1F336	🌶	🌶	HOT PEPPER	hot, pepper, plant
+748	U+1F952	🥒	🥒	CUCUMBER	cucumber, pickle, vegetable
+749	U+1F344	🍄	🍄	MUSHROOM	mushroom, plant
+750	U+1F95C	🥜	🥜	PEANUTS	nut, peanut, vegetable
+751	U+1F330	🌰	🌰	CHESTNUT	chestnut, plant
+752	U+1F35E	🍞	🍞	BREAD	bread, loaf
+753	U+1F950	🥐	🥐	CROISSANT	bread, crescent roll, croissant, french
+754	U+1F956	🥖	🥖	BAGUETTE BREAD	baguette, bread, french
+755	U+1F95E	🥞	🥞	PANCAKES	crêpe, hotcake, pancake
+756	U+1F9C0	🧀	🧀	CHEESE WEDGE	cheese
+757	U+1F356	🍖	🍖	MEAT ON BONE	bone, meat
+758	U+1F357	🍗	🍗	POULTRY LEG	bone, chicken, leg, poultry
+759	U+1F953	🥓	🥓	BACON	bacon, meat
+760	U+1F354	🍔	🍔	HAMBURGER	burger, hamburger
+761	U+1F35F	🍟	🍟	FRENCH FRIES	french, fries
+762	U+1F355	🍕	🍕	SLICE OF PIZZA ≊ pizza	cheese, pizza, slice
+763	U+1F32D	🌭	🌭	HOT DOG	frankfurter, hot dog, hotdog, sausage
+764	U+1F32E	🌮	🌮	TACO	mexican, taco
+765	U+1F32F	🌯	🌯	BURRITO	burrito, mexican
+766	U+1F959	🥙	🥙	STUFFED FLATBREAD	falafel, flatbread, gyro, kebab, stuffed
+767	U+1F95A	🥚	🥚	EGG	egg
+768	U+1F373	🍳	🍳	COOKING	cooking, egg, frying, pan
+769	U+1F958	🥘	🥘	SHALLOW PAN OF FOOD	casserole, paella, pan, shallow
+770	U+1F372	🍲	🍲	POT OF FOOD	pot, stew
+771	U+1F957	🥗	🥗	GREEN SALAD	green, salad
+772	U+1F37F	🍿	🍿	POPCORN	popcorn
+773	U+1F371	🍱	🍱	BENTO BOX	bento, box
+774	U+1F358	🍘	🍘	RICE CRACKER	cracker, rice
+775	U+1F359	🍙	🍙	RICE BALL	ball, japanese, rice
+776	U+1F35A	🍚	🍚	COOKED RICE	cooked, rice
+777	U+1F35B	🍛	🍛	CURRY AND RICE ≊ curry rice	curry, rice
+778	U+1F35C	🍜	🍜	STEAMING BOWL	bowl, noodle, ramen, steaming
+779	U+1F35D	🍝	🍝	SPAGHETTI	pasta, spaghetti
+780	U+1F360	🍠	🍠	ROASTED SWEET POTATO	potato, roasted, sweet
+781	U+1F362	🍢	🍢	ODEN	kebab, oden, seafood, skewer, stick
+782	U+1F363	🍣	🍣	SUSHI	sushi
+783	U+1F364	🍤	🍤	FRIED SHRIMP	fried, prawn, shrimp, tempura
+784	U+1F365	🍥	🍥	FISH CAKE WITH SWIRL DESIGN ≊ fish cake with swirl	cake, fish, pastry, swirl
+785	U+1F361	🍡	🍡	DANGO	dango, dessert, japanese, skewer, stick, sweet
+786	U+1F366	🍦	🍦	SOFT ICE CREAM	cream, dessert, ice, icecream, soft, sweet
+787	U+1F367	🍧	🍧	SHAVED ICE	dessert, ice, shaved, sweet
+788	U+1F368	🍨	🍨	ICE CREAM	cream, dessert, ice, sweet
+789	U+1F369	🍩	🍩	DOUGHNUT	dessert, donut, doughnut, sweet
+790	U+1F36A	🍪	🍪	COOKIE	cookie, dessert, sweet
+791	U+1F382	🎂	🎂	BIRTHDAY CAKE	birthday, cake, celebration, dessert, pastry, sweet
+792	U+1F370	🍰	🍰	SHORTCAKE	cake, dessert, pastry, shortcake, slice, sweet
+793	U+1F36B	🍫	🍫	CHOCOLATE BAR	bar, chocolate, dessert, sweet
+794	U+1F36C	🍬	🍬	CANDY	candy, dessert, sweet
+795	U+1F36D	🍭	🍭	LOLLIPOP	candy, dessert, lollipop, sweet
+796	U+1F36E	🍮	🍮	CUSTARD	custard, dessert, pudding, sweet
+797	U+1F36F	🍯	🍯	HONEY POT	honey, honeypot, pot, sweet
+798	U+1F37C	🍼	🍼	BABY BOTTLE	baby, bottle, drink, milk
+799	U+1F95B	🥛	🥛	GLASS OF MILK	drink, glass, milk
+800	U+2615	☕	☕	HOT BEVERAGE	beverage, coffee, drink, hot, steaming, tea
+801	U+1F375	🍵	🍵	TEACUP WITHOUT HANDLE	beverage, cup, drink, tea, teacup
+802	U+1F376	🍶	🍶	SAKE BOTTLE AND CUP ≊ sake	bar, beverage, bottle, cup, drink, sake
+803	U+1F37E	🍾	🍾	BOTTLE WITH POPPING CORK	bar, bottle, cork, drink, popping
+804	U+1F377	🍷	🍷	WINE GLASS	bar, beverage, drink, glass, wine
+805	U+1F378	🍸	🍸	COCKTAIL GLASS	bar, cocktail, drink, glass
+806	U+1F379	🍹	🍹	TROPICAL DRINK	bar, drink, tropical
+807	U+1F37A	🍺	🍺	BEER MUG	bar, beer, drink, mug
+808	U+1F37B	🍻	🍻	CLINKING BEER MUGS	bar, beer, clink, drink, mug
+809	U+1F942	🥂	🥂	CLINKING GLASSES	celebrate, clink, drink, glass
+810	U+1F943	🥃	🥃	TUMBLER GLASS	glass, liquor, shot, tumbler, whisky
+811	U+1F37D	🍽	🍽	FORK AND KNIFE WITH PLATE	cooking, fork, knife, plate
+812	U+1F374	🍴	🍴	FORK AND KNIFE	cooking, fork, knife
+813	U+1F944	🥄	🥄	SPOON	spoon, tableware
+814	U+1F52A	🔪	🔪	HOCHO ≊ kitchen knife	cooking, hocho, knife, tool, weapon
+815	U+1F3FA	🏺	🏺	AMPHORA	amphora, aquarius, cooking, drink, jug, tool, weapon, zodiac
+816	U+1F30D	🌍	🌍	EARTH GLOBE EUROPE-AFRICA ≊ globe showing europe-africa	africa, earth, europe, globe, world
+817	U+1F30E	🌎	🌎	EARTH GLOBE AMERICAS ≊ globe showing americas	americas, earth, globe, world
+818	U+1F30F	🌏	🌏	EARTH GLOBE ASIA-AUSTRALIA ≊ globe showing asia-australia	asia, australia, earth, globe, world
+819	U+1F310	🌐	🌐	GLOBE WITH MERIDIANS	earth, globe, meridians, world
+820	U+1F5FA	🗺	🗺	WORLD MAP	map, world
+821	U+1F5FE	🗾	🗾	SILHOUETTE OF JAPAN ≊ map of japan	japan, map
+822	U+1F3D4	🏔	🏔	SNOW CAPPED MOUNTAIN ≊ snow-capped mountain	cold, mountain, snow
+823	U+26F0	⛰	⛰	MOUNTAIN	mountain
+824	U+1F30B	🌋	🌋	VOLCANO	eruption, mountain, volcano, weather
+825	U+1F5FB	🗻	🗻	MOUNT FUJI	fuji, mountain
+826	U+1F3D5	🏕	🏕	CAMPING	camping, tent
+827	U+1F3D6	🏖	🏖	BEACH WITH UMBRELLA	beach, umbrella
+828	U+1F3DC	🏜	🏜	DESERT	desert
+829	U+1F3DD	🏝	🏝	DESERT ISLAND	desert, island
+830	U+1F3DE	🏞	🏞	NATIONAL PARK	national park, park
+831	U+1F3DF	🏟	🏟	STADIUM	stadium
+832	U+1F3DB	🏛	🏛	CLASSICAL BUILDING	building, classical
+833	U+1F3D7	🏗	🏗	BUILDING CONSTRUCTION	building, construction
+834	U+1F3D8	🏘	🏘	HOUSE BUILDINGS	building, house
+835	U+1F3D9	🏙	🏙	CITYSCAPE	building, city
+836	U+1F3DA	🏚	🏚	DERELICT HOUSE BUILDING	building, derelict, house
+837	U+1F3E0	🏠	🏠	HOUSE BUILDING	building, home, house
+838	U+1F3E1	🏡	🏡	HOUSE WITH GARDEN	building, garden, home, house
+839	U+1F3E2	🏢	🏢	OFFICE BUILDING	building
+840	U+1F3E3	🏣	🏣	JAPANESE POST OFFICE	building, japanese, post
+841	U+1F3E4	🏤	🏤	EUROPEAN POST OFFICE ≊ post office	building, european, post
+842	U+1F3E5	🏥	🏥	HOSPITAL	building, doctor, hospital, medicine
+843	U+1F3E6	🏦	🏦	BANK	bank, building
+844	U+1F3E8	🏨	🏨	HOTEL	building, hotel
+845	U+1F3E9	🏩	🏩	LOVE HOTEL	building, hotel, love
+846	U+1F3EA	🏪	🏪	CONVENIENCE STORE	building, convenience, store
+847	U+1F3EB	🏫	🏫	SCHOOL	building, school
+848	U+1F3EC	🏬	🏬	DEPARTMENT STORE	building, department, store
+849	U+1F3ED	🏭	🏭	FACTORY	building, factory
+850	U+1F3EF	🏯	🏯	JAPANESE CASTLE	building, castle, japanese
+851	U+1F3F0	🏰	🏰	EUROPEAN CASTLE ≊ castle	building, castle, european
+852	U+1F492	💒	💒	WEDDING	activity, chapel, romance, wedding
+853	U+1F5FC	🗼	🗼	TOKYO TOWER	tokyo, tower
+854	U+1F5FD	🗽	🗽	STATUE OF LIBERTY	liberty, statue
+855	U+26EA	⛪	⛪	CHURCH	building, christian, church, cross, religion
+856	U+1F54C	🕌	🕌	MOSQUE	islam, mosque, muslim, religion
+857	U+1F54D	🕍	🕍	SYNAGOGUE	jew, jewish, religion, synagogue, temple
+858	U+26E9	⛩	⛩	SHINTO SHRINE	religion, shinto, shrine
+859	U+1F54B	🕋	🕋	KAABA	islam, kaaba, muslim, religion
+860	U+26F2	⛲	⛲	FOUNTAIN	fountain
+861	U+26FA	⛺	⛺	TENT	camping, tent
+862	U+1F301	🌁	🌁	FOGGY	fog, weather
+863	U+1F303	🌃	🌃	NIGHT WITH STARS	night, star, weather
+864	U+1F304	🌄	🌄	SUNRISE OVER MOUNTAINS	morning, mountain, sun, sunrise, weather
+865	U+1F305	🌅	🌅	SUNRISE	morning, sun, sunrise, weather
+866	U+1F306	🌆	🌆	CITYSCAPE AT DUSK	building, city, dusk, evening, landscape, sun, sunset, weather
+867	U+1F307	🌇	🌇	SUNSET OVER BUILDINGS ≊ sunset	building, dusk, sun, sunset, weather
+868	U+1F309	🌉	🌉	BRIDGE AT NIGHT	bridge, night, weather
+869	U+2668	♨	♨	HOT SPRINGS	hot, hotsprings, springs, steaming
+870	U+1F30C	🌌	🌌	MILKY WAY	milky way, space, weather
+871	U+1F3A0	🎠	🎠	CAROUSEL HORSE	activity, carousel, entertainment, horse
+872	U+1F3A1	🎡	🎡	FERRIS WHEEL	activity, amusement park, entertainment, ferris, wheel
+873	U+1F3A2	🎢	🎢	ROLLER COASTER	activity, amusement park, coaster, entertainment, roller
+874	U+1F488	💈	💈	BARBER POLE	barber, haircut, pole
+875	U+1F3AA	🎪	🎪	CIRCUS TENT	activity, circus, entertainment, tent
+876	U+1F3AD	🎭	🎭	PERFORMING ARTS	activity, art, entertainment, mask, performing, theater, theatre
+877	U+1F5BC	🖼	🖼	FRAME WITH PICTURE	art, frame, museum, painting, picture
+878	U+1F3A8	🎨	🎨	ARTIST PALETTE	activity, art, entertainment, museum, painting, palette
+879	U+1F3B0	🎰	🎰	SLOT MACHINE	activity, game, slot
+880	U+1F682	🚂	🚂	STEAM LOCOMOTIVE ≊ locomotive	engine, locomotive, railway, steam, train, vehicle
+881	U+1F683	🚃	🚃	RAILWAY CAR	car, electric, railway, train, tram, trolleybus, vehicle
+882	U+1F684	🚄	🚄	HIGH-SPEED TRAIN	railway, shinkansen, speed, train, vehicle
+883	U+1F685	🚅	🚅	HIGH-SPEED TRAIN WITH BULLET NOSE	bullet, railway, shinkansen, speed, train, vehicle
+884	U+1F686	🚆	🚆	TRAIN	railway, train, vehicle
+885	U+1F687	🚇	🚇	METRO	metro, subway, vehicle
+886	U+1F688	🚈	🚈	LIGHT RAIL	railway, vehicle
+887	U+1F689	🚉	🚉	STATION	railway, station, train, vehicle
+888	U+1F68A	🚊	🚊	TRAM	tram, trolleybus, vehicle
+889	U+1F69D	🚝	🚝	MONORAIL	monorail, vehicle
+890	U+1F69E	🚞	🚞	MOUNTAIN RAILWAY	car, mountain, railway, vehicle
+891	U+1F68B	🚋	🚋	TRAM CAR	car, tram, trolleybus, vehicle
+892	U+1F68C	🚌	🚌	BUS	bus, vehicle
+893	U+1F68D	🚍	🚍	ONCOMING BUS	bus, oncoming, vehicle
+894	U+1F68E	🚎	🚎	TROLLEYBUS	bus, tram, trolley, trolleybus, vehicle
+895	U+1F68F	🚏	🚏	BUS STOP	bus, busstop, stop
+896	U+1F690	🚐	🚐	MINIBUS	bus, minibus, vehicle
+897	U+1F691	🚑	🚑	AMBULANCE	ambulance, vehicle
+898	U+1F692	🚒	🚒	FIRE ENGINE	engine, fire, truck, vehicle
+899	U+1F693	🚓	🚓	POLICE CAR	car, patrol, police, vehicle
+900	U+1F694	🚔	🚔	ONCOMING POLICE CAR	car, oncoming, police, vehicle
+901	U+1F695	🚕	🚕	TAXI	taxi, vehicle
+902	U+1F696	🚖	🚖	ONCOMING TAXI	oncoming, taxi, vehicle
+903	U+1F697	🚗	🚗	AUTOMOBILE	automobile, car, vehicle
+904	U+1F698	🚘	🚘	ONCOMING AUTOMOBILE	automobile, car, oncoming, vehicle
+905	U+1F699	🚙	🚙	RECREATIONAL VEHICLE	recreational, rv, vehicle
+906	U+1F69A	🚚	🚚	DELIVERY TRUCK	delivery, truck, vehicle
+907	U+1F69B	🚛	🚛	ARTICULATED LORRY	lorry, semi, truck, vehicle
+908	U+1F69C	🚜	🚜	TRACTOR	tractor, vehicle
+909	U+1F6B2	🚲	🚲	BICYCLE	bicycle, bike, vehicle
+910	U+26FD	⛽	⛽	FUEL PUMP	fuel, fuelpump, gas, pump, station
+911	U+1F6E3	🛣	🛣	MOTORWAY	highway, motorway, road
+912	U+1F6E4	🛤	🛤	RAILWAY TRACK	railway, train
+913	U+1F6A8	🚨	🚨	POLICE CARS REVOLVING LIGHT ≊ police car’s light	beacon, car, light, police, revolving, vehicle
+914	U+1F6A5	🚥	🚥	HORIZONTAL TRAFFIC LIGHT	light, signal, traffic
+915	U+1F6A6	🚦	🚦	VERTICAL TRAFFIC LIGHT	light, signal, traffic
+916	U+1F6A7	🚧	🚧	CONSTRUCTION SIGN ≊ construction	barrier, construction
+917	U+1F6D1	🛑	🛑	OCTAGONAL SIGN	octagonal, stop
+918	U+1F6F4	🛴	🛴	SCOOTER	kick, scooter
+919	U+1F6F5	🛵	🛵	MOTOR SCOOTER	motor, scooter
+920	U+2693	⚓	⚓	ANCHOR	anchor, ship, tool
+921	U+26F5	⛵	⛵	SAILBOAT	boat, resort, sailboat, sea, vehicle, yacht
+922	U+1F6A3	🚣	🚣	ROWBOAT	boat, rowboat, vehicle
+923	U+1F6A3 U+1F3FB	🚣🏻	🚣🏻	Rowboat, type-1-2	
+924	U+1F6A3 U+1F3FC	🚣🏼	🚣🏼	Rowboat, type-3	
+925	U+1F6A3 U+1F3FD	🚣🏽	🚣🏽	Rowboat, type-4	
+926	U+1F6A3 U+1F3FE	🚣🏾	🚣🏾	Rowboat, type-5	
+927	U+1F6A3 U+1F3FF	🚣🏿	🚣🏿	Rowboat, type-6	
+928	U+1F6F6	🛶	🛶	CANOE	boat, canoe
+929	U+1F6A4	🚤	🚤	SPEEDBOAT	boat, speedboat, vehicle
+930	U+1F6F3	🛳	🛳	PASSENGER SHIP	passenger, ship, vehicle
+931	U+26F4	⛴	⛴	FERRY	boat, ferry
+932	U+1F6E5	🛥	🛥	MOTOR BOAT	boat, motorboat, vehicle
+933	U+1F6A2	🚢	🚢	SHIP	ship, vehicle
+934	U+2708	✈	✈	AIRPLANE	airplane, vehicle
+935	U+1F6E9	🛩	🛩	SMALL AIRPLANE	airplane, vehicle
+936	U+1F6EB	🛫	🛫	AIRPLANE DEPARTURE	airplane, check-in, departure, departures, vehicle
+937	U+1F6EC	🛬	🛬	AIRPLANE ARRIVING ≊ airplane arrival	airplane, arrivals, arriving, landing, vehicle
+938	U+1F4BA	💺	💺	SEAT	chair, seat
+939	U+1F681	🚁	🚁	HELICOPTER	helicopter, vehicle
+940	U+1F69F	🚟	🚟	SUSPENSION RAILWAY	railway, suspension, vehicle
+941	U+1F6A0	🚠	🚠	MOUNTAIN CABLEWAY	cable, gondola, mountain, vehicle
+942	U+1F6A1	🚡	🚡	AERIAL TRAMWAY	aerial, cable, car, gondola, ropeway, tramway, vehicle
+943	U+1F680	🚀	🚀	ROCKET	rocket, space, vehicle
+944	U+1F6F0	🛰	🛰	SATELLITE	satellite, space, vehicle
+945	U+1F6CE	🛎	🛎	BELLHOP BELL	bell, bellhop, hotel
+946	U+1F6AA	🚪	🚪	DOOR	door
+947	U+1F6CC	🛌	🛌	SLEEPING ACCOMMODATION ≊ person in bed	hotel, sleep
+948	U+1F6CF	🛏	🛏	BED	bed, hotel, sleep
+949	U+1F6CB	🛋	🛋	COUCH AND LAMP	couch, hotel, lamp
+950	U+1F6BD	🚽	🚽	TOILET	toilet
+951	U+1F6BF	🚿	🚿	SHOWER	shower, water
+952	U+1F6C0	🛀	🛀	BATH ≊ person taking bath	bath, bathtub
+953	U+1F6C0 U+1F3FB	🛀🏻	🛀🏻	Bath, type-1-2	
+954	U+1F6C0 U+1F3FC	🛀🏼	🛀🏼	Bath, type-3	
+955	U+1F6C0 U+1F3FD	🛀🏽	🛀🏽	Bath, type-4	
+956	U+1F6C0 U+1F3FE	🛀🏾	🛀🏾	Bath, type-5	
+957	U+1F6C0 U+1F3FF	🛀🏿	🛀🏿	Bath, type-6	
+958	U+1F6C1	🛁	🛁	BATHTUB	bath, bathtub
+959	U+231B	⌛	⌛	HOURGLASS	hourglass, sand, timer
+960	U+23F3	⏳	⏳	HOURGLASS WITH FLOWING SAND	hourglass, sand, timer
+961	U+231A	⌚	⌚	WATCH	clock, watch
+962	U+23F0	⏰	⏰	ALARM CLOCK	alarm, clock
+963	U+23F1	⏱	⏱	STOPWATCH	clock, stopwatch
+964	U+23F2	⏲	⏲	TIMER CLOCK	clock, timer
+965	U+1F570	🕰	🕰	MANTELPIECE CLOCK	clock
+966	U+1F55B	🕛	🕛	CLOCK FACE TWELVE OCLOCK ≊ twelve o’clock	00, 12, 12:00, clock, o’clock, twelve
+967	U+1F567	🕧	🕧	CLOCK FACE TWELVE-THIRTY ≊ twelve-thirty	12, 12:30, 30, clock, thirty, twelve
+968	U+1F550	🕐	🕐	CLOCK FACE ONE OCLOCK ≊ one o’clock	00, 1, 1:00, clock, o’clock, one
+969	U+1F55C	🕜	🕜	CLOCK FACE ONE-THIRTY ≊ one-thirty	1, 1:30, 30, clock, one, thirty
+970	U+1F551	🕑	🕑	CLOCK FACE TWO OCLOCK ≊ two o’clock	00, 2, 2:00, clock, o’clock, two
+971	U+1F55D	🕝	🕝	CLOCK FACE TWO-THIRTY ≊ two-thirty	2, 2:30, 30, clock, thirty, two
+972	U+1F552	🕒	🕒	CLOCK FACE THREE OCLOCK ≊ three o’clock	00, 3, 3:00, clock, o’clock, three
+973	U+1F55E	🕞	🕞	CLOCK FACE THREE-THIRTY ≊ three-thirty	3, 3:30, 30, clock, thirty, three
+974	U+1F553	🕓	🕓	CLOCK FACE FOUR OCLOCK ≊ four o’clock	00, 4, 4:00, clock, four, o’clock
+975	U+1F55F	🕟	🕟	CLOCK FACE FOUR-THIRTY ≊ four-thirty	30, 4, 4:30, clock, four, thirty
+976	U+1F554	🕔	🕔	CLOCK FACE FIVE OCLOCK ≊ five o’clock	00, 5, 5:00, clock, five, o’clock
+977	U+1F560	🕠	🕠	CLOCK FACE FIVE-THIRTY ≊ five-thirty	30, 5, 5:30, clock, five, thirty
+978	U+1F555	🕕	🕕	CLOCK FACE SIX OCLOCK ≊ six o’clock	00, 6, 6:00, clock, o’clock, six
+979	U+1F561	🕡	🕡	CLOCK FACE SIX-THIRTY ≊ six-thirty	30, 6, 6:30, clock, six, thirty
+980	U+1F556	🕖	🕖	CLOCK FACE SEVEN OCLOCK ≊ seven o’clock	00, 7, 7:00, clock, o’clock, seven
+981	U+1F562	🕢	🕢	CLOCK FACE SEVEN-THIRTY ≊ seven-thirty	30, 7, 7:30, clock, seven, thirty
+982	U+1F557	🕗	🕗	CLOCK FACE EIGHT OCLOCK ≊ eight o’clock	00, 8, 8:00, clock, eight, o’clock
+983	U+1F563	🕣	🕣	CLOCK FACE EIGHT-THIRTY ≊ eight-thirty	30, 8, 8:30, clock, eight, thirty
+984	U+1F558	🕘	🕘	CLOCK FACE NINE OCLOCK ≊ nine o’clock	00, 9, 9:00, clock, nine, o’clock
+985	U+1F564	🕤	🕤	CLOCK FACE NINE-THIRTY ≊ nine-thirty	30, 9, 9:30, clock, nine, thirty
+986	U+1F559	🕙	🕙	CLOCK FACE TEN OCLOCK ≊ ten o’clock	00, 10, 10:00, clock, o’clock, ten
+987	U+1F565	🕥	🕥	CLOCK FACE TEN-THIRTY ≊ ten-thirty	10, 10:30, 30, clock, ten, thirty
+988	U+1F55A	🕚	🕚	CLOCK FACE ELEVEN OCLOCK ≊ eleven o’clock	00, 11, 11:00, clock, eleven, o’clock
+989	U+1F566	🕦	🕦	CLOCK FACE ELEVEN-THIRTY ≊ eleven-thirty	11, 11:30, 30, clock, eleven, thirty
+990	U+1F311	🌑	🌑	NEW MOON SYMBOL ≊ new moon	dark, moon, space, weather
+991	U+1F312	🌒	🌒	WAXING CRESCENT MOON SYMBOL ≊ waxing crescent moon	crescent, moon, space, waxing, weather
+992	U+1F313	🌓	🌓	FIRST QUARTER MOON SYMBOL ≊ first quarter moon	moon, quarter, space, weather
+993	U+1F314	🌔	🌔	WAXING GIBBOUS MOON SYMBOL ≊ waxing gibbous moon	gibbous, moon, space, waxing, weather
+994	U+1F315	🌕	🌕	FULL MOON SYMBOL ≊ full moon	full, moon, space, weather
+995	U+1F316	🌖	🌖	WANING GIBBOUS MOON SYMBOL ≊ waning gibbous moon	gibbous, moon, space, waning, weather
+996	U+1F317	🌗	🌗	LAST QUARTER MOON SYMBOL ≊ last quarter moon	moon, quarter, space, weather
+997	U+1F318	🌘	🌘	WANING CRESCENT MOON SYMBOL ≊ waning crescent moon	crescent, moon, space, waning, weather
+998	U+1F319	🌙	🌙	CRESCENT MOON	crescent, moon, space, weather
+999	U+1F31A	🌚	🌚	NEW MOON WITH FACE ≊ new moon face	face, moon, space, weather
+1000	U+1F31B	🌛	🌛	FIRST QUARTER MOON WITH FACE	face, moon, quarter, space, weather
+1001	U+1F31C	🌜	🌜	LAST QUARTER MOON WITH FACE	face, moon, quarter, space, weather
+1002	U+1F321	🌡	🌡	THERMOMETER	thermometer, weather
+1003	U+2600	☀	☀	BLACK SUN WITH RAYS ≊ sun	bright, rays, space, sun, sunny, weather
+1004	U+1F31D	🌝	🌝	FULL MOON WITH FACE	bright, face, full, moon, space, weather
+1005	U+1F31E	🌞	🌞	SUN WITH FACE	bright, face, space, sun, weather
+1006	U+2B50	⭐	⭐	WHITE MEDIUM STAR	star
+1007	U+1F31F	🌟	🌟	GLOWING STAR	glittery, glow, shining, sparkle, star
+1008	U+1F320	🌠	🌠	SHOOTING STAR	activity, falling, shooting, space, star
+1009	U+2601	☁	☁	CLOUD	cloud, weather
+1010	U+26C5	⛅	⛅	SUN BEHIND CLOUD	cloud, sun, weather
+1011	U+26C8	⛈	⛈	THUNDER CLOUD AND RAIN ≊ cloud with lightning and rain	cloud, rain, thunder, weather
+1012	U+1F324	🌤	🌤	WHITE SUN WITH SMALL CLOUD ≊ sun behind small cloud	cloud, sun, weather
+1013	U+1F325	🌥	🌥	WHITE SUN BEHIND CLOUD ≊ sun behind large cloud	cloud, sun, weather
+1014	U+1F326	🌦	🌦	WHITE SUN BEHIND CLOUD WITH RAIN ≊ sun behind cloud with rain	cloud, rain, sun, weather
+1015	U+1F327	🌧	🌧	CLOUD WITH RAIN	cloud, rain, weather
+1016	U+1F328	🌨	🌨	CLOUD WITH SNOW	cloud, cold, snow, weather
+1017	U+1F329	🌩	🌩	CLOUD WITH LIGHTNING	cloud, lightning, weather
+1018	U+1F32A	🌪	🌪	CLOUD WITH TORNADO ≊ tornado	cloud, tornado, weather, whirlwind
+1019	U+1F32B	🌫	🌫	FOG	cloud, fog, weather
+1020	U+1F32C	🌬	🌬	WIND BLOWING FACE ≊ wind face	blow, cloud, face, weather, wind
+1021	U+1F300	🌀	🌀	CYCLONE	cyclone, dizzy, twister, typhoon, weather
+1022	U+1F308	🌈	🌈	RAINBOW	rain, rainbow, weather
+1023	U+1F302	🌂	🌂	CLOSED UMBRELLA	clothing, rain, umbrella, weather
+1024	U+2602	☂	☂	UMBRELLA	clothing, rain, umbrella, weather
+1025	U+2614	☔	☔	UMBRELLA WITH RAIN DROPS	clothing, drop, rain, umbrella, weather
+1026	U+26F1	⛱	⛱	UMBRELLA ON GROUND	rain, sun, umbrella, weather
+1027	U+26A1	⚡	⚡	HIGH VOLTAGE SIGN ≊ high voltage	danger, electric, electricity, lightning, voltage, zap
+1028	U+2744	❄	❄	SNOWFLAKE	cold, snow, snowflake, weather
+1029	U+2603	☃	☃	SNOWMAN	cold, snow, snowman, weather
+1030	U+26C4	⛄	⛄	SNOWMAN WITHOUT SNOW	cold, snow, snowman, weather
+1031	U+2604	☄	☄	COMET	comet, space
+1032	U+1F525	🔥	🔥	FIRE	fire, flame, tool
+1033	U+1F4A7	💧	💧	DROPLET	cold, comic, drop, sweat, weather
+1034	U+1F30A	🌊	🌊	WATER WAVE	ocean, water, wave, weather
+1035	U+1F383	🎃	🎃	JACK-O-LANTERN	activity, celebration, entertainment, halloween, jack, lantern
+1036	U+1F384	🎄	🎄	CHRISTMAS TREE	activity, celebration, christmas, entertainment, tree
+1037	U+1F386	🎆	🎆	FIREWORKS	activity, celebration, entertainment, fireworks
+1038	U+1F387	🎇	🎇	FIREWORK SPARKLER ≊ sparkler	activity, celebration, entertainment, fireworks, sparkle
+1039	U+2728	✨	✨	SPARKLES	entertainment, sparkle, star
+1040	U+1F388	🎈	🎈	BALLOON	activity, balloon, celebration, entertainment
+1041	U+1F389	🎉	🎉	PARTY POPPER	activity, celebration, entertainment, party, popper, tada
+1042	U+1F38A	🎊	🎊	CONFETTI BALL	activity, ball, celebration, confetti, entertainment
+1043	U+1F38B	🎋	🎋	TANABATA TREE	activity, banner, celebration, entertainment, japanese, tree
+1044	U+1F38D	🎍	🎍	PINE DECORATION	activity, bamboo, celebration, japanese, pine, plant
+1045	U+1F38E	🎎	🎎	JAPANESE DOLLS	activity, celebration, doll, entertainment, festival, japanese
+1046	U+1F38F	🎏	🎏	CARP STREAMER	activity, carp, celebration, entertainment, flag, streamer
+1047	U+1F390	🎐	🎐	WIND CHIME	activity, bell, celebration, chime, entertainment, wind
+1048	U+1F391	🎑	🎑	MOON VIEWING CEREMONY ≊ moon ceremony	activity, celebration, ceremony, entertainment, moon
+1049	U+1F380	🎀	🎀	RIBBON	celebration, ribbon
+1050	U+1F381	🎁	🎁	WRAPPED PRESENT	box, celebration, entertainment, gift, present, wrapped
+1051	U+1F397	🎗	🎗	REMINDER RIBBON	celebration, reminder, ribbon
+1052	U+1F39F	🎟	🎟	ADMISSION TICKETS	admission, entertainment, ticket
+1053	U+1F3AB	🎫	🎫	TICKET	activity, admission, entertainment, ticket
+1054	U+1F396	🎖	🎖	MILITARY MEDAL	celebration, medal, military
+1055	U+1F3C6	🏆	🏆	TROPHY	prize, trophy
+1056	U+1F3C5	🏅	🏅	SPORTS MEDAL	medal
+1057	U+1F947	🥇	🥇	FIRST PLACE MEDAL	first, gold, medal
+1058	U+1F948	🥈	🥈	SECOND PLACE MEDAL	medal, second, silver
+1059	U+1F949	🥉	🥉	THIRD PLACE MEDAL	bronze, medal, third
+1060	U+26BD	⚽	⚽	SOCCER BALL	ball, soccer
+1061	U+26BE	⚾	⚾	BASEBALL	ball, baseball
+1062	U+1F3C0	🏀	🏀	BASKETBALL AND HOOP ≊ basketball	ball, basketball, hoop
+1063	U+1F3D0	🏐	🏐	VOLLEYBALL	ball, game, volleyball
+1064	U+1F3C8	🏈	🏈	AMERICAN FOOTBALL	american, ball, football
+1065	U+1F3C9	🏉	🏉	RUGBY FOOTBALL	ball, football, rugby
+1066	U+1F3BE	🎾	🎾	TENNIS RACQUET AND BALL ≊ tennis	ball, racquet, tennis
+1067	U+1F3B1	🎱	🎱	BILLIARDS	8, 8 ball, ball, billiard, eight, game
+1068	U+1F3B3	🎳	🎳	BOWLING	ball, bowling, game
+1069	U+1F3CF	🏏	🏏	CRICKET BAT AND BALL ≊ cricket	ball, bat, cricket, game
+1070	U+1F3D1	🏑	🏑	FIELD HOCKEY STICK AND BALL ≊ field hockey	ball, field, game, hockey, stick
+1071	U+1F3D2	🏒	🏒	ICE HOCKEY STICK AND PUCK	game, hockey, ice, puck, stick
+1072	U+1F3D3	🏓	🏓	TABLE TENNIS PADDLE AND BALL ≊ ping pong	ball, bat, game, paddle, table tennis
+1073	U+1F3F8	🏸	🏸	BADMINTON RACQUET AND SHUTTLECOCK ≊ badminton	badminton, birdie, game, racquet, shuttlecock
+1074	U+1F94A	🥊	🥊	BOXING GLOVE	boxing, glove
+1075	U+1F94B	🥋	🥋	MARTIAL ARTS UNIFORM	judo, karate, martial arts, taekwondo, uniform
+1076	U+26F3	⛳	⛳	FLAG IN HOLE	flag, golf, hole
+1077	U+1F3CC	🏌	🏌	GOLFER	ball, golf
+1078	U+26F8	⛸	⛸	ICE SKATE	ice, skate
+1079	U+1F3A3	🎣	🎣	FISHING POLE AND FISH ≊ fishing pole	entertainment, fish, pole
+1080	U+1F3BD	🎽	🎽	RUNNING SHIRT WITH SASH ≊ running shirt	running, sash, shirt
+1081	U+1F3BF	🎿	🎿	SKI AND SKI BOOT ≊ skis	ski, snow
+1082	U+26F7	⛷	⛷	SKIER	ski, snow
+1083	U+1F3C2	🏂	🏂	SNOWBOARDER	ski, snow, snowboard
+1084	U+1F3C4	🏄	🏄	SURFER	surfer, surfing
+1085	U+1F3C4 U+1F3FB	🏄🏻	🏄🏻	Surfer, type-1-2	
+1086	U+1F3C4 U+1F3FC	🏄🏼	🏄🏼	Surfer, type-3	
+1087	U+1F3C4 U+1F3FD	🏄🏽	🏄🏽	Surfer, type-4	
+1088	U+1F3C4 U+1F3FE	🏄🏾	🏄🏾	Surfer, type-5	
+1089	U+1F3C4 U+1F3FF	🏄🏿	🏄🏿	Surfer, type-6	
+1090	U+1F3C7	🏇	🏇	HORSE RACING	horse, jockey, racehorse, racing
+1091	U+1F3CA	🏊	🏊	SWIMMER	swim, swimmer
+1092	U+1F3CA U+1F3FB	🏊🏻	🏊🏻	Swimmer, type-1-2	
+1093	U+1F3CA U+1F3FC	🏊🏼	🏊🏼	Swimmer, type-3	
+1094	U+1F3CA U+1F3FD	🏊🏽	🏊🏽	Swimmer, type-4	
+1095	U+1F3CA U+1F3FE	🏊🏾	🏊🏾	Swimmer, type-5	
+1096	U+1F3CA U+1F3FF	🏊🏿	🏊🏿	Swimmer, type-6	
+1097	U+26F9	⛹	⛹	PERSON WITH BALL	ball
+1098	U+26F9 U+1F3FB	⛹🏻	⛹🏻	Person with ball, type-1-2	
+1099	U+26F9 U+1F3FC	⛹🏼	⛹🏼	Person with ball, type-3	
+1100	U+26F9 U+1F3FD	⛹🏽	⛹🏽	Person with ball, type-4	
+1101	U+26F9 U+1F3FE	⛹🏾	⛹🏾	Person with ball, type-5	
+1102	U+26F9 U+1F3FF	⛹🏿	⛹🏿	Person with ball, type-6	
+1103	U+1F3CB	🏋	🏋	WEIGHT LIFTER	lifter, weight
+1104	U+1F3CB U+1F3FB	🏋🏻	🏋🏻	Weight lifter, type-1-2	
+1105	U+1F3CB U+1F3FC	🏋🏼	🏋🏼	Weight lifter, type-3	
+1106	U+1F3CB U+1F3FD	🏋🏽	🏋🏽	Weight lifter, type-4	
+1107	U+1F3CB U+1F3FE	🏋🏾	🏋🏾	Weight lifter, type-5	
+1108	U+1F3CB U+1F3FF	🏋🏿	🏋🏿	Weight lifter, type-6	
+1109	U+1F6B4	🚴	🚴	BICYCLIST	bicycle, bicyclist, bike, cyclist
+1110	U+1F6B4 U+1F3FB	🚴🏻	🚴🏻	Bicyclist, type-1-2	
+1111	U+1F6B4 U+1F3FC	🚴🏼	🚴🏼	Bicyclist, type-3	
+1112	U+1F6B4 U+1F3FD	🚴🏽	🚴🏽	Bicyclist, type-4	
+1113	U+1F6B4 U+1F3FE	🚴🏾	🚴🏾	Bicyclist, type-5	
+1114	U+1F6B4 U+1F3FF	🚴🏿	🚴🏿	Bicyclist, type-6	
+1115	U+1F6B5	🚵	🚵	MOUNTAIN BICYCLIST ≊ mountain biker	bicycle, bicyclist, bike, cyclist, mountain
+1116	U+1F6B5 U+1F3FB	🚵🏻	🚵🏻	Mountain bicyclist, type-1-2	
+1117	U+1F6B5 U+1F3FC	🚵🏼	🚵🏼	Mountain bicyclist, type-3	
+1118	U+1F6B5 U+1F3FD	🚵🏽	🚵🏽	Mountain bicyclist, type-4	
+1119	U+1F6B5 U+1F3FE	🚵🏾	🚵🏾	Mountain bicyclist, type-5	
+1120	U+1F6B5 U+1F3FF	🚵🏿	🚵🏿	Mountain bicyclist, type-6	
+1121	U+1F3CE	🏎	🏎	RACING CAR	car, racing
+1122	U+1F3CD	🏍	🏍	RACING MOTORCYCLE ≊ motorcycle	motorcycle, racing
+1123	U+1F938	🤸	🤸	PERSON DOING CARTWHEEL	cartwheel, gymnastics
+1124	U+1F938 U+1F3FB	🤸🏻	🤸🏻	Person doing cartwheel, type-1-2	
+1125	U+1F938 U+1F3FC	🤸🏼	🤸🏼	Person doing cartwheel, type-3	
+1126	U+1F938 U+1F3FD	🤸🏽	🤸🏽	Person doing cartwheel, type-4	
+1127	U+1F938 U+1F3FE	🤸🏾	🤸🏾	Person doing cartwheel, type-5	
+1128	U+1F938 U+1F3FF	🤸🏿	🤸🏿	Person doing cartwheel, type-6	
+1129	U+1F93C	🤼	🤼	WRESTLERS	wrestle, wrestler
+1130	U+1F93C U+1F3FB	🤼🏻	🤼🏻	Wrestlers, type-1-2	
+1131	U+1F93C U+1F3FC	🤼🏼	🤼🏼	Wrestlers, type-3	
+1132	U+1F93C U+1F3FD	🤼🏽	🤼🏽	Wrestlers, type-4	
+1133	U+1F93C U+1F3FE	🤼🏾	🤼🏾	Wrestlers, type-5	
+1134	U+1F93C U+1F3FF	🤼🏿	🤼🏿	Wrestlers, type-6	
+1135	U+1F93D	🤽	🤽	WATER POLO	polo, water
+1136	U+1F93D U+1F3FB	🤽🏻	🤽🏻	Water polo, type-1-2	
+1137	U+1F93D U+1F3FC	🤽🏼	🤽🏼	Water polo, type-3	
+1138	U+1F93D U+1F3FD	🤽🏽	🤽🏽	Water polo, type-4	
+1139	U+1F93D U+1F3FE	🤽🏾	🤽🏾	Water polo, type-5	
+1140	U+1F93D U+1F3FF	🤽🏿	🤽🏿	Water polo, type-6	
+1141	U+1F93E	🤾	🤾	HANDBALL	ball, handball
+1142	U+1F93E U+1F3FB	🤾🏻	🤾🏻	Handball, type-1-2	
+1143	U+1F93E U+1F3FC	🤾🏼	🤾🏼	Handball, type-3	
+1144	U+1F93E U+1F3FD	🤾🏽	🤾🏽	Handball, type-4	
+1145	U+1F93E U+1F3FE	🤾🏾	🤾🏾	Handball, type-5	
+1146	U+1F93E U+1F3FF	🤾🏿	🤾🏿	Handball, type-6	
+1147	U+1F93A	🤺	🤺	FENCER	fencer, fencing, sword
+1148	U+1F945	🥅	🥅	GOAL NET	goal, net
+1149	U+1F939	🤹	🤹	JUGGLING	balance, juggle, multitask, skill
+1150	U+1F939 U+1F3FB	🤹🏻	🤹🏻	Juggling, type-1-2	
+1151	U+1F939 U+1F3FC	🤹🏼	🤹🏼	Juggling, type-3	
+1152	U+1F939 U+1F3FD	🤹🏽	🤹🏽	Juggling, type-4	
+1153	U+1F939 U+1F3FE	🤹🏾	🤹🏾	Juggling, type-5	
+1154	U+1F939 U+1F3FF	🤹🏿	🤹🏿	Juggling, type-6	
+1155	U+1F3AF	🎯	🎯	DIRECT HIT	activity, bull, bullseye, dart, entertainment, eye, game, hit, target
+1156	U+1F3AE	🎮	🎮	VIDEO GAME	controller, entertainment, game, video game
+1157	U+1F579	🕹	🕹	JOYSTICK	entertainment, game, joystick, video game
+1158	U+1F3B2	🎲	🎲	GAME DIE	dice, die, entertainment, game
+1159	U+2660	♠	♠	BLACK SPADE SUIT ≊ spade suit	card, game, spade, suit
+1160	U+2665	♥	♥	BLACK HEART SUIT ≊ heart suit	card, game, heart, hearts, suit
+1161	U+2666	♦	♦	BLACK DIAMOND SUIT ≊ diamond suit	card, diamond, diamonds, game, suit
+1162	U+2663	♣	♣	BLACK CLUB SUIT ≊ club suit	card, club, clubs, game, suit
+1163	U+1F0CF	🃏	🃏	PLAYING CARD BLACK JOKER ≊ joker	card, entertainment, game, joker, playing
+1164	U+1F004	🀄	🀄	MAHJONG TILE RED DRAGON ≊ mahjong red dragon	game, mahjong, red
+1165	U+1F3B4	🎴	🎴	FLOWER PLAYING CARDS	activity, card, entertainment, flower, game, japanese, playing
+1166	U+1F507	🔇	🔇	SPEAKER WITH CANCELLATION STROKE ≊ speaker off	mute, quiet, silent, speaker, volume
+1167	U+1F508	🔈	🔈	SPEAKER	speaker, volume
+1168	U+1F509	🔉	🔉	SPEAKER WITH ONE SOUND WAVE ≊ speaker on	low, speaker, volume, wave
+1169	U+1F50A	🔊	🔊	SPEAKER WITH THREE SOUND WAVES ≊ speaker loud	3, entertainment, high, loud, speaker, three, volume
+1170	U+1F4E2	📢	📢	PUBLIC ADDRESS LOUDSPEAKER ≊ loudspeaker	communication, loud, loudspeaker, public address
+1171	U+1F4E3	📣	📣	CHEERING MEGAPHONE ≊ megaphone	cheering, communication, megaphone
+1172	U+1F4EF	📯	📯	POSTAL HORN	communication, entertainment, horn, post, postal
+1173	U+1F514	🔔	🔔	BELL	bell
+1174	U+1F515	🔕	🔕	BELL WITH CANCELLATION STROKE ≊ bell with slash	bell, forbidden, mute, no, not, prohibited, quiet, silent
+1175	U+1F3BC	🎼	🎼	MUSICAL SCORE	activity, entertainment, music, score
+1176	U+1F3B5	🎵	🎵	MUSICAL NOTE	activity, entertainment, music, note
+1177	U+1F3B6	🎶	🎶	MULTIPLE MUSICAL NOTES ≊ musical notes	activity, entertainment, music, note, notes
+1178	U+1F399	🎙	🎙	STUDIO MICROPHONE	mic, microphone, music, studio
+1179	U+1F39A	🎚	🎚	LEVEL SLIDER	level, music, slider
+1180	U+1F39B	🎛	🎛	CONTROL KNOBS	control, knobs, music
+1181	U+1F3A4	🎤	🎤	MICROPHONE	activity, entertainment, karaoke, mic, microphone
+1182	U+1F3A7	🎧	🎧	HEADPHONE	activity, earbud, entertainment, headphone
+1183	U+1F4FB	📻	📻	RADIO	entertainment, radio, video
+1184	U+1F3B7	🎷	🎷	SAXOPHONE	activity, entertainment, instrument, music, sax, saxophone
+1185	U+1F3B8	🎸	🎸	GUITAR	activity, entertainment, guitar, instrument, music
+1186	U+1F3B9	🎹	🎹	MUSICAL KEYBOARD	activity, entertainment, instrument, keyboard, music, piano
+1187	U+1F3BA	🎺	🎺	TRUMPET	activity, entertainment, instrument, music, trumpet
+1188	U+1F3BB	🎻	🎻	VIOLIN	activity, entertainment, instrument, music, violin
+1189	U+1F941	🥁	🥁	DRUM WITH DRUMSTICKS	drum, drumsticks, music
+1190	U+1F4F1	📱	📱	MOBILE PHONE	cell, communication, mobile, phone, telephone
+1191	U+1F4F2	📲	📲	MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT ≊ mobile phone with arrow	arrow, call, cell, communication, mobile, phone, receive, telephone
+1192	U+260E	☎	☎	BLACK TELEPHONE ≊ telephone	phone, telephone
+1193	U+1F4DE	📞	📞	TELEPHONE RECEIVER	communication, phone, receiver, telephone
+1194	U+1F4DF	📟	📟	PAGER	communication, pager
+1195	U+1F4E0	📠	📠	FAX MACHINE	communication, fax
+1196	U+1F50B	🔋	🔋	BATTERY	battery
+1197	U+1F50C	🔌	🔌	ELECTRIC PLUG	electric, electricity, plug
+1198	U+1F4BB	💻	💻	PERSONAL COMPUTER ≊ laptop computer	computer, pc, personal
+1199	U+1F5A5	🖥	🖥	DESKTOP COMPUTER	computer, desktop
+1200	U+1F5A8	🖨	🖨	PRINTER	computer, printer
+1201	U+2328	⌨	⌨	KEYBOARD	computer, keyboard
+1202	U+1F5B1	🖱	🖱	THREE BUTTON MOUSE ≊ computer mouse	3, button, computer, mouse, three
+1203	U+1F5B2	🖲	🖲	TRACKBALL	computer, trackball
+1204	U+1F4BD	💽	💽	MINIDISC	computer, disk, entertainment, minidisk, optical
+1205	U+1F4BE	💾	💾	FLOPPY DISK	computer, disk, floppy
+1206	U+1F4BF	💿	💿	OPTICAL DISC	blu-ray, cd, computer, disk, dvd, optical
+1207	U+1F4C0	📀	📀	DVD	blu-ray, cd, computer, disk, dvd, entertainment, optical
+1208	U+1F3A5	🎥	🎥	MOVIE CAMERA	activity, camera, cinema, entertainment, movie
+1209	U+1F39E	🎞	🎞	FILM FRAMES	cinema, entertainment, film, frames, movie
+1210	U+1F4FD	📽	📽	FILM PROJECTOR	cinema, entertainment, film, movie, projector, video
+1211	U+1F3AC	🎬	🎬	CLAPPER BOARD	activity, clapper, entertainment, movie
+1212	U+1F4FA	📺	📺	TELEVISION	entertainment, television, tv, video
+1213	U+1F4F7	📷	📷	CAMERA	camera, entertainment, video
+1214	U+1F4F8	📸	📸	CAMERA WITH FLASH	camera, flash, video
+1215	U+1F4F9	📹	📹	VIDEO CAMERA	camera, entertainment, video
+1216	U+1F4FC	📼	📼	VIDEOCASSETTE	entertainment, tape, vhs, video, videocassette
+1217	U+1F50D	🔍	🔍	LEFT-POINTING MAGNIFYING GLASS	glass, magnifying, search, tool
+1218	U+1F50E	🔎	🔎	RIGHT-POINTING MAGNIFYING GLASS	glass, magnifying, search, tool
+1219	U+1F52C	🔬	🔬	MICROSCOPE	microscope, tool
+1220	U+1F52D	🔭	🔭	TELESCOPE	telescope, tool
+1221	U+1F4E1	📡	📡	SATELLITE ANTENNA	antenna, communication, dish, satellite
+1222	U+1F56F	🕯	🕯	CANDLE	candle, light
+1223	U+1F4A1	💡	💡	ELECTRIC LIGHT BULB ≊ light bulb	bulb, comic, electric, idea, light
+1224	U+1F526	🔦	🔦	ELECTRIC TORCH ≊ flashlight	electric, flashlight, light, tool, torch
+1225	U+1F3EE	🏮	🏮	IZAKAYA LANTERN ≊ red paper lantern	bar, japanese, lantern, light, red
+1226	U+1F4D4	📔	📔	NOTEBOOK WITH DECORATIVE COVER	book, cover, decorated, notebook
+1227	U+1F4D5	📕	📕	CLOSED BOOK	book, closed
+1228	U+1F4D6	📖	📖	OPEN BOOK	book, open
+1229	U+1F4D7	📗	📗	GREEN BOOK	book, green
+1230	U+1F4D8	📘	📘	BLUE BOOK	blue, book
+1231	U+1F4D9	📙	📙	ORANGE BOOK	book, orange
+1232	U+1F4DA	📚	📚	BOOKS	book, books
+1233	U+1F4D3	📓	📓	NOTEBOOK	notebook
+1234	U+1F4D2	📒	📒	LEDGER	ledger, notebook
+1235	U+1F4C3	📃	📃	PAGE WITH CURL	curl, document, page
+1236	U+1F4DC	📜	📜	SCROLL	paper, scroll
+1237	U+1F4C4	📄	📄	PAGE FACING UP	document, page
+1238	U+1F4F0	📰	📰	NEWSPAPER	communication, news, newspaper, paper
+1239	U+1F5DE	🗞	🗞	ROLLED-UP NEWSPAPER	news, newspaper, paper, rolled
+1240	U+1F4D1	📑	📑	BOOKMARK TABS	bookmark, mark, marker, tabs
+1241	U+1F516	🔖	🔖	BOOKMARK	bookmark, mark
+1242	U+1F3F7	🏷	🏷	LABEL	label
+1243	U+1F4B0	💰	💰	MONEY BAG	bag, dollar, money, moneybag
+1244	U+1F4B4	💴	💴	BANKNOTE WITH YEN SIGN ≊ yen banknote	bank, banknote, bill, currency, money, note, yen
+1245	U+1F4B5	💵	💵	BANKNOTE WITH DOLLAR SIGN ≊ dollar banknote	bank, banknote, bill, currency, dollar, money, note
+1246	U+1F4B6	💶	💶	BANKNOTE WITH EURO SIGN ≊ euro banknote	bank, banknote, bill, currency, euro, money, note
+1247	U+1F4B7	💷	💷	BANKNOTE WITH POUND SIGN ≊ pound banknote	bank, banknote, bill, currency, money, note, pound
+1248	U+1F4B8	💸	💸	MONEY WITH WINGS	bank, banknote, bill, dollar, fly, money, note, wings
+1249	U+1F4B3	💳	💳	CREDIT CARD	bank, card, credit, money
+1250	U+1F4B9	💹	💹	CHART WITH UPWARDS TREND AND YEN SIGN ≊ chart increasing with yen	bank, chart, currency, graph, growth, market, money, rise, trend, upward, yen
+1251	U+1F4B1	💱	💱	CURRENCY EXCHANGE	bank, currency, exchange, money
+1252	U+1F4B2	💲	💲	HEAVY DOLLAR SIGN	currency, dollar, money
+1253	U+2709	✉	✉	ENVELOPE	e-mail, email, envelope
+1254	U+1F4E7	📧	📧	E-MAIL SYMBOL ≊ e-mail	communication, e-mail, email, letter, mail
+1255	U+1F4E8	📨	📨	INCOMING ENVELOPE	communication, e-mail, email, envelope, incoming, letter, mail, receive
+1256	U+1F4E9	📩	📩	ENVELOPE WITH DOWNWARDS ARROW ABOVE ≊ envelope with arrow	arrow, communication, down, e-mail, email, envelope, letter, mail, outgoing, sent
+1257	U+1F4E4	📤	📤	OUTBOX TRAY	box, communication, letter, mail, outbox, sent, tray
+1258	U+1F4E5	📥	📥	INBOX TRAY	box, communication, inbox, letter, mail, receive, tray
+1259	U+1F4E6	📦	📦	PACKAGE	box, communication, package, parcel
+1260	U+1F4EB	📫	📫	CLOSED MAILBOX WITH RAISED FLAG	closed, communication, flag, mail, mailbox, postbox
+1261	U+1F4EA	📪	📪	CLOSED MAILBOX WITH LOWERED FLAG	closed, communication, flag, lowered, mail, mailbox, postbox
+1262	U+1F4EC	📬	📬	OPEN MAILBOX WITH RAISED FLAG	communication, flag, mail, mailbox, open, postbox
+1263	U+1F4ED	📭	📭	OPEN MAILBOX WITH LOWERED FLAG	communication, flag, lowered, mail, mailbox, open, postbox
+1264	U+1F4EE	📮	📮	POSTBOX	communication, mail, mailbox, postbox
+1265	U+1F5F3	🗳	🗳	BALLOT BOX WITH BALLOT	ballot, box
+1266	U+270F	✏	✏	PENCIL	pencil
+1267	U+2712	✒	✒	BLACK NIB	nib, pen
+1268	U+1F58B	🖋	🖋	LOWER LEFT FOUNTAIN PEN ≊ fountain pen	communication, fountain, pen
+1269	U+1F58A	🖊	🖊	LOWER LEFT BALLPOINT PEN ≊ pen	ballpoint, communication, pen
+1270	U+1F58C	🖌	🖌	LOWER LEFT PAINTBRUSH ≊ paintbrush	communication, paintbrush, painting
+1271	U+1F58D	🖍	🖍	LOWER LEFT CRAYON ≊ crayon	communication, crayon
+1272	U+1F4DD	📝	📝	MEMO	communication, memo, pencil
+1273	U+1F4BC	💼	💼	BRIEFCASE	briefcase
+1274	U+1F4C1	📁	📁	FILE FOLDER	file, folder
+1275	U+1F4C2	📂	📂	OPEN FILE FOLDER	file, folder, open
+1276	U+1F5C2	🗂	🗂	CARD INDEX DIVIDERS	card, dividers, index
+1277	U+1F4C5	📅	📅	CALENDAR	calendar, date
+1278	U+1F4C6	📆	📆	TEAR-OFF CALENDAR	calendar
+1279	U+1F5D2	🗒	🗒	SPIRAL NOTE PAD ≊ spiral notepad	note, pad, spiral
+1280	U+1F5D3	🗓	🗓	SPIRAL CALENDAR PAD ≊ spiral calendar	calendar, pad, spiral
+1281	U+1F4C7	📇	📇	CARD INDEX	card, index, rolodex
+1282	U+1F4C8	📈	📈	CHART WITH UPWARDS TREND ≊ chart increasing	chart, graph, growth, trend, upward
+1283	U+1F4C9	📉	📉	CHART WITH DOWNWARDS TREND ≊ chart decreasing	chart, down, graph, trend
+1284	U+1F4CA	📊	📊	BAR CHART	bar, chart, graph
+1285	U+1F4CB	📋	📋	CLIPBOARD	clipboard
+1286	U+1F4CC	📌	📌	PUSHPIN	pin, pushpin
+1287	U+1F4CD	📍	📍	ROUND PUSHPIN	pin, pushpin
+1288	U+1F4CE	📎	📎	PAPERCLIP	paperclip
+1289	U+1F587	🖇	🖇	LINKED PAPERCLIPS	communication, link, paperclip
+1290	U+1F4CF	📏	📏	STRAIGHT RULER	ruler, straight edge
+1291	U+1F4D0	📐	📐	TRIANGULAR RULER	ruler, set, triangle
+1292	U+2702	✂	✂	BLACK SCISSORS ≊ scissors	scissors, tool
+1293	U+1F5C3	🗃	🗃	CARD FILE BOX	box, card, file
+1294	U+1F5C4	🗄	🗄	FILE CABINET	cabinet, file
+1295	U+1F5D1	🗑	🗑	WASTEBASKET	wastebasket
+1296	U+1F512	🔒	🔒	LOCK	closed, lock
+1297	U+1F513	🔓	🔓	OPEN LOCK	lock, open, unlock
+1298	U+1F50F	🔏	🔏	LOCK WITH INK PEN ≊ lock with pen	ink, lock, nib, pen, privacy
+1299	U+1F510	🔐	🔐	CLOSED LOCK WITH KEY	closed, key, lock, secure
+1300	U+1F511	🔑	🔑	KEY	key, lock, password
+1301	U+1F5DD	🗝	🗝	OLD KEY	clue, key, lock, old
+1302	U+1F528	🔨	🔨	HAMMER	hammer, tool
+1303	U+26CF	⛏	⛏	PICK	mining, pick, tool
+1304	U+2692	⚒	⚒	HAMMER AND PICK	hammer, pick, tool
+1305	U+1F6E0	🛠	🛠	HAMMER AND WRENCH	hammer, tool, wrench
+1306	U+1F5E1	🗡	🗡	DAGGER KNIFE ≊ dagger	dagger, knife, weapon
+1307	U+2694	⚔	⚔	CROSSED SWORDS	crossed, swords, weapon
+1308	U+1F52B	🔫	🔫	PISTOL	gun, handgun, pistol, revolver, tool, weapon
+1309	U+1F3F9	🏹	🏹	BOW AND ARROW	archer, arrow, bow, sagittarius, tool, weapon, zodiac
+1310	U+1F6E1	🛡	🛡	SHIELD	shield, weapon
+1311	U+1F527	🔧	🔧	WRENCH	tool, wrench
+1312	U+1F529	🔩	🔩	NUT AND BOLT	bolt, nut, tool
+1313	U+2699	⚙	⚙	GEAR	gear, tool
+1314	U+1F5DC	🗜	🗜	COMPRESSION	compression, tool, vice
+1315	U+2697	⚗	⚗	ALEMBIC	alembic, chemistry, tool
+1316	U+2696	⚖	⚖	SCALES ≊ balance scale	balance, justice, libra, scales, tool, weight, zodiac
+1317	U+1F517	🔗	🔗	LINK SYMBOL ≊ link	link
+1318	U+26D3	⛓	⛓	CHAINS	chain
+1319	U+1F489	💉	💉	SYRINGE	doctor, medicine, needle, shot, sick, syringe, tool
+1320	U+1F48A	💊	💊	PILL	doctor, medicine, pill, sick
+1321	U+1F6AC	🚬	🚬	SMOKING SYMBOL ≊ smoking	activity, smoking
+1322	U+26B0	⚰	⚰	COFFIN	coffin, death
+1323	U+26B1	⚱	⚱	FUNERAL URN	death, funeral, urn
+1324	U+1F5FF	🗿	🗿	MOYAI ≊ moai	face, moyai, statue
+1325	U+1F6E2	🛢	🛢	OIL DRUM	drum, oil
+1326	U+1F52E	🔮	🔮	CRYSTAL BALL	ball, crystal, fairy tale, fantasy, fortune, tool
+1327	U+1F6D2	🛒	🛒	SHOPPING TROLLEY	cart, shopping, trolley
+1328	U+1F3E7	🏧	🏧	AUTOMATED TELLER MACHINE ≊ ATM sign	atm, automated, bank, teller
+1329	U+1F6AE	🚮	🚮	PUT LITTER IN ITS PLACE SYMBOL ≊ litter in bin sign	litter, litterbox
+1330	U+1F6B0	🚰	🚰	POTABLE WATER SYMBOL ≊ potable water	drink, potable, water
+1331	U+267F	♿	♿	WHEELCHAIR SYMBOL ≊ wheelchair	access, wheelchair
+1332	U+1F6B9	🚹	🚹	MENS SYMBOL ≊ men’s room	lavatory, man, restroom, wc
+1333	U+1F6BA	🚺	🚺	WOMENS SYMBOL ≊ women’s room	lavatory, restroom, wc, woman
+1334	U+1F6BB	🚻	🚻	RESTROOM	lavatory, restroom, wc
+1335	U+1F6BC	🚼	🚼	BABY SYMBOL	baby, changing
+1336	U+1F6BE	🚾	🚾	WATER CLOSET	closet, lavatory, restroom, water, wc
+1337	U+1F6C2	🛂	🛂	PASSPORT CONTROL	control, passport
+1338	U+1F6C3	🛃	🛃	CUSTOMS	customs
+1339	U+1F6C4	🛄	🛄	BAGGAGE CLAIM	baggage, claim
+1340	U+1F6C5	🛅	🛅	LEFT LUGGAGE	baggage, left luggage, locker, luggage
+1341	U+26A0	⚠	⚠	WARNING SIGN ≊ warning	warning
+1342	U+1F6B8	🚸	🚸	CHILDREN CROSSING	child, crossing, pedestrian, traffic
+1343	U+26D4	⛔	⛔	NO ENTRY	entry, forbidden, no, not, prohibited, traffic
+1344	U+1F6AB	🚫	🚫	NO ENTRY SIGN ≊ prohibited	entry, forbidden, no, not, prohibited
+1345	U+1F6B3	🚳	🚳	NO BICYCLES	bicycle, bike, forbidden, no, not, prohibited, vehicle
+1346	U+1F6AD	🚭	🚭	NO SMOKING SYMBOL ≊ no smoking	forbidden, no, not, prohibited, smoking
+1347	U+1F6AF	🚯	🚯	DO NOT LITTER SYMBOL ≊ no littering	forbidden, litter, no, not, prohibited
+1348	U+1F6B1	🚱	🚱	NON-POTABLE WATER SYMBOL ≊ non-potable water	drink, forbidden, no, not, potable, prohibited, water
+1349	U+1F6B7	🚷	🚷	NO PEDESTRIANS	forbidden, no, not, pedestrian, prohibited
+1350	U+1F4F5	📵	📵	NO MOBILE PHONES	cell, communication, forbidden, mobile, no, not, phone, prohibited, telephone
+1351	U+1F51E	🔞	🔞	NO ONE UNDER EIGHTEEN SYMBOL ≊ no one under eighteen	18, age restriction, eighteen, forbidden, no, not, prohibited, underage
+1352	U+2622	☢	☢	RADIOACTIVE SIGN ≊ radioactive	radioactive
+1353	U+2623	☣	☣	BIOHAZARD SIGN ≊ biohazard	biohazard
+1354	U+2B06	⬆	⬆	UPWARDS BLACK ARROW ≊ up arrow	arrow, cardinal, direction, north
+1355	U+2197	↗	↗	NORTH EAST ARROW ≊ up-right arrow	arrow, direction, intercardinal, northeast
+1356	U+27A1	➡	➡	BLACK RIGHTWARDS ARROW ≊ right arrow	arrow, cardinal, direction, east
+1357	U+2198	↘	↘	SOUTH EAST ARROW ≊ down-right arrow	arrow, direction, intercardinal, southeast
+1358	U+2B07	⬇	⬇	DOWNWARDS BLACK ARROW ≊ down arrow	arrow, cardinal, direction, down, south
+1359	U+2199	↙	↙	SOUTH WEST ARROW ≊ down-left arrow	arrow, direction, intercardinal, southwest
+1360	U+2B05	⬅	⬅	LEFTWARDS BLACK ARROW ≊ left arrow	arrow, cardinal, direction, west
+1361	U+2196	↖	↖	NORTH WEST ARROW ≊ up-left arrow	arrow, direction, intercardinal, northwest
+1362	U+2195	↕	↕	UP DOWN ARROW ≊ up-down arrow	arrow
+1363	U+2194	↔	↔	LEFT RIGHT ARROW ≊ left-right arrow	arrow
+1364	U+21A9	↩	↩	LEFTWARDS ARROW WITH HOOK ≊ right arrow curving left	arrow
+1365	U+21AA	↪	↪	RIGHTWARDS ARROW WITH HOOK ≊ left arrow curving right	arrow
+1366	U+2934	⤴	⤴	ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS ≊ right arrow curving up	arrow
+1367	U+2935	⤵	⤵	ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS ≊ right arrow curving down	arrow, down
+1368	U+1F503	🔃	🔃	CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS ≊ clockwise vertical arrows	arrow, clockwise, reload
+1369	U+1F504	🔄	🔄	ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS ≊ anticlockwise arrows button	anticlockwise, arrow, counterclockwise, withershins
+1370	U+1F519	🔙	🔙	BACK WITH LEFTWARDS ARROW ABOVE ≊ back arrow	arrow, back
+1371	U+1F51A	🔚	🔚	END WITH LEFTWARDS ARROW ABOVE ≊ end arrow	arrow, end
+1372	U+1F51B	🔛	🔛	ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE ≊ on! arrow	arrow, mark, on
+1373	U+1F51C	🔜	🔜	SOON WITH RIGHTWARDS ARROW ABOVE ≊ soon arrow	arrow, soon
+1374	U+1F51D	🔝	🔝	TOP WITH UPWARDS ARROW ABOVE ≊ top arrow	arrow, top, up
+1375	U+1F6D0	🛐	🛐	PLACE OF WORSHIP	religion, worship
+1376	U+269B	⚛	⚛	ATOM SYMBOL	atheist, atom
+1377	U+1F549	🕉	🕉	OM SYMBOL ≊ om	hindu, om, religion
+1378	U+2721	✡	✡	STAR OF DAVID	david, jew, jewish, religion, star
+1379	U+2638	☸	☸	WHEEL OF DHARMA	buddhist, dharma, religion, wheel
+1380	U+262F	☯	☯	YIN YANG	religion, tao, taoist, yang, yin
+1381	U+271D	✝	✝	LATIN CROSS	christian, cross, religion
+1382	U+2626	☦	☦	ORTHODOX CROSS	christian, cross, religion
+1383	U+262A	☪	☪	STAR AND CRESCENT	islam, muslim, religion
+1384	U+262E	☮	☮	PEACE SYMBOL	peace
+1385	U+1F54E	🕎	🕎	MENORAH WITH NINE BRANCHES ≊ menorah	candelabrum, candlestick, menorah, religion
+1386	U+1F52F	🔯	🔯	SIX POINTED STAR WITH MIDDLE DOT ≊ dotted six-pointed star	fortune, star
+1387	U+267B	♻	♻	BLACK UNIVERSAL RECYCLING SYMBOL ≊ recycling symbol	recycle
+1388	U+1F4DB	📛	📛	NAME BADGE	badge, name
+1389	U+269C	⚜	⚜	FLEUR-DE-LIS	fleur-de-lis
+1390	U+1F530	🔰	🔰	JAPANESE SYMBOL FOR BEGINNER	beginner, chevron, green, japanese, leaf, tool, yellow
+1391	U+1F531	🔱	🔱	TRIDENT EMBLEM	anchor, emblem, ship, tool, trident
+1392	U+2B55	⭕	⭕	HEAVY LARGE CIRCLE	circle, o
+1393	U+2705	✅	✅	WHITE HEAVY CHECK MARK	check, mark
+1394	U+2611	☑	☑	BALLOT BOX WITH CHECK	ballot, box, check
+1395	U+2714	✔	✔	HEAVY CHECK MARK	check, mark
+1396	U+2716	✖	✖	HEAVY MULTIPLICATION X	cancel, multiplication, multiply, x
+1397	U+274C	❌	❌	CROSS MARK	cancel, mark, multiplication, multiply, x
+1398	U+274E	❎	❎	NEGATIVE SQUARED CROSS MARK ≊ cross mark button	mark, square
+1399	U+2795	➕	➕	HEAVY PLUS SIGN	math, plus
+1400	U+2796	➖	➖	HEAVY MINUS SIGN	math, minus
+1401	U+2797	➗	➗	HEAVY DIVISION SIGN	division, math
+1402	U+27B0	➰	➰	CURLY LOOP	curl, loop
+1403	U+27BF	➿	➿	DOUBLE CURLY LOOP	curl, double, loop
+1404	U+303D	〽	〽	PART ALTERNATION MARK	mark, part
+1405	U+2733	✳	✳	EIGHT SPOKED ASTERISK ≊ eight-spoked asterisk	asterisk
+1406	U+2734	✴	✴	EIGHT POINTED BLACK STAR ≊ eight-pointed star	star
+1407	U+2747	❇	❇	SPARKLE	sparkle
+1408	U+203C	‼	‼	DOUBLE EXCLAMATION MARK	bangbang, exclamation, mark, punctuation
+1409	U+2049	⁉	⁉	EXCLAMATION QUESTION MARK	exclamation, interrobang, mark, punctuation, question
+1410	U+2753	❓	❓	BLACK QUESTION MARK ORNAMENT ≊ question mark	mark, punctuation, question
+1411	U+2754	❔	❔	WHITE QUESTION MARK ORNAMENT ≊ white question mark	mark, outlined, punctuation, question
+1412	U+2755	❕	❕	WHITE EXCLAMATION MARK ORNAMENT ≊ white exclamation mark	exclamation, mark, outlined, punctuation
+1413	U+2757	❗	❗	HEAVY EXCLAMATION MARK SYMBOL ≊ exclamation mark	exclamation, mark, punctuation
+1414	U+3030	〰	〰	WAVY DASH	dash, punctuation, wavy
+1415	U+00A9	©	©	COPYRIGHT SIGN ≊ copyright	copyright
+1416	U+00AE	®	®	REGISTERED SIGN ≊ registered	registered
+1417	U+2122	™	™	TRADE MARK SIGN ≊ trade mark	mark, tm, trademark
+1418	U+2648	♈	♈	ARIES	aries, ram, zodiac
+1419	U+2649	♉	♉	TAURUS	bull, ox, taurus, zodiac
+1420	U+264A	♊	♊	GEMINI	gemini, twins, zodiac
+1421	U+264B	♋	♋	CANCER	cancer, crab, zodiac
+1422	U+264C	♌	♌	LEO	leo, lion, zodiac
+1423	U+264D	♍	♍	VIRGO	maiden, virgin, virgo, zodiac
+1424	U+264E	♎	♎	LIBRA	balance, justice, libra, scales, zodiac
+1425	U+264F	♏	♏	SCORPIUS	scorpio, scorpion, scorpius, zodiac
+1426	U+2650	♐	♐	SAGITTARIUS	archer, sagittarius, zodiac
+1427	U+2651	♑	♑	CAPRICORN	capricorn, goat, zodiac
+1428	U+2652	♒	♒	AQUARIUS	aquarius, bearer, water, zodiac
+1429	U+2653	♓	♓	PISCES	fish, pisces, zodiac
+1430	U+26CE	⛎	⛎	OPHIUCHUS	bearer, ophiuchus, serpent, snake, zodiac
+1431	U+1F500	🔀	🔀	TWISTED RIGHTWARDS ARROWS ≊ shuffle tracks button	arrow, crossed
+1432	U+1F501	🔁	🔁	CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS ≊ repeat button	arrow, clockwise, repeat
+1433	U+1F502	🔂	🔂	CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY ≊ repeat single button	arrow, clockwise, once
+1434	U+25B6	▶	▶	BLACK RIGHT-POINTING TRIANGLE ≊ play button	arrow, play, right, triangle
+1435	U+23E9	⏩	⏩	BLACK RIGHT-POINTING DOUBLE TRIANGLE ≊ fast-forword button	arrow, double, fast, forward
+1436	U+23ED	⏭	⏭	BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR ≊ next track button	arrow, next scene, next track, triangle
+1437	U+23EF	⏯	⏯	BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR ≊ play or pause button	arrow, pause, play, right, triangle
+1438	U+25C0	◀	◀	BLACK LEFT-POINTING TRIANGLE ≊ reverse button	arrow, left, reverse, triangle
+1439	U+23EA	⏪	⏪	BLACK LEFT-POINTING DOUBLE TRIANGLE ≊ fast reverse button	arrow, double, rewind
+1440	U+23EE	⏮	⏮	BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR ≊ last track button	arrow, previous scene, previous track, triangle
+1441	U+1F53C	🔼	🔼	UP-POINTING SMALL RED TRIANGLE ≊ up button	arrow, button, red
+1442	U+23EB	⏫	⏫	BLACK UP-POINTING DOUBLE TRIANGLE ≊ fast up button	arrow, double
+1443	U+1F53D	🔽	🔽	DOWN-POINTING SMALL RED TRIANGLE ≊ down button	arrow, button, down, red
+1444	U+23EC	⏬	⏬	BLACK DOWN-POINTING DOUBLE TRIANGLE ≊ fast down button	arrow, double, down
+1445	U+23F8	⏸	⏸	DOUBLE VERTICAL BAR ≊ pause button	bar, double, pause, vertical
+1446	U+23F9	⏹	⏹	BLACK SQUARE FOR STOP ≊ stop button	square, stop
+1447	U+23FA	⏺	⏺	BLACK CIRCLE FOR RECORD ≊ record button	circle, record
+1448	U+23CF	⏏	⏏	EJECT SYMBOL ≊ eject button	eject
+1449	U+1F3A6	🎦	🎦	CINEMA	activity, camera, cinema, entertainment, film, movie
+1450	U+1F505	🔅	🔅	LOW BRIGHTNESS SYMBOL ≊ dim button	brightness, dim, low
+1451	U+1F506	🔆	🔆	HIGH BRIGHTNESS SYMBOL ≊ bright button	bright, brightness
+1452	U+1F4F6	📶	📶	ANTENNA WITH BARS ≊ antenna bars	antenna, bar, cell, communication, mobile, phone, signal, telephone
+1453	U+1F4F3	📳	📳	VIBRATION MODE	cell, communication, mobile, mode, phone, telephone, vibration
+1454	U+1F4F4	📴	📴	MOBILE PHONE OFF	cell, communication, mobile, off, phone, telephone
+1455	U+0023 U+FE0F U+20E3	#️⃣	#️⃣	Keycap NUMBER SIGN	hash, keycap, pound
+1456	U+002A U+FE0F U+20E3	*️⃣	*️⃣	Keycap ASTERISK	asterisk, keycap, star
+1457	U+0030 U+FE0F U+20E3	0️⃣	0️⃣	Keycap DIGIT ZERO	0, keycap, zero
+1458	U+0031 U+FE0F U+20E3	1️⃣	1️⃣	Keycap DIGIT ONE	1, keycap, one
+1459	U+0032 U+FE0F U+20E3	2️⃣	2️⃣	Keycap DIGIT TWO	2, keycap, two
+1460	U+0033 U+FE0F U+20E3	3️⃣	3️⃣	Keycap DIGIT THREE	3, keycap, three
+1461	U+0034 U+FE0F U+20E3	4️⃣	4️⃣	Keycap DIGIT FOUR	4, four, keycap
+1462	U+0035 U+FE0F U+20E3	5️⃣	5️⃣	Keycap DIGIT FIVE	5, five, keycap
+1463	U+0036 U+FE0F U+20E3	6️⃣	6️⃣	Keycap DIGIT SIX	6, keycap, six
+1464	U+0037 U+FE0F U+20E3	7️⃣	7️⃣	Keycap DIGIT SEVEN	7, keycap, seven
+1465	U+0038 U+FE0F U+20E3	8️⃣	8️⃣	Keycap DIGIT EIGHT	8, eight, keycap
+1466	U+0039 U+FE0F U+20E3	9️⃣	9️⃣	Keycap DIGIT NINE	9, keycap, nine
+1467	U+1F51F	🔟	🔟	KEYCAP TEN	10, keycap, ten
+1468	U+1F4AF	💯	💯	HUNDRED POINTS SYMBOL ≊ hundred points	100, full, hundred, score
+1469	U+1F520	🔠	🔠	INPUT SYMBOL FOR LATIN CAPITAL LETTERS ≊ input latin uppercase	input, latin, letters, uppercase
+1470	U+1F521	🔡	🔡	INPUT SYMBOL FOR LATIN SMALL LETTERS ≊ input latin lowercase	abcd, input, latin, letters, lowercase
+1471	U+1F522	🔢	🔢	INPUT SYMBOL FOR NUMBERS ≊ input numbers	1234, input, numbers
+1472	U+1F523	🔣	🔣	INPUT SYMBOL FOR SYMBOLS ≊ input symbols	input
+1473	U+1F524	🔤	🔤	INPUT SYMBOL FOR LATIN LETTERS ≊ input latin letters	abc, alphabet, input, latin, letters
+1474	U+1F170	🅰	🅰	NEGATIVE SQUARED LATIN CAPITAL LETTER A ≊ a button	a, blood
+1475	U+1F18E	🆎	🆎	NEGATIVE SQUARED AB ≊ ab button	ab, blood
+1476	U+1F171	🅱	🅱	NEGATIVE SQUARED LATIN CAPITAL LETTER B ≊ b button	b, blood
+1477	U+1F191	🆑	🆑	SQUARED CL	cl
+1478	U+1F192	🆒	🆒	SQUARED COOL	cool
+1479	U+1F193	🆓	🆓	SQUARED FREE	free
+1480	U+2139	ℹ	ℹ	INFORMATION SOURCE	i, information
+1481	U+1F194	🆔	🆔	SQUARED ID	id, identity
+1482	U+24C2	Ⓜ	Ⓜ	CIRCLED LATIN CAPITAL LETTER M ≊ circled letter m	circle, m
+1483	U+1F195	🆕	🆕	SQUARED NEW	new
+1484	U+1F196	🆖	🆖	SQUARED NG	ng
+1485	U+1F17E	🅾	🅾	NEGATIVE SQUARED LATIN CAPITAL LETTER O ≊ o button	blood, o
+1486	U+1F197	🆗	🆗	SQUARED OK	ok
+1487	U+1F17F	🅿	🅿	NEGATIVE SQUARED LATIN CAPITAL LETTER P ≊ p button	parking
+1488	U+1F198	🆘	🆘	SQUARED SOS	help, sos
+1489	U+1F199	🆙	🆙	SQUARED UP WITH EXCLAMATION MARK ≊ up! button	mark, up
+1490	U+1F19A	🆚	🆚	SQUARED VS	versus, vs
+1491	U+1F201	🈁	🈁	SQUARED KATAKANA KOKO	japanese
+1492	U+1F202	🈂	🈂	SQUARED KATAKANA SA	japanese
+1493	U+1F237	🈷	🈷	SQUARED CJK UNIFIED IDEOGRAPH-6708 ≊ squared moon ideograph	japanese
+1494	U+1F236	🈶	🈶	SQUARED CJK UNIFIED IDEOGRAPH-6709 ≊ squared exist ideograph	japanese
+1495	U+1F22F	🈯	🈯	SQUARED CJK UNIFIED IDEOGRAPH-6307 ≊ squared finger ideograph	japanese
+1496	U+1F250	🉐	🉐	CIRCLED IDEOGRAPH ADVANTAGE ≊ circled advantage ideograph	japanese
+1497	U+1F239	🈹	🈹	SQUARED CJK UNIFIED IDEOGRAPH-5272 ≊ squared divide ideograph	japanese
+1498	U+1F21A	🈚	🈚	SQUARED CJK UNIFIED IDEOGRAPH-7121 ≊ squared negation ideograph	japanese
+1499	U+1F232	🈲	🈲	SQUARED CJK UNIFIED IDEOGRAPH-7981 ≊ squared prohibit ideograph	japanese
+1500	U+1F251	🉑	🉑	CIRCLED IDEOGRAPH ACCEPT ≊ circled accept ideograph	chinese
+1501	U+1F238	🈸	🈸	SQUARED CJK UNIFIED IDEOGRAPH-7533 ≊ squared apply ideograph	chinese
+1502	U+1F234	🈴	🈴	SQUARED CJK UNIFIED IDEOGRAPH-5408 ≊ squared together ideograph	chinese
+1503	U+1F233	🈳	🈳	SQUARED CJK UNIFIED IDEOGRAPH-7A7A ≊ squared empty ideograph	chinese
+1504	U+3297	㊗	㊗	CIRCLED IDEOGRAPH CONGRATULATION ≊ circled congratulate ideograph	chinese, congratulation, congratulations, ideograph
+1505	U+3299	㊙	㊙	CIRCLED IDEOGRAPH SECRET ≊ circled secret ideograph	chinese, ideograph, secret
+1506	U+1F23A	🈺	🈺	SQUARED CJK UNIFIED IDEOGRAPH-55B6 ≊ squared operating ideograph	chinese
+1507	U+1F235	🈵	🈵	SQUARED CJK UNIFIED IDEOGRAPH-6E80 ≊ squared fullness ideograph	chinese
+1508	U+25AA	▪	▪	BLACK SMALL SQUARE	geometric, square
+1509	U+25AB	▫	▫	WHITE SMALL SQUARE	geometric, square
+1510	U+25FB	◻	◻	WHITE MEDIUM SQUARE	geometric, square
+1511	U+25FC	◼	◼	BLACK MEDIUM SQUARE	geometric, square
+1512	U+25FD	◽	◽	WHITE MEDIUM SMALL SQUARE ≊ white medium-small square	geometric, square
+1513	U+25FE	◾	◾	BLACK MEDIUM SMALL SQUARE ≊ black medium-small square	geometric, square
+1514	U+2B1B	⬛	⬛	BLACK LARGE SQUARE	geometric, square
+1515	U+2B1C	⬜	⬜	WHITE LARGE SQUARE	geometric, square
+1516	U+1F536	🔶	🔶	LARGE ORANGE DIAMOND	diamond, geometric, orange
+1517	U+1F537	🔷	🔷	LARGE BLUE DIAMOND	blue, diamond, geometric
+1518	U+1F538	🔸	🔸	SMALL ORANGE DIAMOND	diamond, geometric, orange
+1519	U+1F539	🔹	🔹	SMALL BLUE DIAMOND	blue, diamond, geometric
+1520	U+1F53A	🔺	🔺	UP-POINTING RED TRIANGLE ≊ red triangle pointed up	geometric, red
+1521	U+1F53B	🔻	🔻	DOWN-POINTING RED TRIANGLE ≊ red triangle pointed down	down, geometric, red
+1522	U+1F4A0	💠	💠	DIAMOND SHAPE WITH A DOT INSIDE ≊ diamond with a dot	comic, diamond, geometric, inside
+1523	U+1F518	🔘	🔘	RADIO BUTTON	button, geometric, radio
+1524	U+1F532	🔲	🔲	BLACK SQUARE BUTTON	button, geometric, square
+1525	U+1F533	🔳	🔳	WHITE SQUARE BUTTON	button, geometric, outlined, square
+1526	U+26AA	⚪	⚪	MEDIUM WHITE CIRCLE ≊ white circle	circle, geometric
+1527	U+26AB	⚫	⚫	MEDIUM BLACK CIRCLE ≊ black circle	circle, geometric
+1528	U+1F534	🔴	🔴	LARGE RED CIRCLE ≊ red circle	circle, geometric, red
+1529	U+1F535	🔵	🔵	LARGE BLUE CIRCLE ≊ blue circle	blue, circle, geometric
+1530	U+1F3C1	🏁	🏁	CHEQUERED FLAG	checkered, chequered, flag, racing
+1531	U+1F6A9	🚩	🚩	TRIANGULAR FLAG ON POST ≊ triangular flag	flag, post
+1532	U+1F38C	🎌	🎌	CROSSED FLAGS	activity, celebration, cross, crossed, flag, japanese
+1533	U+1F3F4	🏴	🏴	WAVING BLACK FLAG	flag, waving
+1534	U+1F3F3	🏳	🏳	WAVING WHITE FLAG	flag, waving
+1535	U+1F1E6 U+1F1E8	🇦🇨	🇦🇨	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER C	ascension, flag, island
+1536	U+1F1E6 U+1F1E9	🇦🇩	🇦🇩	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER D	andorra, flag
+1537	U+1F1E6 U+1F1EA	🇦🇪	🇦🇪	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER E	emirates, flag, uae, united
+1538	U+1F1E6 U+1F1EB	🇦🇫	🇦🇫	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER F	afghanistan, flag
+1539	U+1F1E6 U+1F1EC	🇦🇬	🇦🇬	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER G	antigua, barbuda, flag
+1540	U+1F1E6 U+1F1EE	🇦🇮	🇦🇮	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER I	anguilla, flag
+1541	U+1F1E6 U+1F1F1	🇦🇱	🇦🇱	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER L	albania, flag
+1542	U+1F1E6 U+1F1F2	🇦🇲	🇦🇲	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER M	armenia, flag
+1543	U+1F1E6 U+1F1F4	🇦🇴	🇦🇴	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER O	angola, flag
+1544	U+1F1E6 U+1F1F6	🇦🇶	🇦🇶	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Q	antarctica, flag
+1545	U+1F1E6 U+1F1F7	🇦🇷	🇦🇷	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER R	argentina, flag
+1546	U+1F1E6 U+1F1F8	🇦🇸	🇦🇸	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER S	american, flag, samoa
+1547	U+1F1E6 U+1F1F9	🇦🇹	🇦🇹	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER T	austria, flag
+1548	U+1F1E6 U+1F1FA	🇦🇺	🇦🇺	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER U	australia, flag
+1549	U+1F1E6 U+1F1FC	🇦🇼	🇦🇼	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER W	aruba, flag
+1550	U+1F1E6 U+1F1FD	🇦🇽	🇦🇽	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER X	åland, flag
+1551	U+1F1E6 U+1F1FF	🇦🇿	🇦🇿	REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Z	azerbaijan, flag
+1552	U+1F1E7 U+1F1E6	🇧🇦	🇧🇦	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER A	bosnia, flag, herzegovina
+1553	U+1F1E7 U+1F1E7	🇧🇧	🇧🇧	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER B	barbados, flag
+1554	U+1F1E7 U+1F1E9	🇧🇩	🇧🇩	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER D	bangladesh, flag
+1555	U+1F1E7 U+1F1EA	🇧🇪	🇧🇪	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER E	belgium, flag
+1556	U+1F1E7 U+1F1EB	🇧🇫	🇧🇫	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER F	burkina faso, flag
+1557	U+1F1E7 U+1F1EC	🇧🇬	🇧🇬	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER G	bulgaria, flag
+1558	U+1F1E7 U+1F1ED	🇧🇭	🇧🇭	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER H	bahrain, flag
+1559	U+1F1E7 U+1F1EE	🇧🇮	🇧🇮	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER I	burundi, flag
+1560	U+1F1E7 U+1F1EF	🇧🇯	🇧🇯	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER J	benin, flag
+1561	U+1F1E7 U+1F1F1	🇧🇱	🇧🇱	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER L	barthelemy, barthélemy, flag, saint
+1562	U+1F1E7 U+1F1F2	🇧🇲	🇧🇲	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER M	bermuda, flag
+1563	U+1F1E7 U+1F1F3	🇧🇳	🇧🇳	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER N	brunei, darussalam, flag
+1564	U+1F1E7 U+1F1F4	🇧🇴	🇧🇴	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER O	bolivia, flag
+1565	U+1F1E7 U+1F1F6	🇧🇶	🇧🇶	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Q	bonaire, caribbean, eustatius, flag, netherlands, saba, sint
+1566	U+1F1E7 U+1F1F7	🇧🇷	🇧🇷	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER R	brazil, flag
+1567	U+1F1E7 U+1F1F8	🇧🇸	🇧🇸	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER S	bahamas, flag
+1568	U+1F1E7 U+1F1F9	🇧🇹	🇧🇹	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER T	bhutan, flag
+1569	U+1F1E7 U+1F1FB	🇧🇻	🇧🇻	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER V	bouvet, flag, island
+1570	U+1F1E7 U+1F1FC	🇧🇼	🇧🇼	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER W	botswana, flag
+1571	U+1F1E7 U+1F1FE	🇧🇾	🇧🇾	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Y	belarus, flag
+1572	U+1F1E7 U+1F1FF	🇧🇿	🇧🇿	REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Z	belize, flag
+1573	U+1F1E8 U+1F1E6	🇨🇦	🇨🇦	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER A	canada, flag
+1574	U+1F1E8 U+1F1E8	🇨🇨	🇨🇨	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER C	cocos, flag, island, keeling
+1575	U+1F1E8 U+1F1E9	🇨🇩	🇨🇩	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER D	congo, congo-kinshasa, democratic republic of congo, drc, flag, kinshasa, republic
+1576	U+1F1E8 U+1F1EB	🇨🇫	🇨🇫	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER F	central african republic, flag, republic
+1577	U+1F1E8 U+1F1EC	🇨🇬	🇨🇬	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER G	brazzaville, congo, congo republic, congo-brazzaville, flag, republic, republic of the congo
+1578	U+1F1E8 U+1F1ED	🇨🇭	🇨🇭	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER H	flag, switzerland
+1579	U+1F1E8 U+1F1EE	🇨🇮	🇨🇮	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER I	cote ivoire, côte ivoire, flag, ivory coast
+1580	U+1F1E8 U+1F1F0	🇨🇰	🇨🇰	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER K	cook, flag, island
+1581	U+1F1E8 U+1F1F1	🇨🇱	🇨🇱	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER L	chile, flag
+1582	U+1F1E8 U+1F1F2	🇨🇲	🇨🇲	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER M	cameroon, flag
+1583	U+1F1E8 U+1F1F3	🇨🇳	🇨🇳	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER N	china, flag
+1584	U+1F1E8 U+1F1F4	🇨🇴	🇨🇴	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER O	colombia, flag
+1585	U+1F1E8 U+1F1F5	🇨🇵	🇨🇵	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER P	clipperton, flag, island
+1586	U+1F1E8 U+1F1F7	🇨🇷	🇨🇷	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER R	costa rica, flag
+1587	U+1F1E8 U+1F1FA	🇨🇺	🇨🇺	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER U	cuba, flag
+1588	U+1F1E8 U+1F1FB	🇨🇻	🇨🇻	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER V	cabo, cape, flag, verde
+1589	U+1F1E8 U+1F1FC	🇨🇼	🇨🇼	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER W	antilles, curacao, curaçao, flag
+1590	U+1F1E8 U+1F1FD	🇨🇽	🇨🇽	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER X	christmas, flag, island
+1591	U+1F1E8 U+1F1FE	🇨🇾	🇨🇾	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Y	cyprus, flag
+1592	U+1F1E8 U+1F1FF	🇨🇿	🇨🇿	REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Z	czech republic, flag
+1593	U+1F1E9 U+1F1EA	🇩🇪	🇩🇪	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER E	flag, germany
+1594	U+1F1E9 U+1F1EC	🇩🇬	🇩🇬	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER G	diego garcia, flag
+1595	U+1F1E9 U+1F1EF	🇩🇯	🇩🇯	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER J	djibouti, flag
+1596	U+1F1E9 U+1F1F0	🇩🇰	🇩🇰	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER K	denmark, flag
+1597	U+1F1E9 U+1F1F2	🇩🇲	🇩🇲	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER M	dominica, flag
+1598	U+1F1E9 U+1F1F4	🇩🇴	🇩🇴	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER O	dominican republic, flag
+1599	U+1F1E9 U+1F1FF	🇩🇿	🇩🇿	REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER Z	algeria, flag
+1600	U+1F1EA U+1F1E6	🇪🇦	🇪🇦	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER A	ceuta, flag, melilla
+1601	U+1F1EA U+1F1E8	🇪🇨	🇪🇨	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER C	ecuador, flag
+1602	U+1F1EA U+1F1EA	🇪🇪	🇪🇪	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER E	estonia, flag
+1603	U+1F1EA U+1F1EC	🇪🇬	🇪🇬	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER G	egypt, flag
+1604	U+1F1EA U+1F1ED	🇪🇭	🇪🇭	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER H	flag, sahara, west, western sahara
+1605	U+1F1EA U+1F1F7	🇪🇷	🇪🇷	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER R	eritrea, flag
+1606	U+1F1EA U+1F1F8	🇪🇸	🇪🇸	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER S	flag, spain
+1607	U+1F1EA U+1F1F9	🇪🇹	🇪🇹	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER T	ethiopia, flag
+1608	U+1F1EA U+1F1FA	🇪🇺	🇪🇺	REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER U	european union, flag
+1609	U+1F1EB U+1F1EE	🇫🇮	🇫🇮	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER I	finland, flag
+1610	U+1F1EB U+1F1EF	🇫🇯	🇫🇯	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER J	fiji, flag
+1611	U+1F1EB U+1F1F0	🇫🇰	🇫🇰	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER K	falkland, falklands, flag, island, islas, malvinas
+1612	U+1F1EB U+1F1F2	🇫🇲	🇫🇲	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER M	flag, micronesia
+1613	U+1F1EB U+1F1F4	🇫🇴	🇫🇴	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER O	faroe, flag, island
+1614	U+1F1EB U+1F1F7	🇫🇷	🇫🇷	REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER R	flag, france
+1615	U+1F1EC U+1F1E6	🇬🇦	🇬🇦	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER A	flag, gabon
+1616	U+1F1EC U+1F1E7	🇬🇧	🇬🇧	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER B	britain, british, cornwall, england, flag, great britain, ireland, northern ireland, scotland, uk, union jack, united, united kingdom, wales
+1617	U+1F1EC U+1F1E9	🇬🇩	🇬🇩	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER D	flag, grenada
+1618	U+1F1EC U+1F1EA	🇬🇪	🇬🇪	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER E	flag, georgia
+1619	U+1F1EC U+1F1EB	🇬🇫	🇬🇫	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER F	flag, french, guiana
+1620	U+1F1EC U+1F1EC	🇬🇬	🇬🇬	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER G	flag, guernsey
+1621	U+1F1EC U+1F1ED	🇬🇭	🇬🇭	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER H	flag, ghana
+1622	U+1F1EC U+1F1EE	🇬🇮	🇬🇮	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER I	flag, gibraltar
+1623	U+1F1EC U+1F1F1	🇬🇱	🇬🇱	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER L	flag, greenland
+1624	U+1F1EC U+1F1F2	🇬🇲	🇬🇲	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER M	flag, gambia
+1625	U+1F1EC U+1F1F3	🇬🇳	🇬🇳	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER N	flag, guinea
+1626	U+1F1EC U+1F1F5	🇬🇵	🇬🇵	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER P	flag, guadeloupe
+1627	U+1F1EC U+1F1F6	🇬🇶	🇬🇶	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Q	equatorial guinea, flag, guinea
+1628	U+1F1EC U+1F1F7	🇬🇷	🇬🇷	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER R	flag, greece
+1629	U+1F1EC U+1F1F8	🇬🇸	🇬🇸	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER S	flag, georgia, island, south, south georgia, south sandwich
+1630	U+1F1EC U+1F1F9	🇬🇹	🇬🇹	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER T	flag, guatemala
+1631	U+1F1EC U+1F1FA	🇬🇺	🇬🇺	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER U	flag, guam
+1632	U+1F1EC U+1F1FC	🇬🇼	🇬🇼	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER W	bissau, flag, guinea
+1633	U+1F1EC U+1F1FE	🇬🇾	🇬🇾	REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Y	flag, guyana
+1634	U+1F1ED U+1F1F0	🇭🇰	🇭🇰	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER K	china, flag, hong kong
+1635	U+1F1ED U+1F1F2	🇭🇲	🇭🇲	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER M	flag, heard, island, mcdonald
+1636	U+1F1ED U+1F1F3	🇭🇳	🇭🇳	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER N	flag, honduras
+1637	U+1F1ED U+1F1F7	🇭🇷	🇭🇷	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER R	croatia, flag
+1638	U+1F1ED U+1F1F9	🇭🇹	🇭🇹	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER T	flag, haiti
+1639	U+1F1ED U+1F1FA	🇭🇺	🇭🇺	REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER U	flag, hungary
+1640	U+1F1EE U+1F1E8	🇮🇨	🇮🇨	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER C	canary, flag, island
+1641	U+1F1EE U+1F1E9	🇮🇩	🇮🇩	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER D	flag, indonesia
+1642	U+1F1EE U+1F1EA	🇮🇪	🇮🇪	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER E	flag, ireland
+1643	U+1F1EE U+1F1F1	🇮🇱	🇮🇱	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER L	flag, israel
+1644	U+1F1EE U+1F1F2	🇮🇲	🇮🇲	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER M	flag, isle of man
+1645	U+1F1EE U+1F1F3	🇮🇳	🇮🇳	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER N	flag, india
+1646	U+1F1EE U+1F1F4	🇮🇴	🇮🇴	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER O	british, chagos, flag, indian ocean, island
+1647	U+1F1EE U+1F1F6	🇮🇶	🇮🇶	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER Q	flag, iraq
+1648	U+1F1EE U+1F1F7	🇮🇷	🇮🇷	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER R	flag, iran
+1649	U+1F1EE U+1F1F8	🇮🇸	🇮🇸	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER S	flag, iceland
+1650	U+1F1EE U+1F1F9	🇮🇹	🇮🇹	REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER T	flag, italy
+1651	U+1F1EF U+1F1EA	🇯🇪	🇯🇪	REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER E	flag, jersey
+1652	U+1F1EF U+1F1F2	🇯🇲	🇯🇲	REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER M	flag, jamaica
+1653	U+1F1EF U+1F1F4	🇯🇴	🇯🇴	REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER O	flag, jordan
+1654	U+1F1EF U+1F1F5	🇯🇵	🇯🇵	REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER P	flag, japan
+1655	U+1F1F0 U+1F1EA	🇰🇪	🇰🇪	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER E	flag, kenya
+1656	U+1F1F0 U+1F1EC	🇰🇬	🇰🇬	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER G	flag, kyrgyzstan
+1657	U+1F1F0 U+1F1ED	🇰🇭	🇰🇭	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER H	cambodia, flag
+1658	U+1F1F0 U+1F1EE	🇰🇮	🇰🇮	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER I	flag, kiribati
+1659	U+1F1F0 U+1F1F2	🇰🇲	🇰🇲	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER M	comoros, flag
+1660	U+1F1F0 U+1F1F3	🇰🇳	🇰🇳	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER N	flag, kitts, nevis, saint
+1661	U+1F1F0 U+1F1F5	🇰🇵	🇰🇵	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER P	flag, korea, north, north korea
+1662	U+1F1F0 U+1F1F7	🇰🇷	🇰🇷	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER R	flag, korea, south, south korea
+1663	U+1F1F0 U+1F1FC	🇰🇼	🇰🇼	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER W	flag, kuwait
+1664	U+1F1F0 U+1F1FE	🇰🇾	🇰🇾	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Y	cayman, flag, island
+1665	U+1F1F0 U+1F1FF	🇰🇿	🇰🇿	REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Z	flag, kazakhstan
+1666	U+1F1F1 U+1F1E6	🇱🇦	🇱🇦	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER A	flag, laos
+1667	U+1F1F1 U+1F1E7	🇱🇧	🇱🇧	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER B	flag, lebanon
+1668	U+1F1F1 U+1F1E8	🇱🇨	🇱🇨	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER C	flag, lucia, saint
+1669	U+1F1F1 U+1F1EE	🇱🇮	🇱🇮	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER I	flag, liechtenstein
+1670	U+1F1F1 U+1F1F0	🇱🇰	🇱🇰	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER K	flag, sri lanka
+1671	U+1F1F1 U+1F1F7	🇱🇷	🇱🇷	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER R	flag, liberia
+1672	U+1F1F1 U+1F1F8	🇱🇸	🇱🇸	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER S	flag, lesotho
+1673	U+1F1F1 U+1F1F9	🇱🇹	🇱🇹	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER T	flag, lithuania
+1674	U+1F1F1 U+1F1FA	🇱🇺	🇱🇺	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER U	flag, luxembourg
+1675	U+1F1F1 U+1F1FB	🇱🇻	🇱🇻	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER V	flag, latvia
+1676	U+1F1F1 U+1F1FE	🇱🇾	🇱🇾	REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER Y	flag, libya
+1677	U+1F1F2 U+1F1E6	🇲🇦	🇲🇦	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER A	flag, morocco
+1678	U+1F1F2 U+1F1E8	🇲🇨	🇲🇨	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER C	flag, monaco
+1679	U+1F1F2 U+1F1E9	🇲🇩	🇲🇩	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER D	flag, moldova
+1680	U+1F1F2 U+1F1EA	🇲🇪	🇲🇪	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER E	flag, montenegro
+1681	U+1F1F2 U+1F1EB	🇲🇫	🇲🇫	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER F	flag, french, martin, saint
+1682	U+1F1F2 U+1F1EC	🇲🇬	🇲🇬	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER G	flag, madagascar
+1683	U+1F1F2 U+1F1ED	🇲🇭	🇲🇭	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER H	flag, island, marshall
+1684	U+1F1F2 U+1F1F0	🇲🇰	🇲🇰	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER K	flag, macedonia
+1685	U+1F1F2 U+1F1F1	🇲🇱	🇲🇱	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER L	flag, mali
+1686	U+1F1F2 U+1F1F2	🇲🇲	🇲🇲	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER M	burma, flag, myanmar
+1687	U+1F1F2 U+1F1F3	🇲🇳	🇲🇳	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER N	flag, mongolia
+1688	U+1F1F2 U+1F1F4	🇲🇴	🇲🇴	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER O	china, flag, macao, macau
+1689	U+1F1F2 U+1F1F5	🇲🇵	🇲🇵	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER P	flag, island, mariana, north, northern mariana
+1690	U+1F1F2 U+1F1F6	🇲🇶	🇲🇶	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Q	flag, martinique
+1691	U+1F1F2 U+1F1F7	🇲🇷	🇲🇷	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER R	flag, mauritania
+1692	U+1F1F2 U+1F1F8	🇲🇸	🇲🇸	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER S	flag, montserrat
+1693	U+1F1F2 U+1F1F9	🇲🇹	🇲🇹	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER T	flag, malta
+1694	U+1F1F2 U+1F1FA	🇲🇺	🇲🇺	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER U	flag, mauritius
+1695	U+1F1F2 U+1F1FB	🇲🇻	🇲🇻	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER V	flag, maldives
+1696	U+1F1F2 U+1F1FC	🇲🇼	🇲🇼	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER W	flag, malawi
+1697	U+1F1F2 U+1F1FD	🇲🇽	🇲🇽	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER X	flag, mexico
+1698	U+1F1F2 U+1F1FE	🇲🇾	🇲🇾	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Y	flag, malaysia
+1699	U+1F1F2 U+1F1FF	🇲🇿	🇲🇿	REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Z	flag, mozambique
+1700	U+1F1F3 U+1F1E6	🇳🇦	🇳🇦	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER A	flag, namibia
+1701	U+1F1F3 U+1F1E8	🇳🇨	🇳🇨	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER C	flag, new, new caledonia
+1702	U+1F1F3 U+1F1EA	🇳🇪	🇳🇪	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER E	flag, niger
+1703	U+1F1F3 U+1F1EB	🇳🇫	🇳🇫	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER F	flag, island, norfolk
+1704	U+1F1F3 U+1F1EC	🇳🇬	🇳🇬	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER G	flag, nigeria
+1705	U+1F1F3 U+1F1EE	🇳🇮	🇳🇮	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER I	flag, nicaragua
+1706	U+1F1F3 U+1F1F1	🇳🇱	🇳🇱	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER L	flag, netherlands
+1707	U+1F1F3 U+1F1F4	🇳🇴	🇳🇴	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER O	flag, norway
+1708	U+1F1F3 U+1F1F5	🇳🇵	🇳🇵	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER P	flag, nepal
+1709	U+1F1F3 U+1F1F7	🇳🇷	🇳🇷	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER R	flag, nauru
+1710	U+1F1F3 U+1F1FA	🇳🇺	🇳🇺	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER U	flag, niue
+1711	U+1F1F3 U+1F1FF	🇳🇿	🇳🇿	REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER Z	flag, new, new zealand
+1712	U+1F1F4 U+1F1F2	🇴🇲	🇴🇲	REGIONAL INDICATOR SYMBOL LETTER O, REGIONAL INDICATOR SYMBOL LETTER M	flag, oman
+1713	U+1F1F5 U+1F1E6	🇵🇦	🇵🇦	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER A	flag, panama
+1714	U+1F1F5 U+1F1EA	🇵🇪	🇵🇪	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER E	flag, peru
+1715	U+1F1F5 U+1F1EB	🇵🇫	🇵🇫	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER F	flag, french, polynesia
+1716	U+1F1F5 U+1F1EC	🇵🇬	🇵🇬	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER G	flag, guinea, new, papua new guinea
+1717	U+1F1F5 U+1F1ED	🇵🇭	🇵🇭	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER H	flag, philippines
+1718	U+1F1F5 U+1F1F0	🇵🇰	🇵🇰	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER K	flag, pakistan
+1719	U+1F1F5 U+1F1F1	🇵🇱	🇵🇱	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER L	flag, poland
+1720	U+1F1F5 U+1F1F2	🇵🇲	🇵🇲	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER M	flag, miquelon, pierre, saint
+1721	U+1F1F5 U+1F1F3	🇵🇳	🇵🇳	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER N	flag, island, pitcairn
+1722	U+1F1F5 U+1F1F7	🇵🇷	🇵🇷	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER R	flag, puerto rico
+1723	U+1F1F5 U+1F1F8	🇵🇸	🇵🇸	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER S	flag, palestine
+1724	U+1F1F5 U+1F1F9	🇵🇹	🇵🇹	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER T	flag, portugal
+1725	U+1F1F5 U+1F1FC	🇵🇼	🇵🇼	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER W	flag, palau
+1726	U+1F1F5 U+1F1FE	🇵🇾	🇵🇾	REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER Y	flag, paraguay
+1727	U+1F1F6 U+1F1E6	🇶🇦	🇶🇦	REGIONAL INDICATOR SYMBOL LETTER Q, REGIONAL INDICATOR SYMBOL LETTER A	flag, qatar
+1728	U+1F1F7 U+1F1EA	🇷🇪	🇷🇪	REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER E	flag, reunion, réunion
+1729	U+1F1F7 U+1F1F4	🇷🇴	🇷🇴	REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER O	flag, romania
+1730	U+1F1F7 U+1F1F8	🇷🇸	🇷🇸	REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER S	flag, serbia
+1731	U+1F1F7 U+1F1FA	🇷🇺	🇷🇺	REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER U	flag, russia
+1732	U+1F1F7 U+1F1FC	🇷🇼	🇷🇼	REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER W	flag, rwanda
+1733	U+1F1F8 U+1F1E6	🇸🇦	🇸🇦	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER A	flag, saudi arabia
+1734	U+1F1F8 U+1F1E7	🇸🇧	🇸🇧	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER B	flag, island, solomon
+1735	U+1F1F8 U+1F1E8	🇸🇨	🇸🇨	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER C	flag, seychelles
+1736	U+1F1F8 U+1F1E9	🇸🇩	🇸🇩	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER D	flag, sudan
+1737	U+1F1F8 U+1F1EA	🇸🇪	🇸🇪	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER E	flag, sweden
+1738	U+1F1F8 U+1F1EC	🇸🇬	🇸🇬	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER G	flag, singapore
+1739	U+1F1F8 U+1F1ED	🇸🇭	🇸🇭	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER H	flag, helena, saint
+1740	U+1F1F8 U+1F1EE	🇸🇮	🇸🇮	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER I	flag, slovenia
+1741	U+1F1F8 U+1F1EF	🇸🇯	🇸🇯	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER J	flag, jan mayen, svalbard
+1742	U+1F1F8 U+1F1F0	🇸🇰	🇸🇰	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER K	flag, slovakia
+1743	U+1F1F8 U+1F1F1	🇸🇱	🇸🇱	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER L	flag, sierra leone
+1744	U+1F1F8 U+1F1F2	🇸🇲	🇸🇲	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER M	flag, san marino
+1745	U+1F1F8 U+1F1F3	🇸🇳	🇸🇳	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER N	flag, senegal
+1746	U+1F1F8 U+1F1F4	🇸🇴	🇸🇴	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER O	flag, somalia
+1747	U+1F1F8 U+1F1F7	🇸🇷	🇸🇷	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER R	flag, suriname
+1748	U+1F1F8 U+1F1F8	🇸🇸	🇸🇸	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER S	flag, south, south sudan, sudan
+1749	U+1F1F8 U+1F1F9	🇸🇹	🇸🇹	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER T	flag, principe, príncipe, sao tome, são tomé
+1750	U+1F1F8 U+1F1FB	🇸🇻	🇸🇻	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER V	el salvador, flag
+1751	U+1F1F8 U+1F1FD	🇸🇽	🇸🇽	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER X	flag, maarten, sint
+1752	U+1F1F8 U+1F1FE	🇸🇾	🇸🇾	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Y	flag, syria
+1753	U+1F1F8 U+1F1FF	🇸🇿	🇸🇿	REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Z	flag, swaziland
+1754	U+1F1F9 U+1F1E6	🇹🇦	🇹🇦	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER A	flag, tristan da cunha
+1755	U+1F1F9 U+1F1E8	🇹🇨	🇹🇨	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER C	caicos, flag, island, turks
+1756	U+1F1F9 U+1F1E9	🇹🇩	🇹🇩	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER D	chad, flag
+1757	U+1F1F9 U+1F1EB	🇹🇫	🇹🇫	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER F	antarctic, flag, french
+1758	U+1F1F9 U+1F1EC	🇹🇬	🇹🇬	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER G	flag, togo
+1759	U+1F1F9 U+1F1ED	🇹🇭	🇹🇭	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER H	flag, thailand
+1760	U+1F1F9 U+1F1EF	🇹🇯	🇹🇯	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER J	flag, tajikistan
+1761	U+1F1F9 U+1F1F0	🇹🇰	🇹🇰	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER K	flag, tokelau
+1762	U+1F1F9 U+1F1F1	🇹🇱	🇹🇱	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER L	east, east timor, flag, timor-leste
+1763	U+1F1F9 U+1F1F2	🇹🇲	🇹🇲	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER M	flag, turkmenistan
+1764	U+1F1F9 U+1F1F3	🇹🇳	🇹🇳	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER N	flag, tunisia
+1765	U+1F1F9 U+1F1F4	🇹🇴	🇹🇴	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER O	flag, tonga
+1766	U+1F1F9 U+1F1F7	🇹🇷	🇹🇷	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER R	flag, turkey
+1767	U+1F1F9 U+1F1F9	🇹🇹	🇹🇹	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER T	flag, tobago, trinidad
+1768	U+1F1F9 U+1F1FB	🇹🇻	🇹🇻	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER V	flag, tuvalu
+1769	U+1F1F9 U+1F1FC	🇹🇼	🇹🇼	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER W	china, flag, taiwan
+1770	U+1F1F9 U+1F1FF	🇹🇿	🇹🇿	REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER Z	flag, tanzania
+1771	U+1F1FA U+1F1E6	🇺🇦	🇺🇦	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER A	flag, ukraine
+1772	U+1F1FA U+1F1EC	🇺🇬	🇺🇬	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER G	flag, uganda
+1773	U+1F1FA U+1F1F2	🇺🇲	🇺🇲	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER M	america, flag, island, minor outlying, united, united states, us, usa
+1774	U+1F1FA U+1F1F8	🇺🇸	🇺🇸	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER S	america, flag, stars and stripes, united, united states
+1775	U+1F1FA U+1F1FE	🇺🇾	🇺🇾	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Y	flag, uruguay
+1776	U+1F1FA U+1F1FF	🇺🇿	🇺🇿	REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Z	flag, uzbekistan
+1777	U+1F1FB U+1F1E6	🇻🇦	🇻🇦	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER A	flag, vatican
+1778	U+1F1FB U+1F1E8	🇻🇨	🇻🇨	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER C	flag, grenadines, saint, vincent
+1779	U+1F1FB U+1F1EA	🇻🇪	🇻🇪	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER E	flag, venezuela
+1780	U+1F1FB U+1F1EC	🇻🇬	🇻🇬	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER G	british, flag, island, virgin
+1781	U+1F1FB U+1F1EE	🇻🇮	🇻🇮	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER I	america, american, flag, island, united, united states, us, usa, virgin
+1782	U+1F1FB U+1F1F3	🇻🇳	🇻🇳	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER N	flag, viet nam, vietnam
+1783	U+1F1FB U+1F1FA	🇻🇺	🇻🇺	REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER U	flag, vanuatu
+1784	U+1F1FC U+1F1EB	🇼🇫	🇼🇫	REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER F	flag, futuna, wallis
+1785	U+1F1FC U+1F1F8	🇼🇸	🇼🇸	REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER S	flag, samoa
+1786	U+1F1FD U+1F1F0	🇽🇰	🇽🇰	REGIONAL INDICATOR SYMBOL LETTER X, REGIONAL INDICATOR SYMBOL LETTER K	flag, kosovo
+1787	U+1F1FE U+1F1EA	🇾🇪	🇾🇪	REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER E	flag, yemen
+1788	U+1F1FE U+1F1F9	🇾🇹	🇾🇹	REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER T	flag, mayotte
+1789	U+1F1FF U+1F1E6	🇿🇦	🇿🇦	REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER A	flag, south, south africa
+1790	U+1F1FF U+1F1F2	🇿🇲	🇿🇲	REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER M	flag, zambia
+1791	U+1F1FF U+1F1FC	🇿🇼	🇿🇼	REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER W	flag, zimbabwe
