@@ -19,5 +19,14 @@
 	</dict>
 	<key>DCSDictionaryManufacturerName</key>
 	<string>Matt Sephton https://github.com/gingerbeardman/Emojipedia/</string>
+	<key>DCSDictionaryLanguages</key>
+	<array>
+		<dict>
+			<key>DCSDictionaryIndexLanguage</key>
+			<string>en</string>
+			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>en</string>
+		</dict>
+	</array>
 </dict>
 </plist>
