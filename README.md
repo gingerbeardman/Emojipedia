@@ -5,8 +5,8 @@ Mac OS X Dictionary containing Emoji and their meanings
 1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
-4. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary)
-(5. Optional: drag the *Emojipedia* dictionary to a place of your choice in the list of dictionaries
+4. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary
+5. Optional: drag the *Emojipedia* dictionary to change the order of the list of dictionaries
 
 ### Status
 Number of Emoji included: 1791
@@ -31,6 +31,7 @@ Dictionary.app
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
 * Add translations
 * Add language toggle
+* Improve display CSS
 
 ---
 
