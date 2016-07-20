@@ -8,7 +8,7 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Emojipedia"
+DICT_NAME		=	Emojipedia
 DICT_SRC_PATH		=	Emoji.xml
 CSS_PATH		=	Emoji.css
 PLIST_PATH		=	Emoji.plist
@@ -30,20 +30,25 @@ DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
 DICT_DEV_KIT_OBJ_DIR	=	./objects
 export	DICT_DEV_KIT_OBJ_DIR
 
+DICTIONARY_BUNDLE	=	$(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
 DESTINATION_FOLDER	=	~/Library/Dictionaries
 RM			=	/bin/rm
 
 ###########################
 
-all:
+all: build
+
+build: $(DICTIONARY_BUNDLE)
+
+$(DICTIONARY_BUNDLE): $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
 	"$(DICT_BUILD_TOOL_BIN)/build_dict.sh" $(DICT_BUILD_OPTS) $(DICT_NAME) $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
 	@echo "Done."
 
 
-install:
+install: build
 	@echo "Installing into $(DESTINATION_FOLDER)".
 	mkdir -p $(DESTINATION_FOLDER)
-	ditto --noextattr --norsrc $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary  $(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
+	ditto --noextattr --norsrc $(DICTIONARY_BUNDLE) $(DESTINATION_FOLDER)/$(DICT_NAME).dictionary
 	touch $(DESTINATION_FOLDER)
 	@echo "Done."
 	@echo "To test the new dictionary, try Dictionary.app."
@@ -51,3 +56,5 @@ install:
 clean:
 	$(RM) $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
+
+.PHONY: all build install clean
