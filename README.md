@@ -8,15 +8,6 @@ Mac OS X Dictionary containing Emoji and their meanings
 4. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
 5. Optional: drag the *Emojipedia* dictionary entry to change the order of dictionaries
 
-### Status
-Number of Emoji included: 1791
-
-Features: 
-* Emoji display
-* Descriptive name
-* Hyperlinked keywords
-* Link to read more at [Emojipedia](http://emojipedia.org)
-
 ---
 
 ## Screenshots
@@ -27,7 +18,18 @@ Dicationary Lookup (press Cmd+Ctrl+D whilst pointing the mouse cursor at the emo
 Dictionary.app  
 ![Dictionary.app](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_app.png)
 
-### Todo
+---
+
+## Status
+Number of Emoji included: 1791
+
+Features: 
+* Emoji display
+* Descriptive name
+* Hyperlinked keywords
+* Link to read more at [Emojipedia](http://emojipedia.org)
+
+## Todo
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
 * Add translations
 * Add language toggle
