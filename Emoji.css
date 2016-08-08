@@ -6,8 +6,8 @@ body {
   font-size: 62.5%;
   font-size: 0.9em;
 }
-
-d|entry {
+html.apple_client-panel a, html.apple_client-panel ul.tags {
+	display: none;
 }
 
 h1 {
@@ -34,6 +34,10 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+h1, h1:hover {
+  text-decoration: none;
 }
 
 p, li {
