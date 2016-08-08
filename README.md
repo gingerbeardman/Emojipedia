@@ -2,12 +2,18 @@
 Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
+
+### Manual
 - Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip) and unzip it
 - Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
-- Or install using homebrew caskroom `brew cask install emojipedia`
-- Launch Dictionary.app
-- In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
-- Optional: drag the *Emojipedia* dictionary entry to change the order of dictionaries
+
+### Using Helper
+- Install using homebrew caskroom `brew cask install emojipedia`
+
+## Configuration
+1. Launch Dictionary.app
+2. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
+3. Optional: drag the *Emojipedia* dictionary entry to change the order of dictionaries
 
 ---
 
