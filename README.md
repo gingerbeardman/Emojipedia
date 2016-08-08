@@ -40,7 +40,6 @@ Features:
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
 * Add translations
 * Add language toggle
-* Improve display CSS
 
 ---
 
