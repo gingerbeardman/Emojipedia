@@ -3,7 +3,7 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
 
-### Manual
+### Manually
 - Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160717/Emojipedia.dictionary.zip) and unzip it
 - Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 
