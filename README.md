@@ -21,7 +21,8 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 Try looking up the meaning of these emoji as a test: 😍 🔰 💮 💩
 
-* Right-click on the emoji and choose the _Look Up_ menu item (on a track pad you can also use a Three Finger Tap or Force Click)
+* Right-click on the emoji and choose the _Look Up_ menu item  
+  (on a track pad you can also use a Three Finger Tap or Force Click)
 * Press Cmd+Ctrl+D whilst pointing the mouse cursor at the emoji to display a popup
 * Launch Dictionary and type the emoji into the search field
 
