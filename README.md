@@ -78,3 +78,4 @@ Feel free to send Pull Requests for items on the todo list!
 2. [Create Custom Dictionaries For Mac OSX](http://blog.nagpals.com/mac-dictionaries/), Indiver Nagpal
 3. [Emoji Data](http://unicode.org/emoji/charts/emoji-list.html), Unicode, Inc.
 4. [Emojipedia](http://emojipedia.org), Emojipedia Pty Ltd
+5. [Emoji Keyboard Online](http://emojikeyboard.org), Emoji Keyboard™
