@@ -29,13 +29,13 @@ Try looking up the meaning of these emoji as a test: 😍 🔰 💮 💩
 ## Screenshots
 
 Contextual menu Look Up  
-![Dictionary lookup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_lookup.png)
+![Dictionary lookup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_emoji-dictionary_lookup.png)
 
 Dicationary Popup  
-![Dictionary popup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_popup.png)
+![Dictionary popup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_emoji-dictionary_popup.png)
 
 Dictionary.app  
-![Dictionary.app](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_app.png)
+![Dictionary.app](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_emoji-dictionary_app.png)
 
 ---
 
