@@ -17,10 +17,21 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 ---
 
+## Using the dictionary
+
+Try looking up the meaning of these emoji as a test: 😍 🔰 💮 💩
+
+* Right-click on the emoji and choose the _Look Up_ menu item (on a track pad you can also use a Three Finger Tap or Force Click)
+* Press Cmd+Ctrl+D whilst pointing the mouse cursor at the emoji to display a popup
+* Launch Dictionary and type the emoji into the search field
+
 ## Screenshots
 
-Dicationary Lookup (press Cmd+Ctrl+D whilst pointing the mouse cursor at the emoji/word you want to lookup)  
+Contextual menu Look Up  
 ![Dictionary lookup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_lookup.png)
+
+Dicationary Popup  
+![Dictionary popup](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_popup.png)
 
 Dictionary.app  
 ![Dictionary.app](https://github.com/gingerbeardman/Emojipedia/blob/master/screenshot_dictionary_app.png)
