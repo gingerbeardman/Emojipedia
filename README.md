@@ -3,17 +3,23 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
 
+Pick one method of installation: Manually, Using Brew/Cask, or Dictionaries.app.
+
+### Using Dictionaries.app
+1. Download [Dictionaries.app](https://dictionaries.io) and run it
+2. Click "Add Dictionary" 
+3. Select Emojipedia
+4. Click "Add"
+
+### Using Brew/Cask
+1. Install using homebrew caskroom `brew cask install emojipedia`
+
 ### Manually
-- Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160808/Emojipedia.dictionary.zip) and unzip it
-- Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
-
-### Using Helper
-- Install using homebrew caskroom `brew cask install emojipedia`
-
-## Configuration
-1. Launch Dictionary.app
-2. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
-3. Optional: drag the *Emojipedia* dictionary entry to change the order of dictionaries
+1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160808/Emojipedia.dictionary.zip) and unzip it
+2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
+3. Launch Dictionary.app
+4. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
+5. Optional: drag the *Emojipedia* dictionary entry to change the order of dictionaries
 
 ---
 
