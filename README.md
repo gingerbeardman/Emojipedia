@@ -3,7 +3,7 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
 
-Pick one method of installation: Manually, Using Brew/Cask, or Dictionaries.app.
+Pick one method of installation: using Dictionaries.app, using Brew/Cask, or Manually.
 
 ### Using Dictionaries.app
 1. Download [Dictionaries.app](https://dictionaries.io) and run it
