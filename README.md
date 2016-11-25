@@ -3,7 +3,7 @@ Mac OS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
 
-Pick one method of installation: using Dictionaries.app, using Brew/Cask, or Manually.
+Pick one method of installation: using Dictionaries.app, Terminal, or Finder.
 
 ### Using Dictionaries.app
 1. Download [Dictionaries.app](https://dictionaries.io) and run it
@@ -11,10 +11,10 @@ Pick one method of installation: using Dictionaries.app, using Brew/Cask, or Man
 3. Select Emojipedia
 4. Click "Add"
 
-### Using Brew/Cask
+### Using Terminal (Brew/Cask)
 1. Install using homebrew caskroom `brew cask install emojipedia`
 
-### Manually
+### Using Finder (Manually)
 1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160808/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
