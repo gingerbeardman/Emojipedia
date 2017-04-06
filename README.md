@@ -46,7 +46,8 @@ Dictionary.app
 ---
 
 ## Status
-Number of Emoji included: 1791
+Number of Emoji included: 2623
+Emoji Data: v5
 
 Features: 
 * Emoji display

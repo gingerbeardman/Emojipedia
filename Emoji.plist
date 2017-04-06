@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Emojipedia</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1</string>
+	<string>20170406</string>
 	<key>DCSDictionaryCopyright</key>
 	<string>All emoji names are official character names and codepoints as part of the Unicode Standard. Additional descriptions are copyright © Emojipedia. Emoji character artwork and copyright belong to their respective font creators.</string>
 	<key>DCSDictionaryDefaultPrefs</key>
@@ -17,16 +17,16 @@
 		<key>version</key>
 		<string>20160717</string>
 	</dict>
-	<key>DCSDictionaryManufacturerName</key>
-	<string>Matt Sephton https://github.com/gingerbeardman/Emojipedia/</string>
 	<key>DCSDictionaryLanguages</key>
 	<array>
 		<dict>
-			<key>DCSDictionaryIndexLanguage</key>
-			<string>en</string>
 			<key>DCSDictionaryDescriptionLanguage</key>
+			<string>en</string>
+			<key>DCSDictionaryIndexLanguage</key>
 			<string>en</string>
 		</dict>
 	</array>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Matt Sephton https://github.com/gingerbeardman/Emojipedia/</string>
 </dict>
 </plist>

@@ -4,20 +4,22 @@ $excludes = array("of", "with", "and", "a", "for", "the", "or");
 $out[] = '<?xml version="1.0" encoding="UTF-16"?>';
 $out[] = '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">';
 
+// http://unicode.org/emoji/charts/emoji-list.html
 $contents = file_get_contents("emoji.txt");
-$all_emoji = explode("\n", $contents);
+$all_emoji = explode("\n", trim($contents));
 
 foreach ($all_emoji as $single) {
-  // №	Code	Browser	Sample	Name	Keywords
-  list($n, $unicode, $emoji, $img, $title, $aliases) = explode("\t", $single);
+	// №	Code	Sample	CLDR Short Name	Other Keywords
+	// 2255	U+1F530	🔰	Japanese symbol for beginner	Japanese | beginner | chevron | green | leaf | tool | yellow
+  list($n, $unicode, $emoji, $title, $aliases) = explode("\t", $single);
+
+  echo "$n: $title\n";
 
   $emoji = trim($emoji);
   $id = str_replace('U+','', $unicode);
-  
-  if (strpos($title, '≊') !== false) $title = str_replace('≊ ', '(', $title) . ')';
 
   $words_title = explode(' ', str_replace(array('-','(',')'), array(' ','',''), strtolower($title)));
-  $words_alias = explode(', ', $aliases);
+  $words_alias = explode(' | ', $aliases);
   if ($aliases == '') {
     $words_alias = $previous_aliases;
   } else {
@@ -66,7 +68,7 @@ $out[] = '  <d:index d:value="download" d:title="version"/>';
 $out[] = '  <d:index d:value="new" d:title="version"/>';
 $out[] = '  <d:index d:value="update" d:title="version"/>';
 $out[] = '  <d:index d:value="version" d:title="version"/>';
-$out[] = '  <h1>Version 2016-07-17</h1>';
+$out[] = '  <h1>Version 2017-04-06</h1>';
 $out[] = '  <h2></h2>';
 $out[] = '  <p>';
 $out[] = '    <a href="https://github.com/gingerbeardman/Emojipedia/releases/latest/">Download latest version of this dictionary</a>';
@@ -76,7 +78,7 @@ $out[] = '</d:dictionary>';
 
 $xml = implode("\n", $out);
 
-print($xml);
+// print($xml);
 
 file_put_contents("Emoji.xml", $xml);
 
@@ -110,6 +112,6 @@ function strtotitle($string, $delimiters = array(" ", "-", ".", "'", "O'", "Mc")
     $string = join($delimiter, $newwords);
   } //foreach
   return $string;
-} 
+}
 
 ?>
