@@ -15,7 +15,7 @@ Pick one method of installation: using Dictionaries.app, Terminal, or Finder.
 1. Install using homebrew caskroom `brew cask install emojipedia`
 
 ### Using Finder
-1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20160808/Emojipedia.dictionary.zip) and unzip it
+1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20170406/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
 4. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
