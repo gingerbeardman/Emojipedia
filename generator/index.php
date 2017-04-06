@@ -16,8 +16,10 @@ foreach ($all_emoji as $single) {
   $emoji = trim($emoji);
   $id = str_replace(array('U+',' '),array('',''), $unicode);
 
+  $title = str_replace(array('“','”','’'), array('\'','\'','\''), $title);
   $title = sentence_case($title);
-  $title = str_replace(array('“','”'), array('\'','\''), $title);
+  $title = preg_replace("/ '([^s]\w+)/e", '" \'".ucfirst("$1")',$title);
+
   $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
 
   $words_title = explode(' ', str_replace(array(' - ','-','(',')'), array(' ',' ','',''), strtolower($titleclean)));
@@ -93,13 +95,17 @@ function file_get_contents_utf8($fn) {
 
 function sentence_case($str){
     $words = explode(' ', $str);
-    foreach($words as $word) {
+    foreach($words as &$word) {
         if($word == strtoupper($word)){
             continue;
         }
         $word = mb_convert_case($word, MB_CASE_TITLE, "UTF-8");
     }
     return implode(' ', $words);
+}
+
+function ucsmart($text) {
+   return preg_replace('/([^a-z\']|^)([a-z])/e', '"$1".strtoupper("$2")', strtolower($text));
 }
 
 ?>
