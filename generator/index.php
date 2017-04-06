@@ -18,7 +18,6 @@ foreach ($all_emoji as $single) {
 
   $title = str_replace(array('“','”','’'), array('\'','\'','\''), $title);
   $title = sentence_case($title);
-  $title = preg_replace("/ '([^s]\w+)/e", '" \'".ucfirst("$1")',$title);
 
   $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
 
@@ -86,7 +85,7 @@ $xml = implode("\n", $out);
 
 // print($xml);
 
-file_put_contents("Emoji.xml", "\xEF\xBB\xBF".  $xml);
+file_put_contents("../Emoji.xml", "\xEF\xBB\xBF".  $xml);
 
 function file_get_contents_utf8($fn) {
  $content = file_get_contents($fn);
@@ -99,7 +98,13 @@ function sentence_case($str){
         if($word == strtoupper($word)){
             continue;
         }
-        $word = mb_convert_case($word, MB_CASE_TITLE, "UTF-8");
+
+        if(substr($word, 0, 1) == "'") {
+          //special case words starting with single quote
+          $word = "'". mb_convert_case(substr($word, 1), MB_CASE_TITLE, "UTF-8");
+        } else {
+          $word = mb_convert_case($word, MB_CASE_TITLE, "UTF-8");
+        }
     }
     return implode(' ', $words);
 }
