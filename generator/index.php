@@ -1,11 +1,11 @@
 <?php
 $excludes = array("of", "with", "and", "a", "for", "the", "or");
 
-$out[] = '<?xml version="1.0" encoding="UTF-16"?>';
+$out[] = '<?xml version="1.0" encoding="utf-8"?>';
 $out[] = '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">';
 
 // http://unicode.org/emoji/charts/emoji-list.html
-$contents = file_get_contents("emoji.txt");
+$contents = file_get_contents_utf8("emoji.txt");
 $all_emoji = explode("\n", trim($contents));
 
 foreach ($all_emoji as $single) {
@@ -13,13 +13,15 @@ foreach ($all_emoji as $single) {
 	// 2255	U+1F530	🔰	Japanese symbol for beginner	Japanese | beginner | chevron | green | leaf | tool | yellow
   list($n, $unicode, $emoji, $title, $aliases) = explode("\t", $single);
 
-  echo "$n: $title\n";
-
   $emoji = trim($emoji);
-  $id = str_replace('U+','', $unicode);
+  $id = str_replace(array('U+',' '),array('',''), $unicode);
 
-  $words_title = explode(' ', str_replace(array('-','(',')'), array(' ','',''), strtolower($title)));
-  $words_alias = explode(' | ', $aliases);
+  $title = sentence_case($title);
+  $title = str_replace(array('“','”'), array('\'','\''), $title);
+  $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
+
+  $words_title = explode(' ', str_replace(array(' - ','-','(',')'), array(' ',' ','',''), strtolower($titleclean)));
+  $words_alias = explode(' | ', str_replace(array('“','”'),'',$aliases));
   if ($aliases == '') {
     $words_alias = $previous_aliases;
   } else {
@@ -30,9 +32,11 @@ foreach ($all_emoji as $single) {
   sort($keywords);
   $keywords = array_diff($keywords, $excludes);
 
-  $title = strtotitle($title);
+  echo "$n:$id:$title:$titleclean\n";
 
-  $out[] = "<d:entry id=\"$id\" d:title=\"$title\">";
+  // if ($n == 2379) break; // debug
+
+  $out[] = "<d:entry id=\"$id\" d:title=\"$titleclean\">";
   $out[] = "  <d:index d:value=\"$emoji\"/>";
   $out[] = "  <d:index d:value=\"$title\" d:title=\"$emoji\"/>";
   foreach ($keywords as $word) {
@@ -80,38 +84,22 @@ $xml = implode("\n", $out);
 
 // print($xml);
 
-file_put_contents("Emoji.xml", $xml);
+file_put_contents("Emoji.xml", "\xEF\xBB\xBF".  $xml);
 
-function strtotitle($string, $delimiters = array(" ", "-", ".", "'", "O'", "Mc"), $exceptions = array("DVD", "of", "with", "without", "behind", "and", "a", "for", "the", "or" )) {
-  /*
-  * Exceptions in lower case are words you don't want converted
-  * Exceptions all in upper case are any words you don't want converted to title case
-  *   but should be converted to upper case, e.g.:
-  *   king henry viii or king henry Viii should be King Henry VIII
-  */
-  $string = mb_convert_case($string, MB_CASE_TITLE, "UTF-8");
+function file_get_contents_utf8($fn) {
+ $content = file_get_contents($fn);
+ return mb_convert_encoding($content, 'UTF-8', mb_detect_encoding($content, 'UTF-8, ISO-8859-1', true));
+}
 
-  foreach ($delimiters as $dlnr => $delimiter) {
-    $words = explode($delimiter, $string);
-    $newwords = array();
-    foreach ($words as $wordnr => $word){
-      if (in_array(mb_strtoupper($word, "UTF-8"), $exceptions)){
-        // check exceptions list for any words that should be in upper case
-        $word = mb_strtoupper($word, "UTF-8");
-      }
-      elseif (in_array(mb_strtolower($word, "UTF-8"), $exceptions)){
-        // check exceptions list for any words that should be in upper case
-        $word = mb_strtolower($word, "UTF-8");
-      }
-      elseif (!in_array($word, $exceptions) ){
-        // convert to uppercase (non-utf8 only)
-        $word = ucfirst($word);
-      }
-      array_push($newwords, $word);
+function sentence_case($str){
+    $words = explode(' ', $str);
+    foreach($words as $word) {
+        if($word == strtoupper($word)){
+            continue;
+        }
+        $word = mb_convert_case($word, MB_CASE_TITLE, "UTF-8");
     }
-    $string = join($delimiter, $newwords);
-  } //foreach
-  return $string;
+    return implode(' ', $words);
 }
 
 ?>
