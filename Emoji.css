@@ -22,6 +22,14 @@ h2 {
   font-weight: normal;
 }
 
+/* use much smaller size in Look Up to fit in space available for a definition */
+html.apple_client-panel h1 {
+  font-size: 2rem;
+}
+html.apple_client-panel h2 {
+  font-size: 1rem;
+}
+
 li {
   margin-bottom: 0.5rem;
 }
@@ -96,4 +104,11 @@ ul.tags li:after {
 
 ul.tags li:last-child:after {
   content: ".";
+}
+
+html.apple_client-panel body {
+  margin-top: 0px;
+  margin-left: 1em;
+  margin-bottom: 0px;
+  margin-right: 1em;
 }
