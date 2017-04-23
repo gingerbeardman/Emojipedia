@@ -22,6 +22,14 @@ h2 {
   font-weight: normal;
 }
 
+/* use much smaller size in Look Up to fit in space available for a definition */
+html.apple_client-panel h1 {
+  font-size: 2rem;
+}
+html.apple_client-panel h2 {
+  font-size: 1rem;
+}
+
 li {
   margin-bottom: 0.5rem;
 }
