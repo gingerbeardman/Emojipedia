@@ -97,3 +97,10 @@ ul.tags li:after {
 ul.tags li:last-child:after {
   content: ".";
 }
+
+html.apple_client-panel body {
+  margin-top: 0px;
+  margin-left: 1em;
+  margin-bottom: 0px;
+  margin-right: 1em;
+}
