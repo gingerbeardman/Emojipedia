@@ -18,6 +18,7 @@ foreach ($all_emoji as $single) {
 
   $title = str_replace(array('“','”','’'), array('\'','\'','\''), $title);
   $title = sentence_case($title);
+  $title = htmlspecialchars($title);
 
   $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
 
