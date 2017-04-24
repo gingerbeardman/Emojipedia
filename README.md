@@ -7,7 +7,7 @@ Pick one method of installation: using Dictionaries.app, Terminal, or Finder.
 
 ### Using Dictionaries.app
 1. Download [Dictionaries.app](https://dictionaries.io) and run it
-2. Click "Add Dictionary" 
+2. Click "Add Dictionary"
 3. Select Emojipedia
 4. Click "Add"
 
@@ -15,7 +15,7 @@ Pick one method of installation: using Dictionaries.app, Terminal, or Finder.
 1. Install using homebrew caskroom `brew cask install emojipedia`
 
 ### Using Finder
-1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20170406/Emojipedia.dictionary.zip) and unzip it
+1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20170424/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
 4. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
@@ -49,7 +49,7 @@ Dictionary.app
 Number of Emoji included: 2623  
 Emoji Data: v5
 
-Features: 
+Features:
 * Emoji display
 * Descriptive name
 * Hyperlinked keywords
@@ -64,7 +64,7 @@ Features:
 
 ## Editing the dictionary
 
-The following steps are only required if you wish to modify the dictonary. 
+The following steps are only required if you wish to modify the dictonary.
 
 Feel free to send Pull Requests for items on the todo list!
 

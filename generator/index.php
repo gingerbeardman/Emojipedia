@@ -74,7 +74,7 @@ $out[] = '  <d:index d:value="download" d:title="version"/>';
 $out[] = '  <d:index d:value="new" d:title="version"/>';
 $out[] = '  <d:index d:value="update" d:title="version"/>';
 $out[] = '  <d:index d:value="version" d:title="version"/>';
-$out[] = '  <h1>Version 2017-04-06</h1>';
+$out[] = '  <h1>Version 2017-04-24</h1>';
 $out[] = '  <h2></h2>';
 $out[] = '  <p>';
 $out[] = '    <a href="https://github.com/gingerbeardman/Emojipedia/releases/latest/">Download latest version of this dictionary</a>';
