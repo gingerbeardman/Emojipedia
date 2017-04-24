@@ -44,7 +44,7 @@ a:hover {
   text-decoration: underline;
 }
 
-h1, h1:hover {
+h1, h1 span:hover {
   text-decoration: none;
 }
 
