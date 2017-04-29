@@ -18,7 +18,6 @@ foreach ($all_emoji as $single) {
 
   $title = str_replace(array('“','”','’'), array('\'','\'','\''), $title);
   $title = sentence_case($title);
-  $title = htmlspecialchars($title);
 
   $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
 
@@ -36,20 +35,23 @@ foreach ($all_emoji as $single) {
 
   echo "$n:$id:$title:$titleclean\n";
 
+  $title = htmlspecialchars($title, ENT_XML1);
+  $titleclean = htmlspecialchars($titleclean, ENT_XML1);
+
   // if ($n == 2379) break; // debug
 
   $out[] = "<d:entry id=\"$id\" d:title=\"$titleclean\">";
   $out[] = "  <d:index d:value=\"$emoji\"/>";
   $out[] = "  <d:index d:value=\"$title\" d:title=\"$emoji\"/>";
   foreach ($keywords as $word) {
-    $out[] = "  <d:index d:value=\"$word\" d:title=\"$emoji\"/>";
+    $out[] = "  <d:index d:value=\"" . htmlspecialchars($word, ENT_XML1) . "\" d:title=\"$emoji\"/>";
   }
   $out[] = "  <h1>$emoji</h1>";
   $out[] = "  <h2>$title</h2>";
   // $out[] = "  <p>$unicode</p>";
   $out[] = "  <ul class=\"tags\">";
   foreach ($words_alias as $tag) {
-    $out[] = "  <li>$tag</li>";
+    $out[] = "  <li>" . htmlspecialchars($tag, ENT_XML1) . "</li>";
   }
   $out[] = "  </ul>";
   $out[] = "  <p><a href=\"http://📙.la/$emoji/\">More at Emojipedia</a></p>";
