@@ -22,7 +22,7 @@ foreach ($all_emoji as $single) {
 
   $titleclean = iconv('UTF-8','ASCII//TRANSLIT',$title);;
 
-  $words_title = explode(' ', str_replace(array(' - ','-','(',')'), array(' ',' ','',''), strtolower($titleclean)));
+  $words_title = explode(' ', str_replace(array(' - ','-',' & ','(',')'), array(' ',' ',' ','',''), strtolower($titleclean)));
   $words_alias = explode(' | ', str_replace(array('“','”'),'',$aliases));
   if ($aliases == '') {
     $words_alias = $previous_aliases;
