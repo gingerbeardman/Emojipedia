@@ -8,6 +8,7 @@
 
 # You need to edit these values.
 
+GENERATOR_SCRIPT_PATH		=	generator/index.php
 DICT_NAME		=	Emojipedia
 DICT_SRC_PATH		=	Emoji.xml
 CSS_PATH		=	Emoji.css
@@ -22,7 +23,7 @@ DICT_BUILD_OPTS		=
 # The DICT_BUILD_TOOL_DIR value is used also in "build_dict.sh" script.
 # You need to set it when you invoke the script directly.
 
-DICT_BUILD_TOOL_DIR	=	"/Applications/Auxiliary Tools/Dictionary Development Kit"
+DICT_BUILD_TOOL_DIR	=	"/Applications/Additional Tools/Utilities/Dictionary Development Kit"
 DICT_BUILD_TOOL_BIN	=	"$(DICT_BUILD_TOOL_DIR)/bin"
 
 ###########################
@@ -37,6 +38,9 @@ RM			=	/bin/rm
 ###########################
 
 all: build
+
+generate:
+	php $(GENERATOR_SCRIPT_PATH)
 
 build: $(DICTIONARY_BUNDLE)
 
@@ -54,7 +58,7 @@ install: build
 	@echo "To test the new dictionary, try Dictionary.app."
 
 clean:
-	$(RM) $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
+	$(RM) -r $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
 
 .PHONY: all build install clean
