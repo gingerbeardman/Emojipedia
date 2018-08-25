@@ -8,6 +8,7 @@
 
 # You need to edit these values.
 
+GENERATOR_SCRIPT_PATH		=	generator/index.php
 DICT_NAME		=	Emojipedia
 DICT_SRC_PATH		=	Emoji.xml
 CSS_PATH		=	Emoji.css
@@ -38,6 +39,9 @@ RM			=	/bin/rm
 
 all: build
 
+generate:
+	php $(GENERATOR_SCRIPT_PATH)
+
 build: $(DICTIONARY_BUNDLE)
 
 $(DICTIONARY_BUNDLE): $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
@@ -54,7 +58,7 @@ install: build
 	@echo "To test the new dictionary, try Dictionary.app."
 
 clean:
-	$(RM) $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
+	$(RM) -r $(DICT_DEV_KIT_OBJ_DIR)/$(DICT_NAME).dictionary
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
 
 .PHONY: all build install clean

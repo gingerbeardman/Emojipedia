@@ -5,7 +5,7 @@ $out[] = '<?xml version="1.0" encoding="utf-8"?>';
 $out[] = '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">';
 
 // http://unicode.org/emoji/charts/emoji-list.html
-$contents = file_get_contents_utf8("emoji.txt");
+$contents = file_get_contents_utf8("./generator/emoji.txt");
 $all_emoji = explode("\n", trim($contents));
 
 foreach ($all_emoji as $single) {
@@ -88,7 +88,7 @@ $xml = implode("\n", $out);
 
 // print($xml);
 
-file_put_contents("../Emoji.xml", "\xEF\xBB\xBF".  $xml);
+file_put_contents("./Emoji.xml", "\xEF\xBB\xBF".  $xml);
 
 function file_get_contents_utf8($fn) {
  $content = file_get_contents($fn);

@@ -80,15 +80,23 @@ Feel free to send Pull Requests for items on the todo list!
 
 ### Requirements
 
-[Additional Tools for Xcode](https://developer.apple.com/download/more/)(download the one fit your Xcode's version) (contains the Dictionary Development Kit)
+* php
+* [Additional Tools for Xcode](https://developer.apple.com/download/more/)(download the one fit your Xcode's version) (contains the Dictionary Development Kit)
+
+### Preparing
+
+1. Copy contents of `Additional_Tools_for_Xcode_x.x.dmg` to `/Applications/Additional Tools/`
+2. Download this project and unzip
+
+### Editing
+
+Edit the `generator/emoji.txt` file as you wish.
 
 ### Building
 
-1. Copy contents of `Auxiliary_Tools_for_Xcode_7.dmg` to `/Applications/Auxiliary Tools/`
-2. Download this project and unzip
-3. Open Terminal and cd to project directory
-4. Run `build.sh` (this will build and install the dictionary)
-5. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary (only required once)
+1. Open Terminal and cd to project directory
+2. Run `build.sh` (this will build and install the dictionary)
+3. In Dictionary > Preferences, scroll to the bottom of the list and activate the *Emojipedia* dictionary (only required once)
 
 #### References
 
