@@ -1,6 +1,6 @@
 # Emojipedia
 
-Mac OS X Dictionary containing Emoji and their meanings
+MacOS X Dictionary containing Emoji and their meanings
 
 ## Installing the dictionary
 
