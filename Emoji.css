@@ -1,10 +1,15 @@
 @charset "UTF-8";
 @namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
+html {
+  background: transparent !important;
+}
+
 body {
   font-family: -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
   font-size: 62.5%;
   font-size: 0.9em;
+  color: text;
 }
 html.apple_client-panel a, html.apple_client-panel ul.tags {
 	display: none;
@@ -36,6 +41,7 @@ li {
 
 a {
   color: #2971A7;
+  color: -webkit-link;
 /*  font-weight: bold;*/
   text-decoration: none;
 }
