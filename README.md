@@ -54,8 +54,8 @@ Dictionary.app
 
 ## Status
 
-Number of Emoji included: 1719
-Emoji Data: v12
+Number of Emoji included: 1719  
+Emoji Data: v12  
 
 Features:
 
