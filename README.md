@@ -22,7 +22,7 @@ Pick one method of installation: using Dictionaries.app, Terminal, or Finder.
 
 ### Using Finder
 
-1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20170424/Emojipedia.dictionary.zip) and unzip it
+1. Download [Emojipedia.dictionary.zip](https://github.com/gingerbeardman/Emojipedia/releases/download/20190306/Emojipedia.dictionary.zip) and unzip it
 2. Copy `Emojipedia.dictionary` to `~/Library/Dictionaries`
 3. Launch Dictionary.app
 4. In Dictionary > Preferences, scroll to the bottom of the list and check the *Emojipedia* dictionary to enable it
