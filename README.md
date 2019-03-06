@@ -54,8 +54,8 @@ Dictionary.app
 
 ## Status
 
-Number of Emoji included: 2623
-Emoji Data: v5
+Number of Emoji included: 1719
+Emoji Data: v12
 
 Features:
 
@@ -69,6 +69,7 @@ Features:
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
 * Add translations
 * Add language toggle
+* Transition to use Emoji Data instead of copy/pasted HTML table
 
 ---
 
