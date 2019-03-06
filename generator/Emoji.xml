@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<d:entry id="" d:title="">
+  <d:index d:value=""/>
+  <d:index d:value="" d:title=""/>
+  <h1></h1>
+  <h2></h2>
+  <ul class="tags">
+  </ul>
+  <p><a href="http://📙.la//">More at Emojipedia</a></p>
+</d:entry>
+<d:entry id="version" d:title="Version">
+  <d:index d:value="download" d:title="version"/>
+  <d:index d:value="new" d:title="version"/>
+  <d:index d:value="update" d:title="version"/>
+  <d:index d:value="version" d:title="version"/>
+  <h1>Version 2017-04-24</h1>
+  <h2></h2>
+  <p>
+    <a href="https://github.com/gingerbeardman/Emojipedia/releases/latest/">Download latest version of this dictionary</a>
+  </p>
+</d:entry>
+</d:dictionary>
