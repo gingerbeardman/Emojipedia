@@ -69,7 +69,7 @@ Features:
 * Add long descriptions and other data provided by [Emojipedia](http://emojipedia.org)
 * Add translations
 * Add language toggle
-* Transition to use Emoji Data instead of copy/pasted HTML table
+* Transition to use [Emoji Data](http://www.unicode.org/Public/emoji/12.0/) instead of copy/pasted [HTML table](http://unicode.org/emoji/charts/emoji-list.html)
 
 ---
 
