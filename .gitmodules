@@ -1,3 +1,6 @@
 [submodule "cldr"]
 	path = cldr
 	url = https://github.com/unicode-org/cldr
+[submodule "generator/cldr"]
+	path = generator/cldr
+	url = https://github.com/unicode-org/cldr
